@@ -50,10 +50,6 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 		return true
 	end
 
-	local player2 = Tile(Position({x = 33081, y = 31014, z = 2})):getTopCreature()
-		return true
-	end
-
 	if player1:getStorageValue(Storage.TheNewFrontier.Questline) ~= 25 then
 		player1:sendTextMessage(MESSAGE_STATUS_SMALL, 'You already finished this battle.')
 		return true
@@ -68,8 +64,6 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	addEvent(clearArena, 30 * 60 * 1000)
 	player1:teleportTo(config.teleportPositions[1])
 	player1:getPosition():sendMagicEffect(CONST_ME_TELEPORT)
-	player2:teleportTo(config.teleportPositions[2])
-	player2:getPosition():sendMagicEffect(CONST_ME_TELEPORT)
 
 	for i = 1, #config.bosses do
 		for j = 1, #config.bosses[i] do

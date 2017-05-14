@@ -51,7 +51,6 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	end
 
 	local player2 = Tile(Position({x = 33081, y = 31014, z = 2})):getTopCreature()
-	if not(player2 and player2:isPlayer()) then
 		return true
 	end
 

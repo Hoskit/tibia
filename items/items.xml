@@ -3236,7 +3236,7 @@
 		<attribute key="description" value="It's the Sword of Valor." />
 		<attribute key="weight" value="4200" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="65" />
+		<attribute key="attack" value="69" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
 	</item>

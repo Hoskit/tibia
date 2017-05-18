@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7dff951e-b025-448d-bada-6a1ee75f1527" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/XML/vocations.xml" afterPath="$PROJECT_DIR$/XML/vocations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/berserk.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/berserk.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/front sweep.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/front sweep.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua" afterPath="$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/support/blood rage.lua" afterPath="$PROJECT_DIR$/spells/scripts/support/blood rage.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/support/charge.lua" afterPath="$PROJECT_DIR$/spells/scripts/support/charge.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/support/ultimate light.lua" afterPath="$PROJECT_DIR$/spells/scripts/support/ultimate light.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/spells.xml" afterPath="$PROJECT_DIR$/spells/spells.xml" />
-    </list>
+    <list default="true" id="7dff951e-b025-448d-bada-6a1ee75f1527" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stages.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XML/stages.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="items.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/items/items.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intense wound cleansing.lua" pinned="false" current-in-tab="true">
+      <file leaf-file-name="intense wound cleansing.lua" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weapons.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weapons/weapons.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="683" column="0" lean-forward="true" selection-start-line="683" selection-start-column="0" selection-end-line="683" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -675,7 +665,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -911,6 +901,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weapons/weapons.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="683" column="0" lean-forward="true" selection-start-line="683" selection-start-column="0" selection-end-line="683" selection-end-column="0" />
           <folding />
         </state>
       </provider>

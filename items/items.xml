@@ -2925,8 +2925,10 @@
 	<item id="2342" article="a" name="helmet of the ancients">
 		<attribute key="description" value="The gem of the helmet is burned out and should be replaced." />
 		<attribute key="weight" value="2760" />
-		<attribute key="armor" value="8" />
+		<attribute key="armor" value="27" />
 		<attribute key="slotType" value="head" />
+		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentMagic" value="10" />
 	</item>
 	<item id="2343" article="a" name="helmet of the ancients">
 		<attribute key="description" value="The gem is glowing with power." />
@@ -3659,8 +3661,11 @@
 	</item>
 	<item id="2462" article="a" name="devil helmet">
 		<attribute key="weight" value="5000" />
-		<attribute key="armor" value="7" />
+		<attribute key="armor" value="24" />
 		<attribute key="slotType" value="head" />
+		<attribute key="absorbPercentIce" value="20" />
+		<attribute key="absorbPercentEarth" value="20" />
+		<attribute key="absorbPercentEnergy" value="20" />
 	</item>
 	<item id="2463" article="a" name="plate armor">
 		<attribute key="weight" value="12000" />
@@ -3699,10 +3704,10 @@
 	</item>
 	<item id="2470" name="golden legs">
 		<attribute key="weight" value="5600" />
-		<attribute key="armor" value="24" />
+		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentFire" value="20" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="8" />
 	</item>
 	<item id="2471" article="a" name="golden helmet">
 		<attribute key="description" value="It's the famous Helmet of the Stars." />
@@ -3712,9 +3717,9 @@
 	</item>
 	<item id="2472" article="a" name="magic plate armor">
 		<attribute key="weight" value="8500" />
-		<attribute key="armor" value="34" />
+		<attribute key="armor" value="30" />
 		<attribute key="slotType" value="body" />
-		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentPhysical" value="12" />
 	</item>
 	<item id="2473" article="a" name="viking helmet">
 		<attribute key="weight" value="3900" />
@@ -3794,8 +3799,9 @@
 	</item>
 	<item id="2488" name="crown legs">
 		<attribute key="weight" value="6500" />
-		<attribute key="armor" value="8" />
+		<attribute key="armor" value="18" />
 		<attribute key="slotType" value="legs" />
+		<attribute key="absorbPercentMagic" value="10" />
 	</item>
 	<item id="2489" article="a" name="dark armor">
 		<attribute key="weight" value="12000" />
@@ -3809,21 +3815,22 @@
 	</item>
 	<item id="2491" article="a" name="crown helmet">
 		<attribute key="weight" value="2950" />
-		<attribute key="armor" value="7" />
+		<attribute key="armor" value="17" />
 		<attribute key="slotType" value="head" />
+		<attribute key="absorbPercentPhysical" value="5" />
+		<attribute key="absorbPercentMagic" value="10" />
 	</item>
 	<item id="2492" article="a" name="dragon scale mail">
 		<attribute key="weight" value="11400" />
 		<attribute key="armor" value="20" />
 		<attribute key="slotType" value="body" />
-		<attribute key="absorbPercentPhysical" value="10" />
-		<attribute key="absorbPercentFire" value="20" />
+		<attribute key="absorbPercentFire" value="25" />
 	</item>
 	<item id="2493" article="a" name="demon helmet">
 		<attribute key="description" value="You hear an evil whispering from inside." />
 		<attribute key="weight" value="2950" />
-		<attribute key="armor" value="49" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="armor" value="29" />
+		<attribute key="absorbPercentPhysical" value="7" />
 		<attribute key="absorbPercentFire" value="10" />
 		<attribute key="slotType" value="head" />
 	</item>
@@ -3834,8 +3841,9 @@
 	</item>
 	<item id="2495" name="demon legs">
 		<attribute key="weight" value="7000" />
-		<attribute key="armor" value="39" />
+		<attribute key="armor" value="23" />
 		<attribute key="slotType" value="legs" />
+		<attribute key="absorbPercentPhysical" value="8" />
 	</item>
 	<item id="2496" article="a" name="horned helmet">
 		<attribute key="weight" value="5100" />
@@ -3850,7 +3858,7 @@
 	<item id="2498" article="a" name="royal helmet">
 		<attribute key="description" value="An excellent masterpiece of a smith." />
 		<attribute key="weight" value="4800" />
-		<attribute key="armor" value="21" />
+		<attribute key="armor" value="19" />
 		<attribute key="slotType" value="head" />
 	</item>
 	<item id="2499" article="an" name="amazon helmet">
@@ -15734,26 +15742,23 @@
 	</item>
 	<item id="8881" article="a" name="fireborn giant armor">
 		<attribute key="weight" value="12000" />
-		<attribute key="armor" value="23" />
-		<attribute key="skillSword" value="100" />
-		<attribute key="absorbPercentFire" value="10" />
-		<attribute key="absorbPercentIce" value="10" />
+		<attribute key="armor" value="26" />
+		<attribute key="skillSword" value="40" />
+		<attribute key="absorbPercentMagic" value="15" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8882" article="an" name="earthborn titan armor">
 		<attribute key="weight" value="12000" />
 		<attribute key="slotType" value="body" />
-		<attribute key="armor" value="15" />
-		<attribute key="skillAxe" value="2" />
-		<attribute key="absorbPercentEarth" value="5" />
-		<attribute key="absorbPercentFire" value="-5" />
+		<attribute key="armor" value="26" />
+		<attribute key="skillAxe" value="40" />
+		<attribute key="absorbPercentMagic" value="15" />
 	</item>
 	<item id="8883" article="a" name="windborn colossus armor">
 		<attribute key="weight" value="12000" />
-		<attribute key="armor" value="15" />
-		<attribute key="absorbPercentEnergy" value="5" />
-		<attribute key="absorbPercentEarth" value="-5" />
-		<attribute key="skillClub" value="2" />
+		<attribute key="armor" value="26" />
+		<attribute key="absorbPercentMagic" value="15" />
+		<attribute key="skillClub" value="40" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8884" article="an" name="oceanborn leviathan armor">
@@ -16011,7 +16016,7 @@
 		<attribute key="defense" value="35" />
 		<attribute key="attack" value="98" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="12" />
+		<attribute key="extradef" value="50" />
 	</item>
 	<item id="8932" name="the calamity">
 		<attribute key="weight" value="6800" />
@@ -16925,9 +16930,10 @@
 	</item>
 	<item id="9776" article="a" name="yalahari armor">
 		<attribute key="weight" value="7000" />
-		<attribute key="armor" value="28" />
+		<attribute key="armor" value="23" />
 		<attribute key="slotType" value="body" />
-		<attribute key="absorbPercentDeath" value="10" />
+		<attribute key="absorbPercentDeath" value="15" />
+		<attribute key="absorbPercentPhysical" value="4" />		
 	</item>
 	<item id="9777" article="a" name="yalahari leg piece">
 		<attribute key="weight" value="6500" />
@@ -19665,7 +19671,7 @@
 	</item>
 	<item id="11302" article="a" name="Zaoan helmet">
 		<attribute key="weight" value="6600" />
-		<attribute key="armor" value="35" />
+		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="head" />
 		<attribute key="absorbPercentDeath" value="18" />
 		<attribute key="absorbPercentIce" value="15" />
@@ -19673,17 +19679,17 @@
 	</item>
 	<item id="11303" article="a" name="Zaoan shoes">
 		<attribute key="weight" value="700" />
-		<attribute key="armor" value="5" />
+		<attribute key="armor" value="7" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="speed" value="100" />
 	</item>
 	<item id="11304" article="a" name="Zaoan legs">
 		<attribute key="weight" value="6600" />
-		<attribute key="armor" value="20" />
+		<attribute key="armor" value="18" />
 		<attribute key="slotType" value="legs" />
-		<attribute key="absorbPercentDeath" value="10" />
-		<attribute key="absorbPercentEarth" value="10" />
-		<attribute key="absorbPercentIce" value="10" />
+		<attribute key="absorbPercentDeath" value="20" />
+		<attribute key="absorbPercentEarth" value="20" />
+		<attribute key="absorbPercentIce" value="20" />
 	</item>
 	<item id="11305" article="a" name="drakinata">
 		<attribute key="weight" value="5400" />
@@ -20984,9 +20990,9 @@
 	</item>
 	<item id="12607" article="an" name="elite draken mail">
 		<attribute key="weight" value="12000" />
-		<attribute key="armor" value="15" />
+		<attribute key="armor" value="25" />
 		<attribute key="slotType" value="body" />
-		<attribute key="speed" value="20" />
+		<attribute key="speed" value="30" />
 	</item>
 	<item id="12608" article="a" name="broken key ring">
 		<attribute key="weight" value="50" />
@@ -21129,17 +21135,17 @@
 	</item>
 	<item id="12642" article="a" name="royal draken mail">
 		<attribute key="weight" value="13000" />
-		<attribute key="armor" value="30" />
+		<attribute key="armor" value="27" />
 		<attribute key="slotType" value="body" />
-		<attribute key="skillShield" value="3" />
-		<attribute key="absorbPercentPhysical" value="5" />
+		<attribute key="skillShield" value="30" />
+		<attribute key="absorbPercentPhysical" value="15" />
 	</item>
 	<item id="12643" article="a" name="royal scale robe">
 		<attribute key="weight" value="4500" />
-		<attribute key="armor" value="12" />
+		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="body" />
-		<attribute key="magiclevelpoints" value="2" />
-		<attribute key="absorbPercentFire" value="5" />
+		<attribute key="magiclevelpoints" value="40" />
+		<attribute key="absorbPercentFire" value="9" />
 	</item>
 	<item id="12644" article="a" name="shield of corruption">
 		<attribute key="weight" value="4900" />
@@ -23606,10 +23612,11 @@
 	</item>
 	<item id="15406" article="an" name="ornate chestplate">
 		<attribute key="weight" value="15600" />
-		<attribute key="armor" value="23" />
+		<attribute key="armor" value="28" />
 		<attribute key="slotType" value="body" />
-		<attribute key="skillShield" value="3" />
-		<attribute key="absorbPercentPhysical" value="8" />
+		<attribute key="skillShield" value="34" />
+		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentMagic" value="10" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15407" article="a" name="depth lorica">
@@ -23653,7 +23660,7 @@
 	</item>
 	<item id="15412" article="an" name="ornate legs">
 		<attribute key="weight" value="7700" />
-		<attribute key="armor" value="28" />
+		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentPhysical" value="15" />
 		<attribute key="showattributes" value="1" />
@@ -25058,15 +25065,15 @@
 	</item>
 	<item id="18403" article="a" name="prismatic helmet">
 		<attribute key="weight" value="5600" />
-		<attribute key="armor" value="43" />
+		<attribute key="armor" value="24" />
 		<attribute key="slotType" value="head" />
-		<attribute key="absorbPercentPhysical" value="10" />
-		<attribute key="skillShield" value="100" />
+		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="skillShield" value="50" />
 	</item>
 	<item id="18404" article="a" name="prismatic armor">
 		<attribute key="weight" value="7900" />
-		<attribute key="armor" value="15" />
-		<attribute key="absorbPercentPhysical" value="5" />
+		<attribute key="armor" value="25" />
+		<attribute key="absorbPercentPhysical" value="15" />
 		<attribute key="slotType" value="body" />
 		<attribute key="speed" value="30" />
 	</item>

@@ -3163,7 +3163,7 @@
 		<attribute key="description" value="It's the magic Cyclopmania Sword." />
 		<attribute key="weight" value="4300" />
 		<attribute key="defense" value="40" />
-		<attribute key="attack" value="120" />
+		<attribute key="attack" value="200" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -3211,7 +3211,7 @@
 		<attribute key="defense" value="1" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="elementIce" value="518" />
-		<attribute key="charges" value="1" />
+		<attribute key="charges" value="10" />
 	</item>
 	<item id="2397" article="a" name="longsword">
 		<attribute key="weight" value="4200" />
@@ -3236,7 +3236,7 @@
 		<attribute key="description" value="It's the Sword of Valor." />
 		<attribute key="weight" value="4200" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="100" />
+		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
 	</item>
@@ -3289,7 +3289,7 @@
 		<attribute key="description" value="Strong powers flow in this magic sword." />
 		<attribute key="weight" value="6400" />
 		<attribute key="defense" value="48" />
-		<attribute key="attack" value="236" />
+		<attribute key="attack" value="86" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -11245,7 +11245,7 @@
 		<attribute key="description" value="This holy blade was forged of shattered dreams." />
 		<attribute key="weight" value="6400" />
 		<attribute key="defense" value="38" />
-		<attribute key="attack" value="185" />
+		<attribute key="attack" value="94" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -12493,7 +12493,7 @@
 	<item id="7405" article="a" name="havoc blade">
 		<attribute key="weight" value="7200" />
 		<attribute key="defense" value="34" />
-		<attribute key="attack" value="102" />
+		<attribute key="attack" value="104" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -21178,9 +21178,9 @@
 	<item id="12649" article="a" name="blade of corruption">
 		<attribute key="weight" value="6400" />
 		<attribute key="defense" value="29" />
-		<attribute key="attack" value="90" />
+		<attribute key="attack" value="79" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="2" />
+		<attribute key="extradef" value="3" />
 	</item>
 	<item id="12650" article="a" name="snake god trophy">
 		<attribute key="weight" value="500" />
@@ -25364,10 +25364,10 @@
 	<item id="18465" article="a" name="shiny blade">
 		<attribute key="weight" value="4500" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="160" />
+		<attribute key="attack" value="90" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="20" />
-		<attribute key="skillSword" value="50" />
+		<attribute key="skillSword" value="30" />
 	</item>
 	<item id="18466" article="a" name="dead crystal golem">
 		<attribute key="containerSize" value="25" />
@@ -29516,43 +29516,43 @@
 	<item id="22398" article="a" name="crude umbral blade">
 		<attribute key="weight" value="6300" />
 		<attribute key="defense" value="26" />
-		<attribute key="attack" value="90" />
+		<attribute key="attack" value="69" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="22399" article="a" name="umbral blade">
 		<attribute key="weight" value="5900" />
 		<attribute key="defense" value="29" />
-		<attribute key="attack" value="100" />
+		<attribute key="attack" value="79" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
 	<item id="22400" article="a" name="umbral masterblade">
 		<attribute key="weight" value="5500" />
-		<attribute key="defense" value="31" />
-		<attribute key="attack" value="108" />
+		<attribute key="defense" value="99" />
+		<attribute key="attack" value="" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="3" />
-		<attribute key="skillSword" value="1" />
+		<attribute key="extradef" value="30" />
+		<attribute key="skillSword" value="50" />
 	</item>
 	<item id="22401" article="a" name="crude umbral slayer">
 		<attribute key="weight" value="10000" />
 		<attribute key="defense" value="29" />
-		<attribute key="attack" value="188" />
+		<attribute key="attack" value="118" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="22402" article="a" name="umbral slayer">
 		<attribute key="weight" value="9500" />
 		<attribute key="defense" value="31" />
-		<attribute key="attack" value="202" />
+		<attribute key="attack" value="132" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="22403" article="a" name="umbral master slayer">
 		<attribute key="weight" value="9000" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="208" />
+		<attribute key="attack" value="158" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillSword" value="3" />
 		<attribute key="slotType" value="two-handed" />

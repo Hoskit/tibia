@@ -5,8 +5,8 @@ combat:setParameter(COMBAT_PARAM_AGGRESSIVE, 0)
 combat:setParameter(COMBAT_PARAM_DISPEL, CONDITION_PARALYZE)
 
 function onGetFormulaValues(player, level, maglevel)
-	min = ((level) + (maglevel * 100) + 438)
-	max = ((level) + (maglevel * 180) + 544)
+	min = ((level * 2) + (maglevel * 100) + 438)
+	max = ((level * 2) + (maglevel * 180) + 544)
 	return min, max
 end
 

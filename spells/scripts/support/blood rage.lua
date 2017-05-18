@@ -1,5 +1,5 @@
 local condition = Condition(CONDITION_ATTRIBUTES)
-condition:setParameter(CONDITION_PARAM_TICKS, 100000)
+condition:setParameter(CONDITION_PARAM_TICKS, 50000)
 condition:setParameter(CONDITION_PARAM_SKILL_MELEEPERCENT, 200)
 condition:setParameter(CONDITION_PARAM_SKILL_SHIELDPERCENT, 100)
 condition:setParameter(CONDITION_PARAM_BUFF_SPELL, true)

@@ -7,11 +7,13 @@ combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_BURSTARROW)
 combat:setFormula(COMBAT_FORMULA_SKILL, 1, 0, 1, 0)
 
 local area = createCombatArea({
-	{1, 1, 1, 1, 1},
-	{1, 1, 1, 1, 1},
-	{1, 1, 3, 1, 1},
-	{1, 1, 1, 1, 1},
-	{1, 1, 1, 1, 1}
+	{1, 1, 1, 1, 1, 1, 1, 1, 1},
+	{1, 1, 1, 1, 1, 1, 1, 1, 1},
+	{1, 1, 1, 1, 1, 1, 1, 1, 1},
+	{1, 1, 1, 1, 3, 1, 1, 1, 1},
+	{1, 1, 1, 1, 1, 1, 1, 1, 1},
+	{1, 1, 1, 1, 1, 1, 1, 1, 1},
+	{1, 1, 1, 1, 1, 1, 1, 1, 1}
 })
 combat:setArea(area)
 

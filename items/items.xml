@@ -3432,8 +3432,9 @@
 	<item id="2428" article="an" name="orcish axe">
 		<attribute key="weight" value="4500" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="23" />
+		<attribute key="attack" value="33" />
 		<attribute key="weaponType" value="sword" />
+        <attribute key="elementEnergy" value="47" />
 	</item>
 	<item id="2429" article="a" name="barbarian axe">
 		<attribute key="weight" value="5100" />
@@ -3460,11 +3461,11 @@
 	<item id="2432" article="a" name="fire axe">
 		<attribute key="description" value="The blade is a magic flame." />
 		<attribute key="weight" value="4000" />
-		<attribute key="defense" value="16" />
-		<attribute key="attack" value="27" />
-		<attribute key="elementFire" value="11" />
+		<attribute key="defense" value="36" />
+		<attribute key="attack" value="37" />
+		<attribute key="elementFire" value="41" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="1" />
+		<attribute key="extradef" value="22" />
 	</item>
 	<item id="2433" article="an" name="enchanted staff">
 		<attribute key="description" value="Temporary magic powers enchant this staff." />
@@ -12606,6 +12607,7 @@
 		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="-3" />
+        <attribute key="elementEnergy" value="47" />
 	</item>
 	<item id="7420" article="a" name="reaper's axe">
 		<attribute key="weight" value="5900" />

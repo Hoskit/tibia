@@ -12550,10 +12550,11 @@
 	</item>
 	<item id="7412" article="a" name="butcher's axe">
 		<attribute key="weight" value="6300" />
-		<attribute key="defense" value="24" />
-		<attribute key="attack" value="41" />
+		<attribute key="defense" value="34" />
+		<attribute key="attack" value="7" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="-2" />
+		<attribute key="extradef" value="20" />
+        <attribute key="elementEnergy" value="107" />
 	</item>
 	<item id="7413" article="a" name="titan axe">
 		<attribute key="weight" value="8100" />
@@ -12616,15 +12617,17 @@
 	<item id="7421" article="an" name="onyx flail">
 		<attribute key="weight" value="2600" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="45" />
+		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
+        <attribute key="elementFire" value="54" />
 	</item>
 	<item id="7422" article="a" name="jade hammer">
 		<attribute key="weight" value="3200" />
-		<attribute key="defense" value="20" />
-		<attribute key="attack" value="46" />
+		<attribute key="defense" value="40" />
+		<attribute key="attack" value="7" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="1" />
+		<attribute key="extradef" value="30" />
+        <attribute key="elementEarth" value="103" />
 	</item>
 	<item id="7423" article="a" name="skullcrusher">
 		<attribute key="weight" value="12000" />
@@ -23874,8 +23877,9 @@
 	</item>
 	<item id="15492" article="a" name="hive scythe">
 		<attribute key="weight" value="7500" />
-		<attribute key="attack" value="46" />
+		<attribute key="attack" value="44" />
 		<attribute key="defense" value="24" />
+        <attribute key="elementEnergy" value="51" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	<item id="15497" article="a" name="dead deepling worker">
@@ -25325,10 +25329,11 @@
 	<item id="18452" article="a" name="mycological mace">
 		<attribute key="weight" value="5900" />
 		<attribute key="defense" value="31" />
-		<attribute key="attack" value="50" />
+		<attribute key="attack" value="5" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="3" />
-		<attribute key="skillClub" value="1" />
+		<attribute key="extradef" value="30" />
+		<attribute key="skillSword" value="30" />
+        <attribute key="elementFire" value="100" />
 	</item>
 	<item id="18453" article="a" name="crystal crossbow">
 		<attribute key="weight" value="8400" />

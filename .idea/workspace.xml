@@ -23,8 +23,8 @@
       <file leaf-file-name="items.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/items/items.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="2857" column="49" lean-forward="true" selection-start-line="2857" selection-start-column="49" selection-end-line="2857" selection-end-column="49" />
+            <state relative-caret-position="316">
+              <caret line="23877" column="46" lean-forward="false" selection-start-line="23877" selection-start-column="39" selection-end-line="23877" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -941,8 +941,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/items/items.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="2857" column="49" lean-forward="true" selection-start-line="2857" selection-start-column="49" selection-end-line="2857" selection-end-column="49" />
+        <state relative-caret-position="316">
+          <caret line="23877" column="46" lean-forward="false" selection-start-line="23877" selection-start-column="39" selection-end-line="23877" selection-end-column="46" />
           <folding />
         </state>
       </provider>

@@ -32,9 +32,9 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element energyPercent="-10" />
-		<element holyPercent="-15" />
-		<element firePercent="-10" />
+		<element energyPercent="-50" />
+		<element holyPercent="-60" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

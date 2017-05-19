@@ -36,10 +36,10 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element holyPercent="-10" />
+		<element holyPercent="-50" />
 		<element icePercent="50" />
-		<element firePercent="-10" />
-		<element energyPercent="-10" />
+		<element firePercent="-50" />
+		<element energyPercent="-50" />
 		<element physicalPercent="70" />
 	</elements>
 	<immunities>

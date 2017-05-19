@@ -37,8 +37,8 @@
 		<element firePercent="60" />
 		<element energyPercent="10" />
 		<element holyPercent="10" />
-		<element icePercent="-10" />
-		<element deathPercent="-5" />
+		<element icePercent="-50" />
+		<element deathPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

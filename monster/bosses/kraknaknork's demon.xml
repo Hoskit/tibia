@@ -23,8 +23,8 @@
 		</attack>
 	</attacks>
 	<elements>
-		<element icePercent="-15" />
-		<element energyPercent="-5" />
+		<element icePercent="-60" />
+		<element energyPercent="-35" />
 		<element earthPercent="-8" />
 		<element firePercent="25" />
 	</elements>

@@ -30,7 +30,7 @@
 	<defenses armor="15" defense="15" />
 	<elements>
 		<element earthPercent="40" />
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 		<element icePercent="-1" />
 	</elements>
 	<voices interval="2000" chance="7">

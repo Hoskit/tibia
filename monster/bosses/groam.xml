@@ -35,10 +35,10 @@
 		<voice sentence="Ljeave this sjacred pljace while you cjan" />
 	</voices>
 	<elements>
-		<element earthPercent="-20" />
-		<element energyPercent="-20" />
-		<element physicalPercent="-20" />
-		<element deathPercent="-20" />
+		<element earthPercent="-80" />
+		<element energyPercent="-80" />
+		<element physicalPercent="-80" />
+		<element deathPercent="-80" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="50" chance="100000" /><!-- gold coin -->

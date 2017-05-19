@@ -30,8 +30,8 @@
 	</defenses>
 	<elements>
 		<element energyPercent="10" />
-		<element firePercent="-15" />
-		<element icePercent="-10" />
+		<element firePercent="-60" />
+		<element icePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

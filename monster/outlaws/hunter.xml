@@ -25,7 +25,7 @@
 	<defenses armor="15" defense="15" />
 	<elements>
 		<element holyPercent="20" />
-		<element physicalPercent="-10" />
+		<element physicalPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Guess who we're hunting, haha!" />

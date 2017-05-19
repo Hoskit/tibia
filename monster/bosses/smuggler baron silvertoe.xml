@@ -28,8 +28,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="-5" />
-		<element deathPercent="-5" />
+		<element physicalPercent="-35" />
+		<element deathPercent="-35" />
 	</elements>
 	<summons maxSummons="3">
 		<summon name="Wild Warrior" interval="2000" chance="20" />

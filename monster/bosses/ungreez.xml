@@ -40,7 +40,7 @@
 	</defenses>
 	<elements>
 		<element physicalPercent="25" />
-		<element icePercent="-15" />
+		<element icePercent="-60" />
 	</elements>
 	<immunities>
 		<immunity energy="1" />

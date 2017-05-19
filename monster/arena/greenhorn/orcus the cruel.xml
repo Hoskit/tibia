@@ -21,7 +21,7 @@
 	<defenses armor="39" defense="40" />
 	<elements>
 		<element energyPercent="20" />
-		<element earthPercent="-20" />
+		<element earthPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

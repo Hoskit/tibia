@@ -51,8 +51,8 @@
 	</defenses>
 	<elements>
 		<element earthPercent="95" />
-		<element physicalPercent="-5" />
-		<element icePercent="-5" />
+		<element physicalPercent="-35" />
+		<element icePercent="-35" />
 		<element holyPercent="20" />
 		<element deathPercent="5" />
 	</elements>

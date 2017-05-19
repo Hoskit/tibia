@@ -26,8 +26,8 @@
 	</defenses>
 	<elements>
 		<element energyPercent="20" />
-		<element earthPercent="-20" />
-		<element deathPercent="-5" />
+		<element earthPercent="-80" />
+		<element deathPercent="-35" />
 		<element holyPercent="10" />
 	</elements>
 	<voices interval="2000" chance="7">

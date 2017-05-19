@@ -24,7 +24,7 @@
 	</attacks>
 	<defenses armor="15" defense="15" />
 	<elements>
-		<element deathPercent="-5" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="This is our territory!" />

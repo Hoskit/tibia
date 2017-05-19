@@ -24,7 +24,7 @@
 	<defenses armor="51" defense="52" />
 	<elements>
 		<element holyPercent="2" />
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 		<element physicalPercent="-2" />
 	</elements>
 	<immunities>

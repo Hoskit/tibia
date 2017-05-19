@@ -27,7 +27,7 @@
 	<elements>
 		<element physicalPercent="40" />
 		<element deathPercent="1" />
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

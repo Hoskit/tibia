@@ -32,8 +32,8 @@
 		<immunity invisible="1" />
 	</immunities>
 	<elements>
-		<element deathPercent="-20" />
-		<element icePercent="-20" />
+		<element deathPercent="-80" />
+		<element icePercent="-80" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="FIRE!" yell="1" />

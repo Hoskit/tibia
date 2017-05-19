@@ -49,8 +49,8 @@
 		<element icePercent="20" />
 		<element physicalPercent="10" />
 		<element energyPercent="10" />
-		<element holyPercent="-20" />
-		<element firePercent="-15" />
+		<element holyPercent="-80" />
+		<element firePercent="-60" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

@@ -25,10 +25,10 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element holyPercent="-5" />
-		<element firePercent="-5" />
-		<element icePercent="-5" />
-		<element earthPercent="-25" />
+		<element holyPercent="-35" />
+		<element firePercent="-35" />
+		<element icePercent="-35" />
+		<element earthPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

@@ -38,7 +38,7 @@
 	</attacks>
 	<defenses armor="45" defense="45" />
 	<elements>
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 		<element firePercent="65" />
 		<element deathPercent="15" />
 		<element physicalPercent="5" />

@@ -26,8 +26,8 @@
 	</attacks>
 	<defenses armor="36" defense="38" />
 	<elements>
-		<element firePercent="-10" />
-		<element holyPercent="-5" />
+		<element firePercent="-50" />
+		<element holyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

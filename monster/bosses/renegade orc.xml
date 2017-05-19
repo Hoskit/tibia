@@ -26,7 +26,7 @@
 	<elements>
 		<element energyPercent="20" />
 		<element holyPercent="20" />
-		<element earthPercent="-10" />
+		<element earthPercent="-50" />
 		<element deathPercent="-2" />
 	</elements>
 	<immunities>

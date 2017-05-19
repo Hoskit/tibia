@@ -52,7 +52,7 @@
 	<elements>
 		<element physicalPercent="5" />
 		<element icePercent="50" />
-		<element holyPercent="-25" />
+		<element holyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

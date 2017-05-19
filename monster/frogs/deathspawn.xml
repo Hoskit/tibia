@@ -32,9 +32,9 @@
 	</voices>
 	<elements>
 		<element holyPercent="10" />
-		<element firePercent="-15" />
-		<element energyPercent="-15" />
-		<element icePercent="-15" />
+		<element firePercent="-60" />
+		<element energyPercent="-60" />
+		<element icePercent="-60" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

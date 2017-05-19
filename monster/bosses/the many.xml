@@ -40,7 +40,7 @@
 	</defenses>
 	<elements>
 		<element holyPercent="30" />
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

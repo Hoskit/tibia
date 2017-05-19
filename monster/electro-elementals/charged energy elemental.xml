@@ -33,7 +33,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="-5" />
+		<element physicalPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity energy="1" />

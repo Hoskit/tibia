@@ -60,10 +60,10 @@
 		<voice sentence="JAUL QJELL, JAKNH JEH KENH!!" />
 	</voices>
 	<elements>
-		<element earthPercent="-20" />
-		<element energyPercent="-20" />
-		<element physicalPercent="-20" />
-		<element deathPercent="-20" />
+		<element earthPercent="-80" />
+		<element energyPercent="-80" />
+		<element physicalPercent="-80" />
+		<element deathPercent="-80" />
 	</elements>
 	<loot>
 		<item id="15409" chance="50000" /><!-- depth ocrea -->

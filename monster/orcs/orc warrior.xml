@@ -23,8 +23,8 @@
 	<elements>
 		<element energyPercent="30" />
 		<element holyPercent="10" />
-		<element earthPercent="-10" />
-		<element deathPercent="-10" />
+		<element earthPercent="-50" />
+		<element deathPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Grow truk grrrr." />

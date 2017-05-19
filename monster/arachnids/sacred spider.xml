@@ -24,7 +24,7 @@
 	</attacks>
 	<defenses armor="25" defense="25" />
 	<elements>
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

@@ -24,8 +24,8 @@
 	</attacks>
 	<defenses armor="50" defense="50" />
 	<elements>
-		<element earthPercent="-10" />
-		<element energyPercent="-25" />
+		<element earthPercent="-50" />
+		<element energyPercent="-100" />
 		<element physicalPercent="10" />
 	</elements>
 	<immunities>

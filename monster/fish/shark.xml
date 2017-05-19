@@ -28,7 +28,7 @@
 		<element physicalPercent="1" />
 		<element firePercent="1" />
 		<element icePercent="1" />
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 		<element earthPercent="20" />
 	</elements>
 	<voices interval="2000" chance="7">

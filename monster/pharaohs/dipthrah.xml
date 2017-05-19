@@ -34,7 +34,7 @@
 	<elements>
 		<element energyPercent="20" />
 		<element earthPercent="20" />
-		<element holyPercent="-10" />
+		<element holyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

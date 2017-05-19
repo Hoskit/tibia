@@ -26,8 +26,8 @@
 	<elements>
 		<element physicalPercent="5" />
 		<element earthPercent="20" />
-		<element firePercent="-10" />
-		<element energyPercent="-5" />
+		<element firePercent="-50" />
+		<element energyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

@@ -30,8 +30,8 @@
 	<elements>
 		<element earthPercent="50" />
 		<element holyPercent="50" />
-		<element firePercent="-10" />
-		<element energyPercent="-5" />
+		<element firePercent="-50" />
+		<element energyPercent="-35" />
 		<element physicalPercent="25" />
 		<element icePercent="10" />
 		<element deathPercent="10" />

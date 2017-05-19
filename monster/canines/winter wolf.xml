@@ -24,8 +24,8 @@
 		<element icePercent="20" />
 		<element firePercent="10" />
 		<element holyPercent="5" />
-		<element energyPercent="-5" />
-		<element deathPercent="-5" />
+		<element energyPercent="-35" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Yoooohhuuuuu!" />

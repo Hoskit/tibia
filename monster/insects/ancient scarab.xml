@@ -38,8 +38,8 @@
 	<elements>
 		<element energyPercent="20" />
 		<element physicalPercent="10" />
-		<element firePercent="-20" />
-		<element icePercent="-5" />
+		<element firePercent="-80" />
+		<element icePercent="-35" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

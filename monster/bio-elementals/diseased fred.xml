@@ -38,11 +38,11 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="-20" />
-		<element energyPercent="-10" />
+		<element physicalPercent="-80" />
+		<element energyPercent="-50" />
 		<element earthPercent="30" />
-		<element icePercent="-5" />
-		<element holyPercent="-5" />
+		<element icePercent="-35" />
+		<element holyPercent="-35" />
 		<element deathPercent="5" />
 		<element firePercent="85" />
 	</elements>

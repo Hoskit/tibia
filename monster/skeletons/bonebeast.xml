@@ -39,8 +39,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element firePercent="-10" />
-		<element holyPercent="-20" />
+		<element firePercent="-50" />
+		<element holyPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

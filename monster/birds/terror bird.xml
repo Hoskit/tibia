@@ -23,9 +23,9 @@
 	<elements>
 		<element energyPercent="20" />
 		<element icePercent="20" />
-		<element firePercent="-10" />
-		<element earthPercent="-10" />
-		<element deathPercent="-5" />
+		<element firePercent="-50" />
+		<element earthPercent="-50" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="CRAAAHHH!" />

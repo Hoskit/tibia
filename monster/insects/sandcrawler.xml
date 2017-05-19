@@ -21,7 +21,7 @@
 	</attacks>
 	<defenses armor="10" defense="10" />
 	<elements>
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Chrk chrk!" />

@@ -22,8 +22,8 @@
 	<defenses armor="40" defense="57" />
 	<elements>
 		<element earthPercent="15" />
-		<element icePercent="-10" />
-		<element firePercent="-10" />
+		<element icePercent="-50" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

@@ -32,9 +32,9 @@
 		<element earthPercent="10" />
 		<element icePercent="10" />
 		<element holyPercent="10" />
-		<element physicalPercent="-10" />
+		<element physicalPercent="-50" />
 		<element energyPercent="-8" />
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 		<element deathPercent="-8" />
 	</elements>
 	<summons maxSummons="1">

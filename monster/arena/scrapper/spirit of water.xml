@@ -23,7 +23,7 @@
 	</attacks>
 	<defenses armor="0" defense="0" />
 	<elements>
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

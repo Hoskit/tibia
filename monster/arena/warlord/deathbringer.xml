@@ -35,7 +35,7 @@
 	<defenses armor="15" defense="15" />
 	<elements>
 		<element energyPercent="10" />
-		<element holyPercent="-15" />
+		<element holyPercent="-60" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

@@ -25,7 +25,7 @@
 	<elements>
 		<element physicalPercent="25" />
 		<element icePercent="20" />
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Hooooot-Toooooot!" />

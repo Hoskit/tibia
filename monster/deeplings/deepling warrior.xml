@@ -34,8 +34,8 @@
 		<immunity drown="1" />
 	</immunities>
 	<elements>
-		<element earthPercent="-20" />
-		<element energyPercent="-10" />
+		<element earthPercent="-80" />
+		<element energyPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Jou wjil all djie!" />

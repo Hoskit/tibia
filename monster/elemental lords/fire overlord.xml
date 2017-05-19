@@ -31,7 +31,7 @@
 		<element deathPercent="20" />
 		<element energyPercent="20" />
 		<element earthPercent="80" />
-		<element icePercent="-25" />
+		<element icePercent="-100" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

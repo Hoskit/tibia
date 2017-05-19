@@ -24,6 +24,6 @@
 		<immunity invisible="1" />
 	</immunities>
 	<elements>
-		<element holyPercent="-10" />
+		<element holyPercent="-50" />
 	</elements>
 </monster>

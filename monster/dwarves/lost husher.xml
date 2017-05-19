@@ -44,7 +44,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element holyPercent="-5" />
+		<element holyPercent="-35" />
 		<element icePercent="5" />
 		<element energyPercent="15" />
 		<element physicalPercent="5" />

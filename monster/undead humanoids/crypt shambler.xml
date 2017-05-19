@@ -22,7 +22,7 @@
 	</attacks>
 	<defenses armor="25" defense="25" />
 	<elements>
-		<element holyPercent="-25" />
+		<element holyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

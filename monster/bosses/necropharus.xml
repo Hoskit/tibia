@@ -42,9 +42,9 @@
 	<elements>
 		<element energyPercent="20" />
 		<element deathPercent="50" />
-		<element physicalPercent="-5" />
-		<element firePercent="-5" />
-		<element holyPercent="-5" />
+		<element physicalPercent="-35" />
+		<element firePercent="-35" />
+		<element holyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity poison="1" />

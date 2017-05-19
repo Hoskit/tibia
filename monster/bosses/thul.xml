@@ -37,7 +37,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element energyPercent="-15" />
+		<element energyPercent="-60" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

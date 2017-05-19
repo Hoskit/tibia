@@ -33,11 +33,11 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element physicalPercent="-20" />
+		<element physicalPercent="-80" />
 		<element icePercent="50" />
 		<element holyPercent="10" />
 		<element energyPercent="20" />
-		<element deathPercent="-5" />
+		<element deathPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

@@ -41,7 +41,7 @@
 	</defenses>
 	<elements>
 		<element energyPercent="80" />
-		<element holyPercent="-10" />
+		<element holyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

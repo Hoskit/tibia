@@ -32,7 +32,7 @@
 		<element energyPercent="25" />
 		<element physicalPercent="50" />
 		<element deathPercent="20" />
-		<element icePercent="-25" />
+		<element icePercent="-100" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

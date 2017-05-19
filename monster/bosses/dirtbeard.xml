@@ -30,8 +30,8 @@
 	<elements>
 		<element earthPercent="20" />
 		<element holyPercent="10" />
-		<element icePercent="-5" />
-		<element firePercent="-10" />
+		<element icePercent="-35" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

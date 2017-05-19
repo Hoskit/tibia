@@ -38,8 +38,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element icePercent="-10" />
-		<element holyPercent="-25" />
+		<element icePercent="-50" />
+		<element holyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

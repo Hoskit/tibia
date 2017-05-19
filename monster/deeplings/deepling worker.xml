@@ -20,8 +20,8 @@
 	</attacks>
 	<defenses armor="10" defense="10" />
 	<elements>
-		<element energyPercent="-20" />
-		<element earthPercent="-20" />
+		<element energyPercent="-80" />
+		<element earthPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

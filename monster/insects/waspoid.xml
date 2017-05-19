@@ -32,9 +32,9 @@
 	<elements>
 		<element deathPercent="5" />
 		<element energyPercent="25" />
-		<element physicalPercent="-5" />
-		<element holyPercent="-5" />
-		<element firePercent="-10" />
+		<element physicalPercent="-35" />
+		<element holyPercent="-35" />
+		<element firePercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Peeex!" />

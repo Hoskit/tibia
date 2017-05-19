@@ -35,8 +35,8 @@
 	</defenses>
 	<elements>
 		<element icePercent="20" />
-		<element firePercent="-10" />
-		<element energyPercent="-10" />
+		<element firePercent="-50" />
+		<element energyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity paralyze="1" />

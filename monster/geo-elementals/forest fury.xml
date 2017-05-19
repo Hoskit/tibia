@@ -27,7 +27,7 @@
 	<defenses armor="20" defense="20" />
 	<elements>
 		<element holyPercent="10" />
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="To arms, sisters!" />

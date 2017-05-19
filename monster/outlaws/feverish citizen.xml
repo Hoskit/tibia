@@ -29,7 +29,7 @@
 	</defenses>
 	<elements>
 		<element holyPercent="80" />
-		<element firePercent="-20" />
+		<element firePercent="-80" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Aaaaargh!" />

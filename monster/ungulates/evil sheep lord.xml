@@ -34,8 +34,8 @@
 		<immunity invisible="1" />
 	</immunities>
 	<elements>
-		<element firePercent="-5" />
-		<element physicalPercent="-20" />
+		<element firePercent="-35" />
+		<element physicalPercent="-80" />
 	</elements>
 	<summons maxSummons="3">
 		<summon name="Evil Sheep" interval="2000" chance="30" />

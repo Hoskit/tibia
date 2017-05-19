@@ -25,7 +25,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element icePercent="-10" />
+		<element icePercent="-50" />
 		<element physicalPercent="5" />
 		<element firePercent="45" />
 	</elements>

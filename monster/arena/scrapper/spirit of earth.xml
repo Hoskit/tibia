@@ -18,7 +18,7 @@
 	<defenses armor="30" defense="32" />
 	<elements>
 		<element energyPercent="50" />
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

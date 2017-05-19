@@ -24,7 +24,7 @@
 		<element earthPercent="20" />
 		<element deathPercent="20" />
 		<element energyPercent="25" />
-		<element holyPercent="-20" />
+		<element holyPercent="-80" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Mehehe!" />

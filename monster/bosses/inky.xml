@@ -32,7 +32,7 @@
 	<defenses armor="15" defense="15" />
 	<elements>
 		<element earthPercent="90" />
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity drown="1" />

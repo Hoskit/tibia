@@ -25,7 +25,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element deathPercent="-10" />
+		<element deathPercent="-50" />
 		<element icePercent="-1" />
 	</elements>
 	<loot>

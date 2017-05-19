@@ -26,7 +26,7 @@
 	<defenses armor="5" defense="5" />
 	<elements>
 		<element icePercent="5" />
-		<element earthPercent="-5" />
+		<element earthPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Rrrawk! Rrrrawk!" />

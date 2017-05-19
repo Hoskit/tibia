@@ -30,8 +30,8 @@
 		<element energyPercent="20" />
 		<element firePercent="10" />
 		<element holyPercent="1" />
-		<element earthPercent="-10" />
-		<element deathPercent="-5" />
+		<element earthPercent="-50" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Outis emoi g' onoma." />

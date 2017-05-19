@@ -26,9 +26,9 @@
 	<elements>
 		<element firePercent="20" />
 		<element holyPercent="20" />
-		<element physicalPercent="-10" />
-		<element icePercent="-10" />
-		<element deathPercent="-10" />
+		<element physicalPercent="-50" />
+		<element icePercent="-50" />
+		<element deathPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="We are the true sons of the desert!" />

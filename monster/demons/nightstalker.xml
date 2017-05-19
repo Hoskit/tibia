@@ -40,9 +40,9 @@
 		<defense name="outfit" interval="5000" chance="1" monster="ferumbras" duration="4000" />
 	</defenses>
 	<elements>
-		<element physicalPercent="-5" />
-		<element energyPercent="-5" />
-		<element deathPercent="-5" />
+		<element physicalPercent="-35" />
+		<element energyPercent="-35" />
+		<element deathPercent="-35" />
 		<element icePercent="20" />
 		<element holyPercent="20" />
 	</elements>

@@ -23,8 +23,8 @@
 	<elements>
 		<element earthPercent="25" />
 		<element holyPercent="20" />
-		<element icePercent="-10" />
-		<element deathPercent="-10" />
+		<element icePercent="-50" />
+		<element deathPercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Meep!" />

@@ -39,8 +39,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element holyPercent="-5" />
-		<element energyPercent="-5" />
+		<element holyPercent="-35" />
+		<element energyPercent="-35" />
 		<element icePercent="5" />
 	</elements>
 	<immunities>

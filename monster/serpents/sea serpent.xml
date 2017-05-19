@@ -46,8 +46,8 @@
 	</voices>
 	<elements>
 		<element firePercent="30" />
-		<element energyPercent="-5" />
-		<element physicalPercent="-15" />
+		<element energyPercent="-35" />
+		<element physicalPercent="-60" />
 		<element deathPercent="10" />
 	</elements>
 	<loot>

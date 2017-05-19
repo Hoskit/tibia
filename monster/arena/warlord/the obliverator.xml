@@ -30,7 +30,7 @@
 	<elements>
 		<element energyPercent="50" />
 		<element deathPercent="35" />
-		<element holyPercent="-15" />
+		<element holyPercent="-60" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

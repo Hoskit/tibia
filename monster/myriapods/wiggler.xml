@@ -35,7 +35,7 @@
 	<elements>
 		<element deathPercent="10" />
 		<element energyPercent="5" />
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

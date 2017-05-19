@@ -40,10 +40,10 @@
 	<elements>
 		<element physicalPercent="20" />
 		<element deathPercent="5" />
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 		<element icePercent="5" />
 		<element earthPercent="40" />
-		<element holyPercent="-5" />
+		<element holyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

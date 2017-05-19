@@ -28,7 +28,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 		<element earthPercent="80" />
 	</elements>
 	<immunities>

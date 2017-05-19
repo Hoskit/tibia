@@ -23,9 +23,9 @@
 	<elements>
 		<element earthPercent="15" />
 		<element icePercent="10" />
-		<element energyPercent="-5" />
-		<element firePercent="-10" />
-		<element physicalPercent="-5" />
+		<element energyPercent="-35" />
+		<element firePercent="-50" />
+		<element physicalPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity paralyze="1" />

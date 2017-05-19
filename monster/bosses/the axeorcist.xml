@@ -35,9 +35,9 @@
 		<immunity invisible="1" />
 	</immunities>
 	<elements>
-		<element earthPercent="-10" />
-		<element energyPercent="-10" />
-		<element deathPercent="-10" />
+		<element earthPercent="-50" />
+		<element energyPercent="-50" />
+		<element deathPercent="-50" />
 		<element holyPercent="10" />
 	</elements>
 	<voices interval="2000" chance="9">

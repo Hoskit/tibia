@@ -33,8 +33,8 @@
 	</defenses>
 	<elements>
 		<element physicalPercent="20" />
-		<element holyPercent="-15" />
-		<element firePercent="-10" />
+		<element holyPercent="-60" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

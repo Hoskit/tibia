@@ -41,7 +41,7 @@
 		<defense name="outfit" interval="2000" chance="5" monster="Green Frog" duration="3000" />
 	</defenses>
 	<elements>
-		<element deathPercent="-5" />
+		<element deathPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

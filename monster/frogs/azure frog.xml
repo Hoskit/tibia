@@ -22,7 +22,7 @@
 	<defenses armor="5" defense="5" />
 	<elements>
 		<element icePercent="10" />
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Ribbit! Ribbit!" />

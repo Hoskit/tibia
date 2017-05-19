@@ -47,10 +47,10 @@
 	</defenses>
 	<elements>
 		<element deathPercent="75" />
-		<element holyPercent="-5" />
-		<element energyPercent="-10" />
-		<element icePercent="-10" />
-		<element physicalPercent="-10" />
+		<element holyPercent="-35" />
+		<element energyPercent="-50" />
+		<element icePercent="-50" />
+		<element physicalPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

@@ -27,7 +27,7 @@
 		<element energyPercent="20" />
 		<element holyPercent="1" />
 		<element earthPercent="-12" />
-		<element deathPercent="-10" />
+		<element deathPercent="-50" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="9" chance="50320" /><!-- gold coin -->

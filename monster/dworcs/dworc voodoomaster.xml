@@ -51,9 +51,9 @@
 	</defenses>
 	<elements>
 		<element holyPercent="30" />
-		<element firePercent="-15" />
-		<element deathPercent="-10" />
-		<element icePercent="-10" />
+		<element firePercent="-60" />
+		<element deathPercent="-50" />
+		<element icePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

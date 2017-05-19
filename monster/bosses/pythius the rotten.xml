@@ -43,7 +43,7 @@
 	</attacks>
 	<defenses armor="40" defense="45" />
 	<elements>
-		<element holyPercent="-5" />
+		<element holyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity death="1" />

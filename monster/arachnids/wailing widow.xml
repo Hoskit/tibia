@@ -37,7 +37,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 		<element holyPercent="5" />
 	</elements>
 	<immunities>

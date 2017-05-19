@@ -40,7 +40,7 @@
 		<element physicalPercent="70" />
 		<element holyPercent="25" />
 		<element deathPercent="1" />
-		<element earthPercent="-5" />
+		<element earthPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity ice="1" />

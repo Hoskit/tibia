@@ -30,7 +30,7 @@
 	<elements>
 		<element holyPercent="50" />
 		<element deathPercent="50" />
-		<element physicalPercent="-10" />
+		<element physicalPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

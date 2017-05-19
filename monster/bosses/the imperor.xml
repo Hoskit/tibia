@@ -43,8 +43,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element icePercent="-20" />
-		<element holyPercent="-20" />
+		<element icePercent="-80" />
+		<element holyPercent="-80" />
 		<element deathPercent="20" />
 	</elements>
 	<immunities>

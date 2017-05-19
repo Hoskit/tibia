@@ -29,8 +29,8 @@
 	<defenses armor="15" defense="15" />
 	<elements>
 		<element earthPercent="20" />
-		<element deathPercent="-5" />
-		<element physicalPercent="-10" />
+		<element deathPercent="-35" />
+		<element physicalPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

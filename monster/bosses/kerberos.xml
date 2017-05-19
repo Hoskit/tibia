@@ -40,8 +40,8 @@
 	<elements>
 		<element earthPercent="20" />
 		<element energyPercent="10" />
-		<element icePercent="-5" />
-		<element holyPercent="-25" />
+		<element icePercent="-35" />
+		<element holyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity paralyze="1" />

@@ -38,7 +38,7 @@
 	</defenses>
 	<elements>
 		<element firePercent="10" />
-		<element deathPercent="-20" />
+		<element deathPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity drown="1" />

@@ -21,8 +21,8 @@
 	</attacks>
 	<defenses armor="15" defense="15" />
 	<elements>
-		<element physicalPercent="-10" />
-		<element deathPercent="-5" />
+		<element physicalPercent="-50" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Your money or your life!" />

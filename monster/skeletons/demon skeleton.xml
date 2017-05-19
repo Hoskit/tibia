@@ -25,7 +25,7 @@
 	</attacks>
 	<defenses armor="30" defense="30" />
 	<elements>
-		<element holyPercent="-25" />
+		<element holyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity paralyze="1" />

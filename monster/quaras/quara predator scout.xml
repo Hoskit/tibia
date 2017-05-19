@@ -21,7 +21,7 @@
 	</attacks>
 	<defenses armor="30" defense="30" />
 	<elements>
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity drown="1" />

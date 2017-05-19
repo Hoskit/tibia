@@ -31,8 +31,8 @@
 	</immunities>
 	<elements>
 		<element earthPercent="70" />
-		<element holyPercent="-10" />
-		<element firePercent="-10" />
+		<element holyPercent="-50" />
+		<element firePercent="-50" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Grawrrr!!" />

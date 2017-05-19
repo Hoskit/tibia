@@ -24,9 +24,9 @@
 	</attacks>
 	<defenses armor="10" defense="10" />
 	<elements>
-		<element deathPercent="-15" />
-		<element firePercent="-10" />
-		<element icePercent="-10" />
+		<element deathPercent="-60" />
+		<element firePercent="-50" />
+		<element icePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

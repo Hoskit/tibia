@@ -28,7 +28,7 @@
 	</defenses>
 	<elements>
 		<element earthPercent="35" />
-		<element icePercent="-20" />
+		<element icePercent="-80" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

@@ -22,7 +22,7 @@
 	<defenses armor="5" defense="5" />
 	<elements>
 		<element icePercent="5" />
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 	</elements>
 	<loot>
 		<item id="2667" countmax="2" chance="7500" /><!-- fish -->

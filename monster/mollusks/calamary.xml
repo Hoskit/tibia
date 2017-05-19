@@ -16,8 +16,8 @@
 		<flag runonhealth="75" />
 	</flags>
 	<elements>
-		<element energyPercent="-5" />
-		<element physicalPercent="-5" />
+		<element energyPercent="-35" />
+		<element physicalPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity ice="1" />

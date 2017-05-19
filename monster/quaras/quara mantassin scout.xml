@@ -21,7 +21,7 @@
 	</attacks>
 	<defenses armor="15" defense="15" />
 	<elements>
-		<element energyPercent="-10" />
+		<element energyPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity ice="1" />

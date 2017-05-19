@@ -26,8 +26,8 @@
 	</defenses>
 	<elements>
 		<element energyPercent="10" />
-		<element firePercent="-15" />
-		<element icePercent="-15" />
+		<element firePercent="-60" />
+		<element icePercent="-60" />
 		<element physicalPercent="40" />
 	</elements>
 	<immunities>

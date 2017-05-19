@@ -29,8 +29,8 @@
 	</attacks>
 	<defenses armor="20" defense="20" />
 	<elements>
-		<element earthPercent="-10" />
-		<element energyPercent="-25" />
+		<element earthPercent="-50" />
+		<element energyPercent="-100" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

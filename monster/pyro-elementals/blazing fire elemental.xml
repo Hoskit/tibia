@@ -36,7 +36,7 @@
 		<element earthPercent="50" />
 		<element deathPercent="30" />
 		<element energyPercent="20" />
-		<element icePercent="-25" />
+		<element icePercent="-100" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="125" chance="77000" />	<!-- gold coin -->

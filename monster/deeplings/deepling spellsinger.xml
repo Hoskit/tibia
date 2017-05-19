@@ -44,8 +44,8 @@
 		<voice sentence="Mmmmmoooaaaaaahaaa!!" />
 	</voices>
 	<elements>
-		<element earthPercent="-20" />
-		<element energyPercent="-20" />
+		<element earthPercent="-80" />
+		<element energyPercent="-80" />
 		<element deathPercent="50" />
 	</elements>
 	<loot>

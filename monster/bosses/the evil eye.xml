@@ -53,7 +53,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element holyPercent="-20" />
+		<element holyPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

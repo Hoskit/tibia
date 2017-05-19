@@ -23,7 +23,7 @@
 	<elements>
 		<element icePercent="20" />
 		<element firePercent="1" />
-		<element deathPercent="-10" />
+		<element deathPercent="-50" />
 		<element energyPercent="-1" />
 	</elements>
 	<voices interval="2000" chance="7">

@@ -23,8 +23,8 @@
 	<elements>
 		<element earthPercent="20" />
 		<element energyPercent="5" />
-		<element firePercent="-5" />
-		<element icePercent="-5" />
+		<element firePercent="-35" />
+		<element icePercent="-35" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="45" chance="50000" /><!-- gold coin -->

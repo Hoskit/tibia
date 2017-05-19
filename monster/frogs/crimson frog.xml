@@ -26,7 +26,7 @@
 	</voices>
 	<elements>
 		<element icePercent="10" />
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="11" chance="74000" /><!-- gold coin -->

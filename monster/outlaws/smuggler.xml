@@ -21,8 +21,8 @@
 	</attacks>
 	<defenses armor="15" defense="15" />
 	<elements>
-		<element physicalPercent="-5" />
-		<element deathPercent="-5" />
+		<element physicalPercent="-35" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="I will silence you forever!" />

@@ -28,11 +28,11 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element earthPercent="-10" />
+		<element earthPercent="-50" />
 		<element holyPercent="10" />
 		<element firePercent="80" />
 		<element energyPercent="20" />
-		<element deathPercent="-5" />
+		<element deathPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity invisible="1" />

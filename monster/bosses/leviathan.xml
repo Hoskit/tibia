@@ -44,9 +44,9 @@
 	</voices>
 	<elements>
 		<element firePercent="30" />
-		<element energyPercent="-10" />
-		<element physicalPercent="-15" />
-		<element deathPercent="-10" />
+		<element energyPercent="-50" />
+		<element physicalPercent="-60" />
+		<element deathPercent="-50" />
 	</elements>
 	<loot>
 		<item id="10220" chance="100000" />				<!-- leviathan's amulet -->

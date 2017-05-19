@@ -47,9 +47,9 @@
 	</voices>
 	<elements>
 		<element firePercent="30" />
-		<element energyPercent="-10" />
-		<element physicalPercent="-15" />
-		<element deathPercent="-15" />
+		<element energyPercent="-50" />
+		<element physicalPercent="-60" />
+		<element deathPercent="-60" />
 	</elements>
 	<loot>
 		<item id="2148" countmax="174" chance="98000" />	<!-- gold coin -->

@@ -20,7 +20,7 @@
 		<attack name="melee" interval="2000" min="0" max="-1" />
 	</attacks>
 	<elements>
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Maeh" />

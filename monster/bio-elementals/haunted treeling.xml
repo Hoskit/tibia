@@ -37,7 +37,7 @@
 	</attacks>
 	<defenses armor="20" defense="20" />
 	<elements>
-		<element firePercent="-5" />
+		<element firePercent="-35" />
 		<element deathPercent="1" />
 		<element icePercent="15" />
 		<element holyPercent="20" />

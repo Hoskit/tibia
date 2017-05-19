@@ -32,8 +32,8 @@
 	</attacks>
 	<defenses armor="30" defense="30" />
 	<elements>
-		<element firePercent="-15" />
-		<element deathPercent="-10" />
+		<element firePercent="-60" />
+		<element deathPercent="-50" />
 	</elements>
 	<immunities>
 		<immunity earth="1" />

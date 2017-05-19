@@ -28,8 +28,8 @@
 		<element firePercent="20" />
 		<element earthPercent="10" />
 		<element energyPercent="5" />
-		<element icePercent="-15" />
-		<element deathPercent="-5" />
+		<element icePercent="-60" />
+		<element deathPercent="-35" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Hugah!" />

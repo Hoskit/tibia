@@ -35,7 +35,7 @@
 		<element energyPercent="10" />
 		<element icePercent="10" />
 		<element earthPercent="10" />
-		<element physicalPercent="-20" />
+		<element physicalPercent="-80" />
 	</elements>
 	<immunities>
 		<immunity lifedrain="1" />

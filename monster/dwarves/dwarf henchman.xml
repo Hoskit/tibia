@@ -23,7 +23,7 @@
 	<elements>
 		<element physicalPercent="15" />
 		<element icePercent="15" />
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 		<element deathPercent="15" />
 	</elements>
 	<immunities>

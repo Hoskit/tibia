@@ -35,7 +35,7 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element energyPercent="-5" />
+		<element energyPercent="-35" />
 	</elements>
 	<immunities>
 		<immunity fire="1" />

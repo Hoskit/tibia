@@ -32,8 +32,8 @@
 		</defense>
 	</defenses>
 	<elements>
-		<element energyPercent="-20" />
-		<element earthPercent="-20" />
+		<element energyPercent="-80" />
+		<element earthPercent="-80" />
 		<element deathPercent="10" />
 	</elements>
 		<immunities>

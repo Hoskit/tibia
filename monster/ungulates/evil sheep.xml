@@ -28,7 +28,7 @@
 		<immunity invisible="1" />
 	</immunities>
 	<elements>
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 		<element icePercent="20" />
 		<element physicalPercent="20" />
 	</elements>

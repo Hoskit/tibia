@@ -35,8 +35,8 @@
 		<element physicalPercent="30" />
 		<element holyPercent="20" />
 		<element energyPercent="20" />
-		<element deathPercent="-5" />
-		<element firePercent="-10" />
+		<element deathPercent="-35" />
+		<element firePercent="-50" />
 	</elements>
 	<immunities>
 		<immunity paralyze="1" />

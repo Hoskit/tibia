@@ -23,9 +23,9 @@
 	<elements>
 		<element firePercent="20" />
 		<element holyPercent="10" />
-		<element icePercent="-10" />
-		<element deathPercent="-5" />
-		<element energyPercent="-15" />
+		<element icePercent="-50" />
+		<element deathPercent="-35" />
+		<element energyPercent="-60" />
 	</elements>
 	<voices interval="2000" chance="7">
 		<voice sentence="Kaplar!" />

@@ -32,7 +32,7 @@
 	</immunities>
 	<elements>
 		<element energyPercent="75" />
-		<element firePercent="-10" />
+		<element firePercent="-50" />
 		<element icePercent="-1" />
 	</elements>
 	<voices interval="2000" chance="7">

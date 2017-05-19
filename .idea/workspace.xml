@@ -5,777 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dff951e-b025-448d-bada-6a1ee75f1527" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/amazons/amazon.xml" afterPath="$PROJECT_DIR$/monster/amazons/amazon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/amazons/trainer.xml" afterPath="$PROJECT_DIR$/monster/amazons/trainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/amazons/valkyrie.xml" afterPath="$PROJECT_DIR$/monster/amazons/valkyrie.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/annelids/carrion worm.xml" afterPath="$PROJECT_DIR$/monster/annelids/carrion worm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/annelids/drillworm.xml" afterPath="$PROJECT_DIR$/monster/annelids/drillworm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/annelids/rift worm.xml" afterPath="$PROJECT_DIR$/monster/annelids/rift worm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/annelids/rotworm.xml" afterPath="$PROJECT_DIR$/monster/annelids/rotworm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/apes/kongra.xml" afterPath="$PROJECT_DIR$/monster/apes/kongra.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/apes/merlkin.xml" afterPath="$PROJECT_DIR$/monster/apes/merlkin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/apes/sibang.xml" afterPath="$PROJECT_DIR$/monster/apes/sibang.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/apes/yeti.xml" afterPath="$PROJECT_DIR$/monster/apes/yeti.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/crystal spider.xml" afterPath="$PROJECT_DIR$/monster/arachnids/crystal spider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/giant spider wyda.xml" afterPath="$PROJECT_DIR$/monster/arachnids/giant spider wyda.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/giant spider.xml" afterPath="$PROJECT_DIR$/monster/arachnids/giant spider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/poison spider.xml" afterPath="$PROJECT_DIR$/monster/arachnids/poison spider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/sacred spider.xml" afterPath="$PROJECT_DIR$/monster/arachnids/sacred spider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/sandstone scorpion.xml" afterPath="$PROJECT_DIR$/monster/arachnids/sandstone scorpion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/scorpion.xml" afterPath="$PROJECT_DIR$/monster/arachnids/scorpion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/spider.xml" afterPath="$PROJECT_DIR$/monster/arachnids/spider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/tarantula.xml" afterPath="$PROJECT_DIR$/monster/arachnids/tarantula.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arachnids/wailing widow.xml" afterPath="$PROJECT_DIR$/monster/arachnids/wailing widow.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/askarak demon.xml" afterPath="$PROJECT_DIR$/monster/arak demons/askarak demon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/askarak lord.xml" afterPath="$PROJECT_DIR$/monster/arak demons/askarak lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/askarak prince.xml" afterPath="$PROJECT_DIR$/monster/arak demons/askarak prince.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/shaburak demon.xml" afterPath="$PROJECT_DIR$/monster/arak demons/shaburak demon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/shaburak lord.xml" afterPath="$PROJECT_DIR$/monster/arak demons/shaburak lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arak demons/shaburak prince.xml" afterPath="$PROJECT_DIR$/monster/arak demons/shaburak prince.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/achad.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/achad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/axeitus headbanger.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/axeitus headbanger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/bloodpaw.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/bloodpaw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/bovinus.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/bovinus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/colerian the barbarian.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/colerian the barbarian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/cursed gladiator.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/cursed gladiator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/frostfur.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/frostfur.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/orcus the cruel.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/orcus the cruel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/rocky.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/rocky.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/greenhorn/the hairy one.xml" afterPath="$PROJECT_DIR$/monster/arena/greenhorn/the hairy one.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/avalanche.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/avalanche.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/drasilla.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/drasilla.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/grimgor guteater.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/grimgor guteater.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/kreebosh the exile.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/kreebosh the exile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/slim.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/slim.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/spirit of earth.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/spirit of earth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/spirit of fire.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/spirit of fire.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/spirit of water.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/spirit of water.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/the dark dancer.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/the dark dancer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/scrapper/the hag.xml" afterPath="$PROJECT_DIR$/monster/arena/scrapper/the hag.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/darakan the executioner.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/darakan the executioner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/deathbringer.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/deathbringer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/fallen mooh'tah master ghar.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/fallen mooh'tah master ghar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/gnorre chyllson.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/gnorre chyllson.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/norgle glacierbeard.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/norgle glacierbeard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/svoren the mad.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/svoren the mad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/the masked marauder.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/the masked marauder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/the obliverator.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/the obliverator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/the pit lord.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/the pit lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/arena/warlord/webster.xml" afterPath="$PROJECT_DIR$/monster/arena/warlord/webster.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/barbarians/barbarian bloodwalker.xml" afterPath="$PROJECT_DIR$/monster/barbarians/barbarian bloodwalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/barbarians/barbarian brutetamer.xml" afterPath="$PROJECT_DIR$/monster/barbarians/barbarian brutetamer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/barbarians/barbarian headsplitter.xml" afterPath="$PROJECT_DIR$/monster/barbarians/barbarian headsplitter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/barbarians/barbarian skullhunter.xml" afterPath="$PROJECT_DIR$/monster/barbarians/barbarian skullhunter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bats/bat.xml" afterPath="$PROJECT_DIR$/monster/bats/bat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bats/nightfiend.xml" afterPath="$PROJECT_DIR$/monster/bats/nightfiend.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bats/vicious manbat.xml" afterPath="$PROJECT_DIR$/monster/bats/vicious manbat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bears/bear.xml" afterPath="$PROJECT_DIR$/monster/bears/bear.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bears/panda.xml" afterPath="$PROJECT_DIR$/monster/bears/panda.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bears/polar bear.xml" afterPath="$PROJECT_DIR$/monster/bears/polar bear.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/bane bringer.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/bane bringer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/blood beast.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/blood beast.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/bog raider.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/bog raider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/carniphila.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/carniphila.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/defiler.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/defiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/devourer.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/devourer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/diseased bill.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/diseased bill.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/diseased dan.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/diseased dan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/diseased fred.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/diseased fred.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/glooth anemone.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/glooth anemone.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/haunted treeling.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/haunted treeling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/hideous fungus.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/hideous fungus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/humongous fungus.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/humongous fungus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/humorless fungus.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/humorless fungus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/leaf golem.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/leaf golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/rot elemental.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/rot elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/slime.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/slime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/son of verminor.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/son of verminor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/spit nettle.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/spit nettle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/strange slime.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/strange slime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/swampling.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/swampling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bio-elementals/wilting leaf golem.xml" afterPath="$PROJECT_DIR$/monster/bio-elementals/wilting leaf golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/berserker chicken.xml" afterPath="$PROJECT_DIR$/monster/birds/berserker chicken.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/chicken.xml" afterPath="$PROJECT_DIR$/monster/birds/chicken.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/demon parrot.xml" afterPath="$PROJECT_DIR$/monster/birds/demon parrot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/dire penguin.xml" afterPath="$PROJECT_DIR$/monster/birds/dire penguin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/flamingo.xml" afterPath="$PROJECT_DIR$/monster/birds/flamingo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/marsh stalker.xml" afterPath="$PROJECT_DIR$/monster/birds/marsh stalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/parrot.xml" afterPath="$PROJECT_DIR$/monster/birds/parrot.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/penguin.xml" afterPath="$PROJECT_DIR$/monster/birds/penguin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/pigeon.xml" afterPath="$PROJECT_DIR$/monster/birds/pigeon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/seagull.xml" afterPath="$PROJECT_DIR$/monster/birds/seagull.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/birds/terror bird.xml" afterPath="$PROJECT_DIR$/monster/birds/terror bird.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/acid blob.xml" afterPath="$PROJECT_DIR$/monster/blobs/acid blob.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/death blob.xml" afterPath="$PROJECT_DIR$/monster/blobs/death blob.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/essence of darkness.xml" afterPath="$PROJECT_DIR$/monster/blobs/essence of darkness.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/floor blob.xml" afterPath="$PROJECT_DIR$/monster/blobs/floor blob.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/glooth blob.xml" afterPath="$PROJECT_DIR$/monster/blobs/glooth blob.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/mercury blob.xml" afterPath="$PROJECT_DIR$/monster/blobs/mercury blob.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/blobs/midnight spawn.xml" afterPath="$PROJECT_DIR$/monster/blobs/midnight spawn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bonelords/bonelord.xml" afterPath="$PROJECT_DIR$/monster/bonelords/bonelord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bonelords/braindeath.xml" afterPath="$PROJECT_DIR$/monster/bonelords/braindeath.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bonelords/elder bonelord.xml" afterPath="$PROJECT_DIR$/monster/bonelords/elder bonelord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bonelords/eye of the seven.xml" afterPath="$PROJECT_DIR$/monster/bonelords/eye of the seven.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bonelords/gazer.xml" afterPath="$PROJECT_DIR$/monster/bonelords/gazer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/abyssador.xml" afterPath="$PROJECT_DIR$/monster/bosses/abyssador.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/apocalypse.xml" afterPath="$PROJECT_DIR$/monster/bosses/apocalypse.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/apprentice sheng.xml" afterPath="$PROJECT_DIR$/monster/bosses/apprentice sheng.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/arachir the ancient one.xml" afterPath="$PROJECT_DIR$/monster/bosses/arachir the ancient one.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/armenius.xml" afterPath="$PROJECT_DIR$/monster/bosses/armenius.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/azerus.xml" afterPath="$PROJECT_DIR$/monster/bosses/azerus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/azerus2.xml" afterPath="$PROJECT_DIR$/monster/bosses/azerus2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/barbaria.xml" afterPath="$PROJECT_DIR$/monster/bosses/barbaria.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/baron brute.xml" afterPath="$PROJECT_DIR$/monster/bosses/baron brute.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/bazir.xml" afterPath="$PROJECT_DIR$/monster/bosses/bazir.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/bibby bloodbath.xml" afterPath="$PROJECT_DIR$/monster/bosses/bibby bloodbath.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/big boss trolliver.xml" afterPath="$PROJECT_DIR$/monster/bosses/big boss trolliver.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/boogey.xml" afterPath="$PROJECT_DIR$/monster/bosses/boogey.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/bretzecutioner.xml" afterPath="$PROJECT_DIR$/monster/bosses/bretzecutioner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/bruise payne.xml" afterPath="$PROJECT_DIR$/monster/bosses/bruise payne.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/brutus bloodbeard.xml" afterPath="$PROJECT_DIR$/monster/bosses/brutus bloodbeard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/bullwark.xml" afterPath="$PROJECT_DIR$/monster/bosses/bullwark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/captain jones.xml" afterPath="$PROJECT_DIR$/monster/bosses/captain jones.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/chikhaton.xml" afterPath="$PROJECT_DIR$/monster/bosses/chikhaton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/chizzoron the distorter.xml" afterPath="$PROJECT_DIR$/monster/bosses/chizzoron the distorter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/clubarc the plunderer.xml" afterPath="$PROJECT_DIR$/monster/bosses/clubarc the plunderer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/coldheart.xml" afterPath="$PROJECT_DIR$/monster/bosses/coldheart.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/countess sorrow.xml" afterPath="$PROJECT_DIR$/monster/bosses/countess sorrow.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/deadeye devious.xml" afterPath="$PROJECT_DIR$/monster/bosses/deadeye devious.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/death priest shargon.xml" afterPath="$PROJECT_DIR$/monster/bosses/death priest shargon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/deathbine.xml" afterPath="$PROJECT_DIR$/monster/bosses/deathbine.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/deathstrike.xml" afterPath="$PROJECT_DIR$/monster/bosses/deathstrike.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/demodras.xml" afterPath="$PROJECT_DIR$/monster/bosses/demodras.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/dharalion.xml" afterPath="$PROJECT_DIR$/monster/bosses/dharalion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/diblis the fair.xml" afterPath="$PROJECT_DIR$/monster/bosses/diblis the fair.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/dirtbeard.xml" afterPath="$PROJECT_DIR$/monster/bosses/dirtbeard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/doctor perhaps.xml" afterPath="$PROJECT_DIR$/monster/bosses/doctor perhaps.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/doomhowl.xml" afterPath="$PROJECT_DIR$/monster/bosses/doomhowl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/dracola.xml" afterPath="$PROJECT_DIR$/monster/bosses/dracola.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/dreadwing.xml" afterPath="$PROJECT_DIR$/monster/bosses/dreadwing.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/energized raging mage.xml" afterPath="$PROJECT_DIR$/monster/bosses/energized raging mage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/esmeralda.xml" afterPath="$PROJECT_DIR$/monster/bosses/esmeralda.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/ethershreck.xml" afterPath="$PROJECT_DIR$/monster/bosses/ethershreck.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/evil mastermind.xml" afterPath="$PROJECT_DIR$/monster/bosses/evil mastermind.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fatality.xml" afterPath="$PROJECT_DIR$/monster/bosses/fatality.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fazzrah.xml" afterPath="$PROJECT_DIR$/monster/bosses/fazzrah.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fernfang.xml" afterPath="$PROJECT_DIR$/monster/bosses/fernfang.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/ferumbras.xml" afterPath="$PROJECT_DIR$/monster/bosses/ferumbras.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/flameborn.xml" afterPath="$PROJECT_DIR$/monster/bosses/flameborn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fleshcrawler.xml" afterPath="$PROJECT_DIR$/monster/bosses/fleshcrawler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fluffy.xml" afterPath="$PROJECT_DIR$/monster/bosses/fluffy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/foreman kneebiter.xml" afterPath="$PROJECT_DIR$/monster/bosses/foreman kneebiter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/freegoiz.xml" afterPath="$PROJECT_DIR$/monster/bosses/freegoiz.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/fury of the emperor.xml" afterPath="$PROJECT_DIR$/monster/bosses/fury of the emperor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/furyosa.xml" afterPath="$PROJECT_DIR$/monster/bosses/furyosa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/gaz'haragoth.xml" afterPath="$PROJECT_DIR$/monster/bosses/gaz'haragoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/general murius.xml" afterPath="$PROJECT_DIR$/monster/bosses/general murius.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/glitterscale.xml" afterPath="$PROJECT_DIR$/monster/bosses/glitterscale.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/glooth fairy.xml" afterPath="$PROJECT_DIR$/monster/bosses/glooth fairy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/gnomevil.xml" afterPath="$PROJECT_DIR$/monster/bosses/gnomevil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/gorgo.xml" afterPath="$PROJECT_DIR$/monster/bosses/gorgo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/grand mother foulscale.xml" afterPath="$PROJECT_DIR$/monster/bosses/grand mother foulscale.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/grandfather tridian.xml" afterPath="$PROJECT_DIR$/monster/bosses/grandfather tridian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/gravelord oshuran.xml" afterPath="$PROJECT_DIR$/monster/bosses/gravelord oshuran.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/groam.xml" afterPath="$PROJECT_DIR$/monster/bosses/groam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/grorlam.xml" afterPath="$PROJECT_DIR$/monster/bosses/grorlam.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/hairman the huge.xml" afterPath="$PROJECT_DIR$/monster/bosses/hairman the huge.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/handmaiden.xml" afterPath="$PROJECT_DIR$/monster/bosses/handmaiden.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/haunter.xml" afterPath="$PROJECT_DIR$/monster/bosses/haunter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/hemming.xml" afterPath="$PROJECT_DIR$/monster/bosses/hemming.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/heoni.xml" afterPath="$PROJECT_DIR$/monster/bosses/heoni.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/hide.xml" afterPath="$PROJECT_DIR$/monster/bosses/hide.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/horestis.xml" afterPath="$PROJECT_DIR$/monster/bosses/horestis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/incineron.xml" afterPath="$PROJECT_DIR$/monster/bosses/incineron.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/infernatil.xml" afterPath="$PROJECT_DIR$/monster/bosses/infernatil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/inky.xml" afterPath="$PROJECT_DIR$/monster/bosses/inky.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/jaul.xml" afterPath="$PROJECT_DIR$/monster/bosses/jaul.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/jesse the wicked.xml" afterPath="$PROJECT_DIR$/monster/bosses/jesse the wicked.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/kerberos.xml" afterPath="$PROJECT_DIR$/monster/bosses/kerberos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/koshei the deathless.xml" afterPath="$PROJECT_DIR$/monster/bosses/koshei the deathless.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/kraknaknork's demon.xml" afterPath="$PROJECT_DIR$/monster/bosses/kraknaknork's demon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/kraknaknork.xml" afterPath="$PROJECT_DIR$/monster/bosses/kraknaknork.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/lethal lissy.xml" afterPath="$PROJECT_DIR$/monster/bosses/lethal lissy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/leviathan.xml" afterPath="$PROJECT_DIR$/monster/bosses/leviathan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/lisa.xml" afterPath="$PROJECT_DIR$/monster/bosses/lisa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/lizard abomination.xml" afterPath="$PROJECT_DIR$/monster/bosses/lizard abomination.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mad mage.xml" afterPath="$PROJECT_DIR$/monster/bosses/mad mage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mad technomancer.xml" afterPath="$PROJECT_DIR$/monster/bosses/mad technomancer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/man in the cave.xml" afterPath="$PROJECT_DIR$/monster/bosses/man in the cave.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/massacre.xml" afterPath="$PROJECT_DIR$/monster/bosses/massacre.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mawhawk.xml" afterPath="$PROJECT_DIR$/monster/bosses/mawhawk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/menace.xml" afterPath="$PROJECT_DIR$/monster/bosses/menace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mephiles.xml" afterPath="$PROJECT_DIR$/monster/bosses/mephiles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/minishabaal.xml" afterPath="$PROJECT_DIR$/monster/bosses/minishabaal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/minotaur wallbreaker.xml" afterPath="$PROJECT_DIR$/monster/bosses/minotaur wallbreaker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/monstor.xml" afterPath="$PROJECT_DIR$/monster/bosses/monstor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mooh'tah master.xml" afterPath="$PROJECT_DIR$/monster/bosses/mooh'tah master.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/morik the gladiator.xml" afterPath="$PROJECT_DIR$/monster/bosses/morik the gladiator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mr. punish.xml" afterPath="$PROJECT_DIR$/monster/bosses/mr. punish.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/munster.xml" afterPath="$PROJECT_DIR$/monster/bosses/munster.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/mutated zalamon.xml" afterPath="$PROJECT_DIR$/monster/bosses/mutated zalamon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/necropharus.xml" afterPath="$PROJECT_DIR$/monster/bosses/necropharus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/obujos.xml" afterPath="$PROJECT_DIR$/monster/bosses/obujos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/paiz the pauperizer.xml" afterPath="$PROJECT_DIR$/monster/bosses/paiz the pauperizer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/pythius the rotten.xml" afterPath="$PROJECT_DIR$/monster/bosses/pythius the rotten.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/raging mage.xml" afterPath="$PROJECT_DIR$/monster/bosses/raging mage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/renegade orc.xml" afterPath="$PROJECT_DIR$/monster/bosses/renegade orc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/ribstride.xml" afterPath="$PROJECT_DIR$/monster/bosses/ribstride.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/robby the reckless.xml" afterPath="$PROJECT_DIR$/monster/bosses/robby the reckless.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/rocko.xml" afterPath="$PROJECT_DIR$/monster/bosses/rocko.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/ron the ripper.xml" afterPath="$PROJECT_DIR$/monster/bosses/ron the ripper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/rottie the rotworm.xml" afterPath="$PROJECT_DIR$/monster/bosses/rottie the rotworm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/rotworm queen.xml" afterPath="$PROJECT_DIR$/monster/bosses/rotworm queen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/rukor zad.xml" afterPath="$PROJECT_DIR$/monster/bosses/rukor zad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/scorn of the emperor.xml" afterPath="$PROJECT_DIR$/monster/bosses/scorn of the emperor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/shardhead.xml" afterPath="$PROJECT_DIR$/monster/bosses/shardhead.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/sharptooth.xml" afterPath="$PROJECT_DIR$/monster/bosses/sharptooth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/sir valorcrest.xml" afterPath="$PROJECT_DIR$/monster/bosses/sir valorcrest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/smuggler baron silvertoe.xml" afterPath="$PROJECT_DIR$/monster/bosses/smuggler baron silvertoe.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/snake god essence.xml" afterPath="$PROJECT_DIR$/monster/bosses/snake god essence.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/snake thing.xml" afterPath="$PROJECT_DIR$/monster/bosses/snake thing.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/spider queen.xml" afterPath="$PROJECT_DIR$/monster/bosses/spider queen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/spite of the emperor.xml" afterPath="$PROJECT_DIR$/monster/bosses/spite of the emperor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/splasher.xml" afterPath="$PROJECT_DIR$/monster/bosses/splasher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/stonecracker.xml" afterPath="$PROJECT_DIR$/monster/bosses/stonecracker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/sulphur scuttler.xml" afterPath="$PROJECT_DIR$/monster/bosses/sulphur scuttler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tanjis.xml" afterPath="$PROJECT_DIR$/monster/bosses/tanjis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/teleskor.xml" afterPath="$PROJECT_DIR$/monster/bosses/teleskor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/terofar.xml" afterPath="$PROJECT_DIR$/monster/bosses/terofar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the abomination.xml" afterPath="$PROJECT_DIR$/monster/bosses/the abomination.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the axeorcist.xml" afterPath="$PROJECT_DIR$/monster/bosses/the axeorcist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the blightfather.xml" afterPath="$PROJECT_DIR$/monster/bosses/the blightfather.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the bloodtusk.xml" afterPath="$PROJECT_DIR$/monster/bosses/the bloodtusk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the bloodweb.xml" afterPath="$PROJECT_DIR$/monster/bosses/the bloodweb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the collector.xml" afterPath="$PROJECT_DIR$/monster/bosses/the collector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the count.xml" afterPath="$PROJECT_DIR$/monster/bosses/the count.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the dreadorian.xml" afterPath="$PROJECT_DIR$/monster/bosses/the dreadorian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the evil eye.xml" afterPath="$PROJECT_DIR$/monster/bosses/the evil eye.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the frog prince.xml" afterPath="$PROJECT_DIR$/monster/bosses/the frog prince.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the handmaiden.xml" afterPath="$PROJECT_DIR$/monster/bosses/the handmaiden.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the horned fox.xml" afterPath="$PROJECT_DIR$/monster/bosses/the horned fox.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the imperor.xml" afterPath="$PROJECT_DIR$/monster/bosses/the imperor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the keeper.xml" afterPath="$PROJECT_DIR$/monster/bosses/the keeper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the many.xml" afterPath="$PROJECT_DIR$/monster/bosses/the many.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the noxious spawn.xml" afterPath="$PROJECT_DIR$/monster/bosses/the noxious spawn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the old widow.xml" afterPath="$PROJECT_DIR$/monster/bosses/the old widow.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the pale count.xml" afterPath="$PROJECT_DIR$/monster/bosses/the pale count.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the plasmother.xml" afterPath="$PROJECT_DIR$/monster/bosses/the plasmother.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the ravager.xml" afterPath="$PROJECT_DIR$/monster/bosses/the ravager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the snapper.xml" afterPath="$PROJECT_DIR$/monster/bosses/the snapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/the weakened count.xml" afterPath="$PROJECT_DIR$/monster/bosses/the weakened count.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/thul.xml" afterPath="$PROJECT_DIR$/monster/bosses/thul.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tiquandas revenge.xml" afterPath="$PROJECT_DIR$/monster/bosses/tiquandas revenge.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tirecz.xml" afterPath="$PROJECT_DIR$/monster/bosses/tirecz.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tormentor.xml" afterPath="$PROJECT_DIR$/monster/bosses/tormentor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tremorak.xml" afterPath="$PROJECT_DIR$/monster/bosses/tremorak.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/tromphonyte.xml" afterPath="$PROJECT_DIR$/monster/bosses/tromphonyte.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/ungreez.xml" afterPath="$PROJECT_DIR$/monster/bosses/ungreez.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/verminor.xml" afterPath="$PROJECT_DIR$/monster/bosses/verminor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/versperoth.xml" afterPath="$PROJECT_DIR$/monster/bosses/versperoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/warlord ruzad.xml" afterPath="$PROJECT_DIR$/monster/bosses/warlord ruzad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/wrath of the emperor.xml" afterPath="$PROJECT_DIR$/monster/bosses/wrath of the emperor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/xenia.xml" afterPath="$PROJECT_DIR$/monster/bosses/xenia.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/yaga the crone.xml" afterPath="$PROJECT_DIR$/monster/bosses/yaga the crone.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/yakchal.xml" afterPath="$PROJECT_DIR$/monster/bosses/yakchal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zanakeph.xml" afterPath="$PROJECT_DIR$/monster/bosses/zanakeph.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zarabustor.xml" afterPath="$PROJECT_DIR$/monster/bosses/zarabustor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zevelon duskbringer.xml" afterPath="$PROJECT_DIR$/monster/bosses/zevelon duskbringer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zomba.xml" afterPath="$PROJECT_DIR$/monster/bosses/zomba.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zulazza the corruptor.xml" afterPath="$PROJECT_DIR$/monster/bosses/zulazza the corruptor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/bosses/zushuka.xml" afterPath="$PROJECT_DIR$/monster/bosses/zushuka.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/crystal wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/crystal wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/dog.xml" afterPath="$PROJECT_DIR$/monster/canines/dog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/hellhound.xml" afterPath="$PROJECT_DIR$/monster/canines/hellhound.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/hot dog.xml" afterPath="$PROJECT_DIR$/monster/canines/hot dog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/husky.xml" afterPath="$PROJECT_DIR$/monster/canines/husky.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/poodle.xml" afterPath="$PROJECT_DIR$/monster/canines/poodle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/starving wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/starving wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/thornfire wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/thornfire wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/war wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/war wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/wild dog.xml" afterPath="$PROJECT_DIR$/monster/canines/wild dog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/winter wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/winter wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/canines/wolf.xml" afterPath="$PROJECT_DIR$/monster/canines/wolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/chakoyas/chakoya toolshaper.xml" afterPath="$PROJECT_DIR$/monster/chakoyas/chakoya toolshaper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/chakoyas/chakoya tribewarden.xml" afterPath="$PROJECT_DIR$/monster/chakoyas/chakoya tribewarden.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/chakoyas/chakoya windcaller.xml" afterPath="$PROJECT_DIR$/monster/chakoyas/chakoya windcaller.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/cnidarians/jellyfish.xml" afterPath="$PROJECT_DIR$/monster/cnidarians/jellyfish.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/corym/corym charlatan.xml" afterPath="$PROJECT_DIR$/monster/corym/corym charlatan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/corym/corym skirmisher.xml" afterPath="$PROJECT_DIR$/monster/corym/corym skirmisher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/corym/corym vanguard.xml" afterPath="$PROJECT_DIR$/monster/corym/corym vanguard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/corym/little corym charlatan.xml" afterPath="$PROJECT_DIR$/monster/corym/little corym charlatan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/crustaceans/blood crab underwater.xml" afterPath="$PROJECT_DIR$/monster/crustaceans/blood crab underwater.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/crustaceans/blood crab.xml" afterPath="$PROJECT_DIR$/monster/crustaceans/blood crab.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/crustaceans/crab.xml" afterPath="$PROJECT_DIR$/monster/crustaceans/crab.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/crustaceans/crustacea gigantica.xml" afterPath="$PROJECT_DIR$/monster/crustaceans/crustacea gigantica.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/cryo-elementals/ice golem.xml" afterPath="$PROJECT_DIR$/monster/cryo-elementals/ice golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling brawler.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling brawler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling elite.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling elite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling guard.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling master librarian.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling master librarian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling scout.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling spellsinger.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling spellsinger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling tyrant.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling tyrant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling warrior.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling warrior.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/deeplings/deepling worker.xml" afterPath="$PROJECT_DIR$/monster/deeplings/deepling worker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demonlord/orshabaal.xml" afterPath="$PROJECT_DIR$/monster/demonlord/orshabaal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/dark torturer.xml" afterPath="$PROJECT_DIR$/monster/demons/dark torturer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/demon.xml" afterPath="$PROJECT_DIR$/monster/demons/demon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/destroyer.xml" afterPath="$PROJECT_DIR$/monster/demons/destroyer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/diabolic imp.xml" afterPath="$PROJECT_DIR$/monster/demons/diabolic imp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/fire devil.xml" afterPath="$PROJECT_DIR$/monster/demons/fire devil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/fury.xml" afterPath="$PROJECT_DIR$/monster/demons/fury.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/gozzler.xml" afterPath="$PROJECT_DIR$/monster/demons/gozzler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/grave guard.xml" afterPath="$PROJECT_DIR$/monster/demons/grave guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/gravedigger.xml" afterPath="$PROJECT_DIR$/monster/demons/gravedigger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/hand of cursed fate.xml" afterPath="$PROJECT_DIR$/monster/demons/hand of cursed fate.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/hellspawn.xml" afterPath="$PROJECT_DIR$/monster/demons/hellspawn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/herald of gloom.xml" afterPath="$PROJECT_DIR$/monster/demons/herald of gloom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/juggernaut.xml" afterPath="$PROJECT_DIR$/monster/demons/juggernaut.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/nightmare scion.xml" afterPath="$PROJECT_DIR$/monster/demons/nightmare scion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/nightmare.xml" afterPath="$PROJECT_DIR$/monster/demons/nightmare.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/nightstalker.xml" afterPath="$PROJECT_DIR$/monster/demons/nightstalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/plaguesmith.xml" afterPath="$PROJECT_DIR$/monster/demons/plaguesmith.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/rift brood.xml" afterPath="$PROJECT_DIR$/monster/demons/rift brood.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/rift lord.xml" afterPath="$PROJECT_DIR$/monster/demons/rift lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/rift scythe.xml" afterPath="$PROJECT_DIR$/monster/demons/rift scythe.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/shadow hound.xml" afterPath="$PROJECT_DIR$/monster/demons/shadow hound.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/weakened demon.xml" afterPath="$PROJECT_DIR$/monster/demons/weakened demon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/yielothax.xml" afterPath="$PROJECT_DIR$/monster/demons/yielothax.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/demons/zavarash.xml" afterPath="$PROJECT_DIR$/monster/demons/zavarash.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/djinn/blue djinn.xml" afterPath="$PROJECT_DIR$/monster/djinn/blue djinn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/djinn/efreet.xml" afterPath="$PROJECT_DIR$/monster/djinn/efreet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/djinn/green djinn.xml" afterPath="$PROJECT_DIR$/monster/djinn/green djinn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/djinn/marid.xml" afterPath="$PROJECT_DIR$/monster/djinn/marid.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/dragon hatchling.xml" afterPath="$PROJECT_DIR$/monster/dragons/dragon hatchling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/dragon lord hatchling.xml" afterPath="$PROJECT_DIR$/monster/dragons/dragon lord hatchling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/dragon lord.xml" afterPath="$PROJECT_DIR$/monster/dragons/dragon lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/dragon.xml" afterPath="$PROJECT_DIR$/monster/dragons/dragon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/dragonling.xml" afterPath="$PROJECT_DIR$/monster/dragons/dragonling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/draptor.xml" afterPath="$PROJECT_DIR$/monster/dragons/draptor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/elder wyrm.xml" afterPath="$PROJECT_DIR$/monster/dragons/elder wyrm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/frost dragon hatchling.xml" afterPath="$PROJECT_DIR$/monster/dragons/frost dragon hatchling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/frost dragon.xml" afterPath="$PROJECT_DIR$/monster/dragons/frost dragon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/ghastly dragon.xml" afterPath="$PROJECT_DIR$/monster/dragons/ghastly dragon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/undead dragon.xml" afterPath="$PROJECT_DIR$/monster/dragons/undead dragon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/wounded cave draptor.xml" afterPath="$PROJECT_DIR$/monster/dragons/wounded cave draptor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dragons/wyrm.xml" afterPath="$PROJECT_DIR$/monster/dragons/wyrm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/bad dream.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/bad dream.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/choking fear.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/choking fear.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/demon outcast.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/demon outcast.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/feversleep.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/feversleep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/frazzlemaw.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/frazzlemaw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/guzzlemaw.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/guzzlemaw.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/minion of gaz'haragoth.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/minion of gaz'haragoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/nightmare of gaz'haragoth.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/nightmare of gaz'haragoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/retching horror.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/retching horror.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/shiversleep.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/shiversleep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/shock head.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/shock head.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/sight of surrender.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/sight of surrender.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/silencer.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/silencer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dreamhaunters/terrorsleep.xml" afterPath="$PROJECT_DIR$/monster/dreamhaunters/terrorsleep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf geomancer.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf geomancer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf guard.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf henchman.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf henchman.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf miner.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf miner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf soldier.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf soldier.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/dwarf.xml" afterPath="$PROJECT_DIR$/monster/dwarves/dwarf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/enslaved dwarf.xml" afterPath="$PROJECT_DIR$/monster/dwarves/enslaved dwarf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/lost basher.xml" afterPath="$PROJECT_DIR$/monster/dwarves/lost basher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/lost berserker.xml" afterPath="$PROJECT_DIR$/monster/dwarves/lost berserker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/lost husher.xml" afterPath="$PROJECT_DIR$/monster/dwarves/lost husher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dwarves/lost thrower.xml" afterPath="$PROJECT_DIR$/monster/dwarves/lost thrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dworcs/dworc fleshhunter.xml" afterPath="$PROJECT_DIR$/monster/dworcs/dworc fleshhunter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dworcs/dworc venomsniper.xml" afterPath="$PROJECT_DIR$/monster/dworcs/dworc venomsniper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/dworcs/dworc voodoomaster.xml" afterPath="$PROJECT_DIR$/monster/dworcs/dworc voodoomaster.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/electro-elementals/charged energy elemental.xml" afterPath="$PROJECT_DIR$/monster/electro-elementals/charged energy elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/electro-elementals/energy elemental.xml" afterPath="$PROJECT_DIR$/monster/electro-elementals/energy elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/electro-elementals/massive energy elemental.xml" afterPath="$PROJECT_DIR$/monster/electro-elementals/massive energy elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/electro-elementals/overcharged energy elemental.xml" afterPath="$PROJECT_DIR$/monster/electro-elementals/overcharged energy elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elemental lords/earth overlord.xml" afterPath="$PROJECT_DIR$/monster/elemental lords/earth overlord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elemental lords/energy overlord.xml" afterPath="$PROJECT_DIR$/monster/elemental lords/energy overlord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elemental lords/fire overlord.xml" afterPath="$PROJECT_DIR$/monster/elemental lords/fire overlord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elemental lords/ice overlord.xml" afterPath="$PROJECT_DIR$/monster/elemental lords/ice overlord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elemental lords/lord of the elements.xml" afterPath="$PROJECT_DIR$/monster/elemental lords/lord of the elements.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elves/elf arcanist.xml" afterPath="$PROJECT_DIR$/monster/elves/elf arcanist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elves/elf scout.xml" afterPath="$PROJECT_DIR$/monster/elves/elf scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elves/elf.xml" afterPath="$PROJECT_DIR$/monster/elves/elf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/elves/firestarter.xml" afterPath="$PROJECT_DIR$/monster/elves/firestarter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/doomsday cultist.xml" afterPath="$PROJECT_DIR$/monster/event creatures/doomsday cultist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/dryad.xml" afterPath="$PROJECT_DIR$/monster/event creatures/dryad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/football.xml" afterPath="$PROJECT_DIR$/monster/event creatures/football.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/grynch clan goblin.xml" afterPath="$PROJECT_DIR$/monster/event creatures/grynch clan goblin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/hacker.xml" afterPath="$PROJECT_DIR$/monster/event creatures/hacker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/primitive.xml" afterPath="$PROJECT_DIR$/monster/event creatures/primitive.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/the halloween hare.xml" afterPath="$PROJECT_DIR$/monster/event creatures/the halloween hare.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/event creatures/tibia bug.xml" afterPath="$PROJECT_DIR$/monster/event creatures/tibia bug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/cat.xml" afterPath="$PROJECT_DIR$/monster/felines/cat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/kitty.xml" afterPath="$PROJECT_DIR$/monster/felines/kitty.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/lion.xml" afterPath="$PROJECT_DIR$/monster/felines/lion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/midnight panther.xml" afterPath="$PROJECT_DIR$/monster/felines/midnight panther.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/noble lion.xml" afterPath="$PROJECT_DIR$/monster/felines/noble lion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/roaring lion.xml" afterPath="$PROJECT_DIR$/monster/felines/roaring lion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/felines/tiger.xml" afterPath="$PROJECT_DIR$/monster/felines/tiger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/fish/fish.xml" afterPath="$PROJECT_DIR$/monster/fish/fish.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/fish/manta ray.xml" afterPath="$PROJECT_DIR$/monster/fish/manta ray.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/fish/northern pike.xml" afterPath="$PROJECT_DIR$/monster/fish/northern pike.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/fish/shark.xml" afterPath="$PROJECT_DIR$/monster/fish/shark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/azure frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/azure frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/bog frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/bog frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/coral frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/coral frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/crimson frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/crimson frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/deathspawn.xml" afterPath="$PROJECT_DIR$/monster/frogs/deathspawn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/filth toad.xml" afterPath="$PROJECT_DIR$/monster/frogs/filth toad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/green frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/green frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/infernal frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/infernal frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/orchid frog.xml" afterPath="$PROJECT_DIR$/monster/frogs/orchid frog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/frogs/toad.xml" afterPath="$PROJECT_DIR$/monster/frogs/toad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/armadile.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/armadile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/clay guardian.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/clay guardian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/cliff strider.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/cliff strider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/crystalcrusher.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/crystalcrusher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/damaged crystal golem.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/damaged crystal golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/earth elemental.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/earth elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/enraged crystal golem.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/enraged crystal golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/eternal guardian.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/eternal guardian.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/forest fury.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/forest fury.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/gargoyle.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/gargoyle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/ironblight.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/ironblight.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/jagged earth elemental.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/jagged earth elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/massive earth elemental.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/massive earth elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/medusa.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/medusa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/muddy earth elemental.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/muddy earth elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/orewalker.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/orewalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/shard of corruption.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/shard of corruption.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/stone devourer.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/stone devourer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/geo-elementals/stone golem.xml" afterPath="$PROJECT_DIR$/monster/geo-elementals/stone golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/ghost.xml" afterPath="$PROJECT_DIR$/monster/ghosts/ghost.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/phantasm summon.xml" afterPath="$PROJECT_DIR$/monster/ghosts/phantasm summon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/phantasm.xml" afterPath="$PROJECT_DIR$/monster/ghosts/phantasm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/rift phantom.xml" afterPath="$PROJECT_DIR$/monster/ghosts/rift phantom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/souleater.xml" afterPath="$PROJECT_DIR$/monster/ghosts/souleater.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/spectre.xml" afterPath="$PROJECT_DIR$/monster/ghosts/spectre.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/tarnished spirit.xml" afterPath="$PROJECT_DIR$/monster/ghosts/tarnished spirit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/tormented ghost.xml" afterPath="$PROJECT_DIR$/monster/ghosts/tormented ghost.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/white shade.xml" afterPath="$PROJECT_DIR$/monster/ghosts/white shade.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ghosts/wisp.xml" afterPath="$PROJECT_DIR$/monster/ghosts/wisp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/behemoth.xml" afterPath="$PROJECT_DIR$/monster/giants/behemoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/cyclops drone.xml" afterPath="$PROJECT_DIR$/monster/giants/cyclops drone.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/cyclops smith.xml" afterPath="$PROJECT_DIR$/monster/giants/cyclops smith.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/cyclops.xml" afterPath="$PROJECT_DIR$/monster/giants/cyclops.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/frost giant.xml" afterPath="$PROJECT_DIR$/monster/giants/frost giant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/giants/frost giantess.xml" afterPath="$PROJECT_DIR$/monster/giants/frost giantess.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/cave rat.xml" afterPath="$PROJECT_DIR$/monster/glires/cave rat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/enraged squirrel.xml" afterPath="$PROJECT_DIR$/monster/glires/enraged squirrel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/killer rabbit.xml" afterPath="$PROJECT_DIR$/monster/glires/killer rabbit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/rabbit.xml" afterPath="$PROJECT_DIR$/monster/glires/rabbit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/rat.xml" afterPath="$PROJECT_DIR$/monster/glires/rat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/silver rabbit.xml" afterPath="$PROJECT_DIR$/monster/glires/silver rabbit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/squirrel.xml" afterPath="$PROJECT_DIR$/monster/glires/squirrel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/glires/thieving squirrel.xml" afterPath="$PROJECT_DIR$/monster/glires/thieving squirrel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/goblins/demon (goblin).xml" afterPath="$PROJECT_DIR$/monster/goblins/demon (goblin).xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/goblins/goblin assassin.xml" afterPath="$PROJECT_DIR$/monster/goblins/goblin assassin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/goblins/goblin leader.xml" afterPath="$PROJECT_DIR$/monster/goblins/goblin leader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/goblins/goblin scavenger.xml" afterPath="$PROJECT_DIR$/monster/goblins/goblin scavenger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/goblins/goblin.xml" afterPath="$PROJECT_DIR$/monster/goblins/goblin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hyaenids/ghoulish hyaena.xml" afterPath="$PROJECT_DIR$/monster/hyaenids/ghoulish hyaena.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hyaenids/gnarlhound.xml" afterPath="$PROJECT_DIR$/monster/hyaenids/gnarlhound.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hyaenids/hyaena.xml" afterPath="$PROJECT_DIR$/monster/hyaenids/hyaena.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hyaenids/modified gnarlhound.xml" afterPath="$PROJECT_DIR$/monster/hyaenids/modified gnarlhound.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hydro-elementals/massive water elemental.xml" afterPath="$PROJECT_DIR$/monster/hydro-elementals/massive water elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hydro-elementals/roaring water elemental.xml" afterPath="$PROJECT_DIR$/monster/hydro-elementals/roaring water elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hydro-elementals/slick water elemental.xml" afterPath="$PROJECT_DIR$/monster/hydro-elementals/slick water elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/hydro-elementals/water elemental.xml" afterPath="$PROJECT_DIR$/monster/hydro-elementals/water elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/ancient scarab.xml" afterPath="$PROJECT_DIR$/monster/insects/ancient scarab.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/blue butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/blue butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/brimstone bug.xml" afterPath="$PROJECT_DIR$/monster/insects/brimstone bug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/bug.xml" afterPath="$PROJECT_DIR$/monster/insects/bug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/cockroach.xml" afterPath="$PROJECT_DIR$/monster/insects/cockroach.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/emerald damselfly.xml" afterPath="$PROJECT_DIR$/monster/insects/emerald damselfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/fleshslicer.xml" afterPath="$PROJECT_DIR$/monster/insects/fleshslicer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/hive overseer.xml" afterPath="$PROJECT_DIR$/monster/insects/hive overseer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/insect swarm.xml" afterPath="$PROJECT_DIR$/monster/insects/insect swarm.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/insectoid scout.xml" afterPath="$PROJECT_DIR$/monster/insects/insectoid scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/insectoid worker.xml" afterPath="$PROJECT_DIR$/monster/insects/insectoid worker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/kollos.xml" afterPath="$PROJECT_DIR$/monster/insects/kollos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/ladybug.xml" afterPath="$PROJECT_DIR$/monster/insects/ladybug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/lancer beetle.xml" afterPath="$PROJECT_DIR$/monster/insects/lancer beetle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/larva.xml" afterPath="$PROJECT_DIR$/monster/insects/larva.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/lesser swarmer.xml" afterPath="$PROJECT_DIR$/monster/insects/lesser swarmer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/parasite.xml" afterPath="$PROJECT_DIR$/monster/insects/parasite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/pink butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/pink butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/purple butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/purple butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/red butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/red butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/sandcrawler.xml" afterPath="$PROJECT_DIR$/monster/insects/sandcrawler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/scarab.xml" afterPath="$PROJECT_DIR$/monster/insects/scarab.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/spidris elite.xml" afterPath="$PROJECT_DIR$/monster/insects/spidris elite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/spidris.xml" afterPath="$PROJECT_DIR$/monster/insects/spidris.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/swarmer hatchling.xml" afterPath="$PROJECT_DIR$/monster/insects/swarmer hatchling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/swarmer.xml" afterPath="$PROJECT_DIR$/monster/insects/swarmer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/terramite.xml" afterPath="$PROJECT_DIR$/monster/insects/terramite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/wasp.xml" afterPath="$PROJECT_DIR$/monster/insects/wasp.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/waspoid.xml" afterPath="$PROJECT_DIR$/monster/insects/waspoid.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/insects/yellow butterfly.xml" afterPath="$PROJECT_DIR$/monster/insects/yellow butterfly.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/battlemaster zunzu.xml" afterPath="$PROJECT_DIR$/monster/lizards/battlemaster zunzu.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/draken abomination.xml" afterPath="$PROJECT_DIR$/monster/lizards/draken abomination.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/draken elite.xml" afterPath="$PROJECT_DIR$/monster/lizards/draken elite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/draken spellweaver.xml" afterPath="$PROJECT_DIR$/monster/lizards/draken spellweaver.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/draken warmaster.xml" afterPath="$PROJECT_DIR$/monster/lizards/draken warmaster.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard chosen.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard chosen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard dragon priest.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard dragon priest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard high guard.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard high guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard legionnaire.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard legionnaire.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard magistratus.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard magistratus.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard noble.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard noble.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard sentinel.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard sentinel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard snakecharmer.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard snakecharmer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard templar.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard templar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/lizard zaogun.xml" afterPath="$PROJECT_DIR$/monster/lizards/lizard zaogun.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/lizards/wyvern.xml" afterPath="$PROJECT_DIR$/monster/lizards/wyvern.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/damaged worker golem.xml" afterPath="$PROJECT_DIR$/monster/machines/damaged worker golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/diamond servant.xml" afterPath="$PROJECT_DIR$/monster/machines/diamond servant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/glooth golem.xml" afterPath="$PROJECT_DIR$/monster/machines/glooth golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/golden servant.xml" afterPath="$PROJECT_DIR$/monster/machines/golden servant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/iron servant.xml" afterPath="$PROJECT_DIR$/monster/machines/iron servant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/mechanical fighter.xml" afterPath="$PROJECT_DIR$/monster/machines/mechanical fighter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/metal gargoyle.xml" afterPath="$PROJECT_DIR$/monster/machines/metal gargoyle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/rustheap golem.xml" afterPath="$PROJECT_DIR$/monster/machines/rustheap golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/servant golem.xml" afterPath="$PROJECT_DIR$/monster/machines/servant golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/walker.xml" afterPath="$PROJECT_DIR$/monster/machines/walker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/war golem.xml" afterPath="$PROJECT_DIR$/monster/machines/war golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/machines/worker golem.xml" afterPath="$PROJECT_DIR$/monster/machines/worker golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/infected weeper.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/infected weeper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/lava golem.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/lava golem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/magma crawler.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/magma crawler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/minion of versperoth.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/minion of versperoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/vulcongra.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/vulcongra.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/magma-elementals/weeper.xml" afterPath="$PROJECT_DIR$/monster/magma-elementals/weeper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/depowered minotaur.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/depowered minotaur.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/execowtioner.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/execowtioner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/glooth powered minotaur.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/glooth powered minotaur.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur amazon.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur amazon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur archer.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur archer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur bruiser.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur bruiser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur guard.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur hunter.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur hunter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur invader.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur invader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur mage.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur mage.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur occultist.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur occultist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur poacher.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur poacher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur totem.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur totem.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/minotaur.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/minotaur.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/mooh'tah warrior.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/mooh'tah warrior.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/moohtant.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/moohtant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/minotaurs/worm priestess.xml" afterPath="$PROJECT_DIR$/monster/minotaurs/worm priestess.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/misc/misc reptiles/crocodile.xml" afterPath="$PROJECT_DIR$/monster/misc/misc reptiles/crocodile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/misc/misc reptiles/hydra.xml" afterPath="$PROJECT_DIR$/monster/misc/misc reptiles/hydra.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/misc/misc reptiles/killer caiman.xml" afterPath="$PROJECT_DIR$/monster/misc/misc reptiles/killer caiman.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/misc/misc reptiles/thornback tortoise.xml" afterPath="$PROJECT_DIR$/monster/misc/misc reptiles/thornback tortoise.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/misc/misc reptiles/tortoise.xml" afterPath="$PROJECT_DIR$/monster/misc/misc reptiles/tortoise.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mollusks/calamary.xml" afterPath="$PROJECT_DIR$/monster/mollusks/calamary.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mollusks/slug.xml" afterPath="$PROJECT_DIR$/monster/mollusks/slug.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/monks/dark monk.xml" afterPath="$PROJECT_DIR$/monster/monks/dark monk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/monks/monk.xml" afterPath="$PROJECT_DIR$/monster/monks/monk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/monsters.xml" afterPath="$PROJECT_DIR$/monster/monsters.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mustelids/badger.xml" afterPath="$PROJECT_DIR$/monster/mustelids/badger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mustelids/skunk.xml" afterPath="$PROJECT_DIR$/monster/mustelids/skunk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mutated/mutated bat.xml" afterPath="$PROJECT_DIR$/monster/mutated/mutated bat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mutated/mutated human.xml" afterPath="$PROJECT_DIR$/monster/mutated/mutated human.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mutated/mutated rat.xml" afterPath="$PROJECT_DIR$/monster/mutated/mutated rat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/mutated/mutated tiger.xml" afterPath="$PROJECT_DIR$/monster/mutated/mutated tiger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/myriapods/centipede.xml" afterPath="$PROJECT_DIR$/monster/myriapods/centipede.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/myriapods/crawler.xml" afterPath="$PROJECT_DIR$/monster/myriapods/crawler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/myriapods/spitter.xml" afterPath="$PROJECT_DIR$/monster/myriapods/spitter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/myriapods/wiggler.xml" afterPath="$PROJECT_DIR$/monster/myriapods/wiggler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/blood hand.xml" afterPath="$PROJECT_DIR$/monster/necromancers/blood hand.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/blood priest.xml" afterPath="$PROJECT_DIR$/monster/necromancers/blood priest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/necromancer servant.xml" afterPath="$PROJECT_DIR$/monster/necromancers/necromancer servant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/necromancer.xml" afterPath="$PROJECT_DIR$/monster/necromancers/necromancer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/priestess.xml" afterPath="$PROJECT_DIR$/monster/necromancers/priestess.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/necromancers/shadow pupil.xml" afterPath="$PROJECT_DIR$/monster/necromancers/shadow pupil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/furious orc berserker.xml" afterPath="$PROJECT_DIR$/monster/orcs/furious orc berserker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc berserker.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc berserker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc leader.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc leader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc marauder.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc marauder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc rider.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc rider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc sambackpack.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc sambackpack.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc shaman.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc shaman.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc spearman.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc spearman.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc warlord.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc warlord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc warrior.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc warrior.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/orc.xml" afterPath="$PROJECT_DIR$/monster/orcs/orc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/raid/orcarmor.xml" afterPath="$PROJECT_DIR$/monster/orcs/raid/orcarmor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/raid/orchelmet.xml" afterPath="$PROJECT_DIR$/monster/orcs/raid/orchelmet.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/raid/orcshield.xml" afterPath="$PROJECT_DIR$/monster/orcs/raid/orcshield.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/rorc.xml" afterPath="$PROJECT_DIR$/monster/orcs/rorc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/orcs/running elite orc guard.xml" afterPath="$PROJECT_DIR$/monster/orcs/running elite orc guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/adventurer.xml" afterPath="$PROJECT_DIR$/monster/outlaws/adventurer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/angry adventurer.xml" afterPath="$PROJECT_DIR$/monster/outlaws/angry adventurer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/assassin.xml" afterPath="$PROJECT_DIR$/monster/outlaws/assassin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/bandit.xml" afterPath="$PROJECT_DIR$/monster/outlaws/bandit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/black knight.xml" afterPath="$PROJECT_DIR$/monster/outlaws/black knight.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/crazed beggar.xml" afterPath="$PROJECT_DIR$/monster/outlaws/crazed beggar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/crypt defiler.xml" afterPath="$PROJECT_DIR$/monster/outlaws/crypt defiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/feverish citizen.xml" afterPath="$PROJECT_DIR$/monster/outlaws/feverish citizen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/gang member.xml" afterPath="$PROJECT_DIR$/monster/outlaws/gang member.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/gladiator.xml" afterPath="$PROJECT_DIR$/monster/outlaws/gladiator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/grave robber.xml" afterPath="$PROJECT_DIR$/monster/outlaws/grave robber.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/hero.xml" afterPath="$PROJECT_DIR$/monster/outlaws/hero.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/hunter.xml" afterPath="$PROJECT_DIR$/monster/outlaws/hunter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/nomad.xml" afterPath="$PROJECT_DIR$/monster/outlaws/nomad.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/nomadBlue.xml" afterPath="$PROJECT_DIR$/monster/outlaws/nomadBlue.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/nomadFemale.xml" afterPath="$PROJECT_DIR$/monster/outlaws/nomadFemale.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/poacher.xml" afterPath="$PROJECT_DIR$/monster/outlaws/poacher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/smuggler.xml" afterPath="$PROJECT_DIR$/monster/outlaws/smuggler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/stalker.xml" afterPath="$PROJECT_DIR$/monster/outlaws/stalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/thief.xml" afterPath="$PROJECT_DIR$/monster/outlaws/thief.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/travelling merchant.xml" afterPath="$PROJECT_DIR$/monster/outlaws/travelling merchant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/werewolf.xml" afterPath="$PROJECT_DIR$/monster/outlaws/werewolf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/outlaws/wild warrior.xml" afterPath="$PROJECT_DIR$/monster/outlaws/wild warrior.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/ashmunrah.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/ashmunrah.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/dipthrah.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/dipthrah.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/mahrdis.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/mahrdis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/morguthis.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/morguthis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/omruc.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/omruc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/rahemos.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/rahemos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/superior death minion.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/superior death minion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/thalas.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/thalas.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pharaohs/vashresamun.xml" afterPath="$PROJECT_DIR$/monster/pharaohs/vashresamun.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate buccaneer.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate buccaneer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate corsair.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate corsair.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate cutthroat.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate cutthroat.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate ghost.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate ghost.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate marauder.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate marauder.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pirates/pirate skeleton.xml" afterPath="$PROJECT_DIR$/monster/pirates/pirate skeleton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/blazing fire elemental.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/blazing fire elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/blistering fire elemental.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/blistering fire elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/fire elemental.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/fire elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/flame of omrafir.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/flame of omrafir.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/hellfire fighter.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/hellfire fighter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/pyro-elementals/massive fire elemental.xml" afterPath="$PROJECT_DIR$/monster/pyro-elementals/massive fire elemental.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara constrictor scout.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara constrictor scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara constrictor.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara constrictor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara hydromancer scout.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara hydromancer scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara hydromancer.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara hydromancer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara mantassin scout.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara mantassin scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara mantassin.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara mantassin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara pincher scout.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara pincher scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara pincher.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara pincher.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara predator scout.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara predator scout.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/quaras/quara predator.xml" afterPath="$PROJECT_DIR$/monster/quaras/quara predator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/salamanders/salamander.xml" afterPath="$PROJECT_DIR$/monster/salamanders/salamander.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/serpents/cobra.xml" afterPath="$PROJECT_DIR$/monster/serpents/cobra.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/serpents/sea serpent.xml" afterPath="$PROJECT_DIR$/monster/serpents/sea serpent.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/serpents/serpent spawn.xml" afterPath="$PROJECT_DIR$/monster/serpents/serpent spawn.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/serpents/snake.xml" afterPath="$PROJECT_DIR$/monster/serpents/snake.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/serpents/young sea serpent.xml" afterPath="$PROJECT_DIR$/monster/serpents/young sea serpent.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/shapeshifters/mimic.xml" afterPath="$PROJECT_DIR$/monster/shapeshifters/mimic.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/betrayed wraith.xml" afterPath="$PROJECT_DIR$/monster/skeletons/betrayed wraith.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/bonebeast.xml" afterPath="$PROJECT_DIR$/monster/skeletons/bonebeast.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/demon skeleton.xml" afterPath="$PROJECT_DIR$/monster/skeletons/demon skeleton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/dreadbeast.xml" afterPath="$PROJECT_DIR$/monster/skeletons/dreadbeast.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/honour guard.xml" afterPath="$PROJECT_DIR$/monster/skeletons/honour guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/lesser death minion.xml" afterPath="$PROJECT_DIR$/monster/skeletons/lesser death minion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/lost soul.xml" afterPath="$PROJECT_DIR$/monster/skeletons/lost soul.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/party skeleton.xml" afterPath="$PROJECT_DIR$/monster/skeletons/party skeleton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/skeleton warrior.xml" afterPath="$PROJECT_DIR$/monster/skeletons/skeleton warrior.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/skeleton.xml" afterPath="$PROJECT_DIR$/monster/skeletons/skeleton.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/sloth wraith.xml" afterPath="$PROJECT_DIR$/monster/skeletons/sloth wraith.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/spectral scum.xml" afterPath="$PROJECT_DIR$/monster/skeletons/spectral scum.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/undead cavebear.xml" afterPath="$PROJECT_DIR$/monster/skeletons/undead cavebear.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/undead gladiator.xml" afterPath="$PROJECT_DIR$/monster/skeletons/undead gladiator.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/undead mine worker.xml" afterPath="$PROJECT_DIR$/monster/skeletons/undead mine worker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/skeletons/undead minion.xml" afterPath="$PROJECT_DIR$/monster/skeletons/undead minion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/dark apprentice.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/dark apprentice.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/dark magician.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/dark magician.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/ice witch.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/ice witch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/incredibly old witch.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/incredibly old witch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/infernalist.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/infernalist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/mad scientist.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/mad scientist.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/warlock.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/warlock.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/witch.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/witch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/sorcerers/yalahari.xml" afterPath="$PROJECT_DIR$/monster/sorcerers/yalahari.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/annihilon.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/annihilon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/golgordan.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/golgordan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/hellgorak.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/hellgorak.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/latrivan.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/latrivan.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/madareth.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/madareth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/ushuriel.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/ushuriel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the ruthless seven minions/zugurosh.xml" afterPath="$PROJECT_DIR$/monster/the ruthless seven minions/zugurosh.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the triangle of terror/ghazbaran.xml" afterPath="$PROJECT_DIR$/monster/the triangle of terror/ghazbaran.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the triangle of terror/morgaroth.xml" afterPath="$PROJECT_DIR$/monster/the triangle of terror/morgaroth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/the triangle of terror/zoralurk.xml" afterPath="$PROJECT_DIR$/monster/the triangle of terror/zoralurk.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/a carved stone tile.xml" afterPath="$PROJECT_DIR$/monster/traps/a carved stone tile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/deathslicer.xml" afterPath="$PROJECT_DIR$/monster/traps/deathslicer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/deaththrower.xml" afterPath="$PROJECT_DIR$/monster/traps/deaththrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/demon summoner.xml" afterPath="$PROJECT_DIR$/monster/traps/demon summoner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/dwarf dispenser.xml" afterPath="$PROJECT_DIR$/monster/traps/dwarf dispenser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/flamethrower.xml" afterPath="$PROJECT_DIR$/monster/traps/flamethrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/hell hole.xml" afterPath="$PROJECT_DIR$/monster/traps/hell hole.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/hive pore.xml" afterPath="$PROJECT_DIR$/monster/traps/hive pore.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/lavahole.xml" afterPath="$PROJECT_DIR$/monster/traps/lavahole.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/magic pillar.xml" afterPath="$PROJECT_DIR$/monster/traps/magic pillar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/magicthrower.xml" afterPath="$PROJECT_DIR$/monster/traps/magicthrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/pillar.xml" afterPath="$PROJECT_DIR$/monster/traps/pillar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/plaguethrower.xml" afterPath="$PROJECT_DIR$/monster/traps/plaguethrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/traps/shredderthrower.xml" afterPath="$PROJECT_DIR$/monster/traps/shredderthrower.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/frost troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/frost troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/furious troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/furious troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/island troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/island troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/swamp troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/swamp troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/troll champion.xml" afterPath="$PROJECT_DIR$/monster/trolls/troll champion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/troll guard.xml" afterPath="$PROJECT_DIR$/monster/trolls/troll guard.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/troll legionnaire.xml" afterPath="$PROJECT_DIR$/monster/trolls/troll legionnaire.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/trolls/young troll.xml" afterPath="$PROJECT_DIR$/monster/trolls/young troll.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/banshee.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/banshee.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/blightwalker.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/blightwalker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/crypt shambler.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/crypt shambler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/death priest.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/death priest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/elder mummy.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/elder mummy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/ghoul.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/ghoul.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/greater death minion.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/greater death minion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/grim reaper.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/grim reaper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/lich.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/lich.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/mummy.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/mummy.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/tomb servant.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/tomb servant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/undead prospector.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/undead prospector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/undead humanoids/zombie.xml" afterPath="$PROJECT_DIR$/monster/undead humanoids/zombie.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/black sheep.xml" afterPath="$PROJECT_DIR$/monster/ungulates/black sheep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/boar.xml" afterPath="$PROJECT_DIR$/monster/ungulates/boar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/deer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/deer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/desperate white deer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/desperate white deer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/donkey.xml" afterPath="$PROJECT_DIR$/monster/ungulates/donkey.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/doom deer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/doom deer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/dromedary.xml" afterPath="$PROJECT_DIR$/monster/ungulates/dromedary.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/elephant.xml" afterPath="$PROJECT_DIR$/monster/ungulates/elephant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/enraged white deer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/enraged white deer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/evil sheep lord.xml" afterPath="$PROJECT_DIR$/monster/ungulates/evil sheep lord.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/evil sheep.xml" afterPath="$PROJECT_DIR$/monster/ungulates/evil sheep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/horse(brown).xml" afterPath="$PROJECT_DIR$/monster/ungulates/horse(brown).xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/horse(grey).xml" afterPath="$PROJECT_DIR$/monster/ungulates/horse(grey).xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/horse(wild).xml" afterPath="$PROJECT_DIR$/monster/ungulates/horse(wild).xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/horse.xml" afterPath="$PROJECT_DIR$/monster/ungulates/horse.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/mammoth.xml" afterPath="$PROJECT_DIR$/monster/ungulates/mammoth.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/mushroom sniffer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/mushroom sniffer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/pig.xml" afterPath="$PROJECT_DIR$/monster/ungulates/pig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/sheep.xml" afterPath="$PROJECT_DIR$/monster/ungulates/sheep.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/stampor.xml" afterPath="$PROJECT_DIR$/monster/ungulates/stampor.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/terrified elephant.xml" afterPath="$PROJECT_DIR$/monster/ungulates/terrified elephant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/vampire pig.xml" afterPath="$PROJECT_DIR$/monster/ungulates/vampire pig.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/water buffalo.xml" afterPath="$PROJECT_DIR$/monster/ungulates/water buffalo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/ungulates/white deer.xml" afterPath="$PROJECT_DIR$/monster/ungulates/white deer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/vampires/vampire bride.xml" afterPath="$PROJECT_DIR$/monster/vampires/vampire bride.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/vampires/vampire viscount.xml" afterPath="$PROJECT_DIR$/monster/vampires/vampire viscount.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/vampires/vampire.xml" afterPath="$PROJECT_DIR$/monster/vampires/vampire.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/voodoo cultists/acolyte of the cult.xml" afterPath="$PROJECT_DIR$/monster/voodoo cultists/acolyte of the cult.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/voodoo cultists/adept of the cult.xml" afterPath="$PROJECT_DIR$/monster/voodoo cultists/adept of the cult.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/voodoo cultists/enlightened of the cult.xml" afterPath="$PROJECT_DIR$/monster/voodoo cultists/enlightened of the cult.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/voodoo cultists/novice of the cult.xml" afterPath="$PROJECT_DIR$/monster/voodoo cultists/novice of the cult.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/wild magics/wild fire magic.xml" afterPath="$PROJECT_DIR$/monster/wild magics/wild fire magic.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/wild magics/wild fury magic.xml" afterPath="$PROJECT_DIR$/monster/wild magics/wild fury magic.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/wild magics/wild nature magic.xml" afterPath="$PROJECT_DIR$/monster/wild magics/wild nature magic.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/monster/wild magics/wild water magic.xml" afterPath="$PROJECT_DIR$/monster/wild magics/wild water magic.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/items/items.xml" afterPath="$PROJECT_DIR$/items/items.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -790,11 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dragon hatchling.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monster/dragons/dragon hatchling.xml">
+      <file leaf-file-name="items.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/items/items.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-93">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="603">
+              <caret line="2857" column="49" lean-forward="true" selection-start-line="2857" selection-start-column="49" selection-end-line="2857" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -825,6 +55,8 @@
       <find>&lt;loot&gt;</find>
       <find>&lt;loot&gt;\n.+&lt;</find>
       <find>&lt;loot&gt;\n\s+&lt;</find>
+      <find>value=&quot;axe&quot;</find>
+      <find>value=&quot;club&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>Percent=&quot;-35&quot;</replace>
@@ -841,12 +73,14 @@
       <replace>&lt;loot&gt;\n\s+&lt;item id=&quot;8931&quot; chance=&quot;3&quot; /&gt;\n     &lt;</replace>
       <replace>&lt;loot&gt;&lt;item id=&quot;8931&quot; chance=&quot;3&quot; /&gt;&lt;</replace>
       <replace>&lt;loot&gt;&lt;item id=&quot;8931&quot; chance=&quot;3&quot; /&gt; &lt;!-- the epiphany--&gt;&lt;</replace>
+      <replace>value=&quot;sword&quot;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\spells\scripts</dir>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\spells\scripts\attack</dir>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\monster\amazons</dir>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\monster</dir>
+      <dir>C:\Users\Hoskit\Desktop\Tibia\data\items</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -861,7 +95,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/XML/stages.xml" />
-        <option value="$PROJECT_DIR$/items/items.xml" />
         <option value="$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua" />
         <option value="$PROJECT_DIR$/spells/scripts/attack/front sweep.lua" />
         <option value="$PROJECT_DIR$/XML/vocations.xml" />
@@ -892,6 +125,7 @@
         <option value="$PROJECT_DIR$/monster/amazons/amazon.xml" />
         <option value="$PROJECT_DIR$/monster/amazons/valkyrie.xml" />
         <option value="$PROJECT_DIR$/monster/demons/demon.xml" />
+        <option value="$PROJECT_DIR$/items/items.xml" />
       </list>
     </option>
   </component>
@@ -937,110 +171,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="XML" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weapons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weapons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weapons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spells" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spells" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spells" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="attack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1365,7 +495,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1381,7 +511,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1469,14 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/items/items.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425918">
-          <caret line="25054" column="52" lean-forward="false" selection-start-line="25054" selection-start-column="52" selection-end-line="25054" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -1811,8 +933,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monster/dragons/dragon hatchling.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-93">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="502">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/items.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="2857" column="49" lean-forward="true" selection-start-line="2857" selection-start-column="49" selection-end-line="2857" selection-end-column="49" />
           <folding />
         </state>
       </provider>

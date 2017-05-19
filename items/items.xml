@@ -3180,8 +3180,8 @@
 		<attribute key="description" value="The blade is a magic flame." />
 		<attribute key="weight" value="2300" />
 		<attribute key="defense" value="20" />
-		<attribute key="attack" value="24" />
-		<attribute key="elementFire" value="11" />
+		<attribute key="attack" value="34" />
+		<attribute key="elementFire" value="45" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
@@ -3496,6 +3496,7 @@
 		<attribute key="defense" value="12" />
 		<attribute key="attack" value="36" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="elementIce" value="47" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="2437" article="a" name="light mace">

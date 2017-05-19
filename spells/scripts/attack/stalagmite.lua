@@ -4,8 +4,8 @@ combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_STONES)
 combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_EARTH)
 
 function onGetFormulaValues(player, level, maglevel)
-	min = -((level * 2) + (maglevel * 3.7) + 25)
-	max = -((level * 2) + (maglevel * 4.5) + 50)
+	min = -((level * 2) + (maglevel * 2.7) + 25)
+	max = -((level * 2) + (maglevel * 3.5) + 50)
 	return min, max
 end
 

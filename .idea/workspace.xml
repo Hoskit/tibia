@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dff951e-b025-448d-bada-6a1ee75f1527" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/divine caldera.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/divine caldera.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/divine missile.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/divine missile.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/ethereal spear.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/ethereal spear.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/physical strike.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/physical strike.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/strong ethereal spear.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/strong ethereal spear.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/healing/divine healing.lua" afterPath="$PROJECT_DIR$/spells/scripts/healing/divine healing.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/healing/heal friend.lua" afterPath="$PROJECT_DIR$/spells/scripts/healing/heal friend.lua" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/healing/salvation.lua" afterPath="$PROJECT_DIR$/spells/scripts/healing/salvation.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/avalanche.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/avalanche.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/energy wave.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/energy wave.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/fire wave.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/fire wave.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/fireball.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/fireball.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/great fireball.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/great fireball.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/icicle.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/icicle.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/stone shower.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/stone shower.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/strong ice wave.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/strong ice wave.lua" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spells/scripts/attack/thunderstorm.lua" afterPath="$PROJECT_DIR$/spells/scripts/attack/thunderstorm.lua" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,101 +27,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="intense wound cleansing.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua">
+      <file leaf-file-name="fireball.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/fireball.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="weapons.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weapons/weapons.xml">
+      <file leaf-file-name="avalanche.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/avalanche.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="683" column="0" lean-forward="false" selection-start-line="683" selection-start-column="0" selection-end-line="683" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="amazon.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/amazons/amazon.xml">
+      <file leaf-file-name="great fireball.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/great fireball.lua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="170">
+              <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="giant spider wyda.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/arachnids/giant spider wyda.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kongra.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/apes/kongra.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="crystal spider.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/arachnids/crystal spider.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="39" column="23" lean-forward="false" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rift worm.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/annelids/rift worm.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="askarak demon.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monster/arak demons/askarak demon.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="42" column="33" lean-forward="true" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="divine caldera.lua" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/divine caldera.lua">
+      <file leaf-file-name="stone shower.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/stone shower.lua">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="divine missile.lua" pinned="false" current-in-tab="true">
+      <file leaf-file-name="thunderstorm.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/thunderstorm.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="whirlwind throw.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/whirlwind throw.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ultimate terra strike.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate terra strike.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ultimate flame strike.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate flame strike.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ultimate energy strike.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate energy strike.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="divine missile.lua" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spells/scripts/attack/divine missile.lua">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -142,6 +145,10 @@
       <find>Percent=&quot;-25&quot;</find>
       <find>Percent=&quot;-30&quot;</find>
       <find>level / 5</find>
+      <find>3.7</find>
+      <find>4.5</find>
+      <find>7.6</find>
+      <find>2.85</find>
     </findStrings>
     <replaceStrings>
       <replace>Percent=&quot;-35&quot;</replace>
@@ -150,10 +157,15 @@
       <replace>Percent=&quot;-80&quot;</replace>
       <replace>Percent=&quot;-100&quot;</replace>
       <replace>level * 2</replace>
+      <replace>2.7</replace>
+      <replace>3.5</replace>
+      <replace>5.5</replace>
+      <replace>2.1</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\monster</dir>
       <dir>C:\Users\Hoskit\Desktop\Tibia\data\spells\scripts</dir>
+      <dir>C:\Users\Hoskit\Desktop\Tibia\data\spells\scripts\attack</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -167,10 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spells/scripts/attack/fireball.lua" />
-        <option value="$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua" />
-        <option value="$PROJECT_DIR$/spells/scripts/attack/icicle.lua" />
-        <option value="$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua" />
         <option value="$PROJECT_DIR$/XML/stages.xml" />
         <option value="$PROJECT_DIR$/items/items.xml" />
         <option value="$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua" />
@@ -190,6 +198,17 @@
         <option value="$PROJECT_DIR$/monster/arak demons/askarak demon.xml" />
         <option value="$PROJECT_DIR$/spells/scripts/attack/divine caldera.lua" />
         <option value="$PROJECT_DIR$/spells/scripts/attack/divine missile.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/fire wave.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/fireball.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/icicle.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/energy wave.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/strong ice wave.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/avalanche.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/great fireball.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/stone shower.lua" />
+        <option value="$PROJECT_DIR$/spells/scripts/attack/thunderstorm.lua" />
       </list>
     </option>
   </component>
@@ -319,10 +338,6 @@
               <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -342,25 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="party" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spells" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scripts" />
+              <option name="myItemId" value="attack" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -725,62 +722,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/items/items.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425918">
-          <caret line="25054" column="52" lean-forward="false" selection-start-line="25054" selection-start-column="52" selection-end-line="25054" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/annihilation.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="85" lean-forward="false" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/front sweep.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="80" lean-forward="false" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/support/blood rage.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/spells.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7361">
-          <caret line="433" column="102" lean-forward="false" selection-start-line="433" selection-start-column="102" selection-end-line="433" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/support/ultimate light.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="62" lean-forward="false" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spells/scripts/healing/intense recovery.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -832,38 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/icicle.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/fireball.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -927,14 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="85" lean-forward="false" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
           <folding />
         </state>
       </provider>
@@ -1011,14 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weapons/weapons.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1083,10 +976,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/healing/intense wound cleansing.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/brutal strike.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="85" lean-forward="false" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/fire wave.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/icicle.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate ice strike.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/energy wave.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/strong ice wave.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/stalagmite.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/heavy magic missile.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/avalanche.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/stone shower.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/thunderstorm.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/whirlwind throw.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate terra strike.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate flame strike.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/ultimate energy strike.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spells/scripts/attack/divine missile.lua">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/great fireball.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spells/scripts/attack/fireball.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding />
         </state>
       </provider>

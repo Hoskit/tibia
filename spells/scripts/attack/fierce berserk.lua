@@ -8,7 +8,7 @@ combat:setArea(area)
 
 function onGetFormulaValues(player, skill, attack, factor)
 	local skillTotal, levelTotal = skill * attack, player:getLevel()
-	return -(((skillTotal * 0.20) + 130) + (levelTotal*2)), -(((skillTotal * 0.3) + 270) + (levelTotal*2))
+	return -(((skillTotal * 0.10) + 130) + (levelTotal*2)), -(((skillTotal * 0.15) + 270) + (levelTotal*2))
 end
 
 combat:setCallback(CALLBACK_PARAM_SKILLVALUE, "onGetFormulaValues")

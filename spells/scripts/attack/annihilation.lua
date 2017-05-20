@@ -7,7 +7,7 @@ combat:setParameter(COMBAT_PARAM_USECHARGES, 1)
 
 function onGetFormulaValues(player, skill, attack, factor)
 	local skillTotal, levelTotal = skill * attack, player:getLevel() / 5
-	return -(((skillTotal * 0.6) + 13) + (levelTotal)), -(((skillTotal * 0.7) + 34) + (levelTotal))
+	return -(((skillTotal * 0.4) + 13) + (levelTotal)), -(((skillTotal * 0.5) + 34) + (levelTotal))
 end
 
 combat:setCallback(CALLBACK_PARAM_SKILLVALUE, "onGetFormulaValues")

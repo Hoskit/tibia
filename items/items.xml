@@ -12504,7 +12504,7 @@
 		<attribute key="weight" value="7200" />
 		<attribute key="defense" value="34" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementDeath" value="144" />
+		<attribute key="elementEnergy" value="144" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -29538,7 +29538,7 @@
 		<attribute key="attack" value="69" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
-		<attribute key="elementDeath" value="24" />
+		<attribute key="elementEnergy" value="24" />
 	</item>
 	<item id="22399" article="a" name="umbral blade">
 		<attribute key="weight" value="5900" />
@@ -29546,7 +29546,7 @@
 		<attribute key="attack" value="79" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="20" />
-		<attribute key="elementDeath" value="34" />
+		<attribute key="elementEnergy" value="34" />
 	</item>
 	<item id="22400" article="a" name="umbral masterblade">
 		<attribute key="weight" value="5500" />
@@ -29555,7 +29555,7 @@
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="30" />
 		<attribute key="skillSword" value="50" />
-		<attribute key="elementDeath" value="44" />
+		<attribute key="elementEnergy" value="44" />
 	</item>
 	<item id="22401" article="a" name="crude umbral slayer">
 		<attribute key="weight" value="10000" />

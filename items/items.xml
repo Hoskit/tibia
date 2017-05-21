@@ -3237,7 +3237,7 @@
 	<item id="2400" article="a" name="magic sword">
 		<attribute key="description" value="It's the Sword of Valor." />
 		<attribute key="weight" value="4200" />
-		<attribute key="defense" value="35" />
+		<attribute key="defense" value="25" />
 		<attribute key="attack" value="43" />
 		<attribute key="elementEnergy" value="27" />
 		<attribute key="weaponType" value="sword" />
@@ -3947,7 +3947,7 @@
 	<item id="2514" article="a" name="mastermind shield">
 		<attribute key="description" value="It's an enchanted shield." />
 		<attribute key="weight" value="5700" />
-		<attribute key="defense" value="77" />
+		<attribute key="defense" value="47" />
 		<attribute key="absorbPercentDeath" value="20" />
 		<attribute key="absorbPercentEarth" value="20" />
 		<attribute key="absorbPercentIce" value="20" />
@@ -23678,7 +23678,7 @@
 	</item>
 	<item id="15413" article="an" name="ornate shield">
 		<attribute key="weight" value="7100" />
-		<attribute key="defense" value="76" />
+		<attribute key="defense" value="56" />
 		<attribute key="absorbPercentPhysical" value="25" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="weaponType" value="shield" />
@@ -23876,7 +23876,7 @@
 	</item>
 	<item id="15491" article="a" name="carapace shield">
 		<attribute key="weight" value="5500" />
-		<attribute key="defense" value="44" />
+		<attribute key="defense" value="40" />
 		<attribute key="absorbPercentEarth" value="25" />
 		<attribute key="weaponType" value="shield" />
 	</item>
@@ -25133,7 +25133,7 @@
 	</item>
 	<item id="18410" article="a" name="prismatic shield">
 		<attribute key="weight" value="7200" />
-		<attribute key="defense" value="97" />
+		<attribute key="defense" value="77" />
 		<attribute key="skillShield" value="50" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="showattributes" value="1" />
@@ -29536,7 +29536,7 @@
 	</item>
 	<item id="22398" article="a" name="crude umbral blade">
 		<attribute key="weight" value="6300" />
-		<attribute key="defense" value="26" />
+		<attribute key="defense" value="21" />
 		<attribute key="attack" value="69" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
@@ -29544,7 +29544,7 @@
 	</item>
 	<item id="22399" article="a" name="umbral blade">
 		<attribute key="weight" value="5900" />
-		<attribute key="defense" value="37" />
+		<attribute key="defense" value="22" />
 		<attribute key="attack" value="79" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="20" />
@@ -29552,7 +29552,7 @@
 	</item>
 	<item id="22400" article="a" name="umbral masterblade">
 		<attribute key="weight" value="5500" />
-		<attribute key="defense" value="49" />
+		<attribute key="defense" value="29" />
 		<attribute key="attack" value="89" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="30" />

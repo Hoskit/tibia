@@ -81,7 +81,7 @@
 		<skill id="6" multiplier="0.8" />
 	</vocation>
 	<vocation id="8" clientid="1" name="Elite Knight" description="an elite knight" gaincap="70" gainhp="60" gainmana="30" gainhpticks="3" gainhpamount="20" gainmanaticks="6" gainmanaamount="10" manamultiplier="1.6" attackspeed="800" basespeed="220" soulmax="200" gainsoulticks="3" fromvoc="4">
-		<formula meleeDamage="1.0" distDamage="1.0" defense="0.9" armor="1.0" />
+		<formula meleeDamage="1.0" distDamage="1.0" defense="0.8" armor="0.8" />
 		<skill id="0" multiplier="0.83" />
 		<skill id="1" multiplier="0.83" />
 		<skill id="2" multiplier="0.83" />

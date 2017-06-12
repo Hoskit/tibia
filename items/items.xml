@@ -4112,47 +4112,47 @@
 	<item id="2543" article="a" name="bolt">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="30" />
+		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="bolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="98" />
 	</item>
 	<item id="2544" article="an" name="arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="25" />
+		<attribute key="attack" value="35" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="arrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="100" />
 	</item>
 	<item id="2545" article="a" name="poison arrow">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="23" />
+		<attribute key="attack" value="33" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="poisonarrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="2546" article="a" name="burst arrow">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="37" />
+		<attribute key="attack" value="42" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="burstarrow" />
-		<attribute key="hitChance" value="100" />
+		<attribute key="hitChance" value="95" />
 	</item>
 	<item id="2547" article="a" name="power bolt">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="40" />
+		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="powerbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="2548" article="a" name="pitchfork">
 		<attribute key="weight" value="2500" />
@@ -11264,11 +11264,11 @@
 	<item id="6529" article="an" name="infernal bolt">
 		<attribute key="weight" value="90" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="72" />
+		<attribute key="attack" value="112" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="infernalbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="6530" article="a" name="worn soft boots">
 		<attribute key="description" value="Someone specialised in shoes might be able to repair them for you." />
@@ -12263,16 +12263,16 @@
 	<item id="7363" article="a" name="piercing bolt">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="33" />
+		<attribute key="attack" value="48" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="piercingbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7364" article="a" name="sniper arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="48" />
+		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="sniperarrow" />
@@ -12281,7 +12281,7 @@
 	<item id="7365" article="an" name="onyx arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="58" />
+		<attribute key="attack" value="77" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="onyxarrow" />
@@ -12304,11 +12304,11 @@
 	</item>
 	<item id="7368" article="an" name="assassin star">
 		<attribute key="weight" value="200" />
-		<attribute key="attack" value="65" />
-		<attribute key="maxHitChance" value="100" />
+		<attribute key="attack" value="120" />
+		<attribute key="maxHitChance" value="110" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="redstar" />
-		<attribute key="range" value="5" />
+		<attribute key="range" value="6" />
 	</item>
 	<item id="7369" article="a" name="golden trophy">
 		<attribute key="weight" value="3500" />
@@ -14015,31 +14015,31 @@
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementEnergy" value="14" />
+		<attribute key="elementEnergy" value="44" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="flasharrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7839" article="a" name="shiver arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementIce" value="14" />
+		<attribute key="elementIce" value="44" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="shiverarrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7840" article="a" name="flaming arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementFire" value="14" />
+		<attribute key="elementFire" value="44" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="flammingarrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7841" article="a" name="straw mat">
 		<attribute key="type" value="bed" />
@@ -14084,11 +14084,11 @@
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
-		<attribute key="elementEarth" value="14" />
+		<attribute key="elementEarth" value="44" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="shootType" value="eartharrow" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="98" />
 	</item>
 	<item fromid="7851" toid="7853" article="an" name="archway" />
 	<item id="7854" article="an" name="earth spike sword">
@@ -15571,8 +15571,10 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="range" value="7" />
-		<attribute key="hitChance" value="5" />
-		<attribute key="attack" value="50" />
+		<attribute key="hitChance" value="18" />
+		<attribute key="attack" value="5" />
+		<attribute key="elementFire" value="15" />
+		<attribute key="elementIce" value="15" />
 	</item>
 	<item id="8852" name="the devileye">
 		<attribute key="weight" value="5500" />
@@ -15598,7 +15600,8 @@
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="8" />
 		<attribute key="hitChance" value="15" />
-		<attribute key="attack" value="30" />
+		<attribute key="attack" value="5" />
+		<attribute key="elementFire" value="15" />
 	</item>
 	<item id="8855" article="a" name="composite hornbow">
 		<attribute key="weight" value="5200" />
@@ -15607,7 +15610,8 @@
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="6" />
 		<attribute key="hitChance" value="20" />
-		<attribute key="attack" value="30" />
+		<attribute key="attack" value="5" />
+		<attribute key="elementEnergy" value="17" />
 	</item>
 	<item id="8856" name="Yol's bow">
 		<attribute key="weight" value="3500" />
@@ -15615,7 +15619,8 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="8" />
-		<attribute key="hitChance" value="30" />
+		<attribute key="hitChance" value="10" />
+		<attribute key="elementIce" value="20" />
 	</item>
 	<item id="8857" article="a" name="silkweaver bow">
 		<attribute key="weight" value="2200" />
@@ -15623,7 +15628,8 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="7" />
-		<attribute key="hitChance" value="20" />
+		<attribute key="hitChance" value="30" />
+		<attribute key="elementFire" value="7" />
 	</item>
 	<item id="8858" name="Elethriel's elemental bow">
 		<attribute key="weight" value="4400" />
@@ -15631,7 +15637,11 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="4" />
-		<attribute key="attack" value="70" />
+		<attribute key="attack" value="1" />
+		<attribute key="elementEarth" value="10" />
+		<attribute key="elementEnergy" value="10" />
+		<attribute key="elementIce" value="10" />
+		<attribute key="elementFire" value="10" />
 	</item>
 	<item id="8859" name="spider fangs">
 		<attribute key="showcount" value="0" />
@@ -15731,80 +15741,80 @@
 	</item>
 	<item id="8878" article="a" name="crystalline armor">
 		<attribute key="weight" value="8450" />
-		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentIce" value="3" />
-		<attribute key="absorbPercentEnergy" value="-3" />
+		<attribute key="armor" value="20" />
+		<attribute key="absorbPercentIce" value="18" />
+		<attribute key="absorbPercentEnergy" value="9" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8879" article="a" name="voltage armor">
 		<attribute key="weight" value="8450" />
-		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentEnergy" value="3" />
-		<attribute key="absorbPercentEarth" value="-3" />
+		<attribute key="armor" value="20" />
+		<attribute key="absorbPercentEnergy" value="18" />
+		<attribute key="absorbPercentEarth" value="9" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8880" article="a" name="swamplair armor">
 		<attribute key="weight" value="8450" />
-		<attribute key="armor" value="13" />
-		<attribute key="absorbPercentEarth" value="3" />
-		<attribute key="absorbPercentFire" value="-3" />
+		<attribute key="armor" value="20" />
+		<attribute key="absorbPercentEarth" value="18" />
+		<attribute key="absorbPercentFire" value="9" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8881" article="a" name="fireborn giant armor">
 		<attribute key="weight" value="12000" />
-		<attribute key="armor" value="26" />
-		<attribute key="skillSword" value="40" />
-		<attribute key="absorbPercentMagic" value="15" />
+		<attribute key="armor" value="23" />
+		<attribute key="skillSword" value="20" />
+		<attribute key="absorbPercentMagic" value="10" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8882" article="an" name="earthborn titan armor">
 		<attribute key="weight" value="12000" />
 		<attribute key="slotType" value="body" />
-		<attribute key="armor" value="26" />
-		<attribute key="skillAxe" value="40" />
-		<attribute key="absorbPercentMagic" value="15" />
+		<attribute key="armor" value="23" />
+		<attribute key="skillSword" value="20" />
+		<attribute key="absorbPercentMagic" value="10" />
 	</item>
 	<item id="8883" article="a" name="windborn colossus armor">
 		<attribute key="weight" value="12000" />
-		<attribute key="armor" value="26" />
-		<attribute key="absorbPercentMagic" value="15" />
-		<attribute key="skillClub" value="40" />
+		<attribute key="armor" value="23" />
+		<attribute key="absorbPercentMagic" value="10" />
+		<attribute key="skillSword" value="20" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8884" article="an" name="oceanborn leviathan armor">
 		<attribute key="weight" value="10000" />
-		<attribute key="armor" value="15" />
+		<attribute key="armor" value="23" />
 		<attribute key="skillShield" value="1" />
 		<attribute key="absorbPercentIce" value="5" />
 		<attribute key="absorbPercentEnergy" value="-5" />
 		<attribute key="slotType" value="body" />
 	</item>
 	<item id="8885" article="a" name="divine plate">
-		<attribute key="armor" value="13" />
+		<attribute key="armor" value="17" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentDeath" value="10" />
-		<attribute key="absorbPercentHoly" value="-10" />
+		<attribute key="absorbPercentDeath" value="20" />
+		<attribute key="absorbPercentHoly" value="10" />
 	</item>
 	<item id="8886" article="a" name="molten plate">
-		<attribute key="armor" value="13" />
+		<attribute key="armor" value="17" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentFire" value="7" />
-		<attribute key="absorbPercentIce" value="-7" />
+		<attribute key="absorbPercentFire" value="17" />
+		<attribute key="absorbPercentIce" value="7" />
 	</item>
 	<item id="8887" article="a" name="frozen plate">
-		<attribute key="armor" value="13" />
+		<attribute key="armor" value="17" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="7500" />
-		<attribute key="absorbPercentIce" value="7" />
-		<attribute key="absorbPercentEnergy" value="-7" />
+		<attribute key="absorbPercentIce" value="17" />
+		<attribute key="absorbPercentEnergy" value="7" />
 	</item>
 	<item id="8888" article="a" name="master archer's armor">
-		<attribute key="armor" value="15" />
+		<attribute key="armor" value="19" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="6900" />
-		<attribute key="skillDist" value="3" />
+		<attribute key="skillDist" value="15" />
 	</item>
 	<item id="8889" article="a" name="skullcracker armor">
 		<attribute key="weight" value="11000" />
@@ -15821,10 +15831,10 @@
 		<attribute key="absorbPercentHoly" value="-12" />
 	</item>
 	<item id="8891" article="a" name="paladin armor">
-		<attribute key="armor" value="12" />
+		<attribute key="armor" value="14" />
 		<attribute key="slotType" value="body" />
 		<attribute key="weight" value="6500" />
-		<attribute key="skillDist" value="2" />
+		<attribute key="skillDist" value="8" />
 	</item>
 	<item id="8892" article="an" name="ethno coat">
 		<attribute key="armor" value="7" />
@@ -16949,10 +16959,10 @@
 	</item>
 	<item id="9777" article="a" name="yalahari leg piece">
 		<attribute key="weight" value="6500" />
-		<attribute key="armor" value="8" />
+		<attribute key="armor" value="12" />
 		<attribute key="slotType" value="legs" />
-		<attribute key="absorbPercentDeath" value="10" />
-		<attribute key="skillDist" value="2" />
+		<attribute key="absorbPercentFire" value="10" />
+		<attribute key="skillDist" value="10" />
 	</item>
 	<item id="9778" article="a" name="yalahari mask">
 		<attribute key="weight" value="3500" />
@@ -19168,7 +19178,7 @@
 		<attribute key="weight" value="500" />
 	</item>
 	<item id="11117" name="crystal boots">
-		<attribute key="armor" value="3" />
+		<attribute key="armor" value="5" />
 		<attribute key="absorbPercentIce" value="7" />
 		<attribute key="absorbPercentEnergy" value="7" />
 		<attribute key="slotType" value="feet" />
@@ -23633,9 +23643,9 @@
 	</item>
 	<item id="15407" article="a" name="depth lorica">
 		<attribute key="weight" value="14500" />
-		<attribute key="armor" value="16" />
+		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="body" />
-		<attribute key="skillDist" value="3" />
+		<attribute key="skillDist" value="20" />
 		<attribute key="absorbPercentDeath" value="5" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -24036,7 +24046,7 @@
 	<item id="15648" article="a" name="tarsal arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="43" />
+		<attribute key="attack" value="56" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="tarsalarrow" />
@@ -24045,11 +24055,11 @@
 	<item id="15649" article="a" name="vortex bolt">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="36" />
+		<attribute key="attack" value="56" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="vortexbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="15650" article="a" name="swarmer drum">
 		<attribute key="weight" value="3200" />
@@ -24199,9 +24209,10 @@
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
-		<attribute key="range" value="6" />
-		<attribute key="attack" value="9" />
-		<attribute key="hitChance" value="1" />
+		<attribute key="range" value="8" />
+		<attribute key="attack" value="10" />
+		<attribute key="hitChance" value="15" />
+		<attribute key="elementIce" value="25" />
 	</item>
 	<item id="16112" article="a" name="spellbook of ancient arcana">
 		<attribute key="weight" value="2500" />
@@ -24807,7 +24818,7 @@
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="crystallinearrow" />
-		<attribute key="maxHitChance" value="95" />
+		<attribute key="maxHitChance" value="100" />
 	</item>
 	<item id="18305" article="a" name="fresh mushroom beer">
 		<attribute key="weight" value="200" />
@@ -25081,7 +25092,7 @@
 		<attribute key="armor" value="24" />
 		<attribute key="slotType" value="head" />
 		<attribute key="absorbPercentPhysical" value="15" />
-		<attribute key="skillShield" value="50" />
+		<attribute key="skillShield" value="20" />
 	</item>
 	<item id="18404" article="a" name="prismatic armor">
 		<attribute key="weight" value="7900" />
@@ -25092,17 +25103,17 @@
 	</item>
 	<item id="18405" name="prismatic legs">
 		<attribute key="weight" value="7100" />
-		<attribute key="armor" value="25" />
+		<attribute key="armor" value="15" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentPhysical" value="12" />
-		<attribute key="skillDist" value="2" />
+		<attribute key="skillDist" value="12" />
 	</item>
 	<item id="18406" name="prismatic boots">
 		<attribute key="weight" value="1800" />
-		<attribute key="armor" value="4" />
+		<attribute key="armor" value="8" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="speed" value="30" />
-		<attribute key="absorbPercentDeath" value="8" />
+		<attribute key="absorbPercentFire" value="8" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="18407" article="a" name="prismatic necklace">
@@ -25225,26 +25236,26 @@
 	<item id="18435" article="a" name="prismatic bolt">
 		<attribute key="weight" value="85" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="66" />
+		<attribute key="attack" value="89" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="prismaticbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="18436" article="a" name="drill bolt">
 		<attribute key="weight" value="80" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="56" />
+		<attribute key="attack" value="76" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="shootType" value="drillbolt" />
-		<attribute key="maxHitChance" value="90" />
+		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="18437" article="a" name="envenomed arrow">
 		<attribute key="weight" value="70" />
 		<attribute key="slotType" value="ammo" />
-		<attribute key="attack" value="27" />
-		<attribute key="elementEarth" value="27" />
+		<attribute key="attack" value="30" />
+		<attribute key="elementEarth" value="30" />
 		<attribute key="weaponType" value="ammunition" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="shootType" value="envenomedarrow" />
@@ -25346,18 +25357,19 @@
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
-		<attribute key="range" value="6" />
-		<attribute key="attack" value="4" />
-		<attribute key="hitChance" value="3" />
+		<attribute key="range" value="9" />
+		<attribute key="attack" value="100" />
+		<attribute key="hitChance" value="-30" />
 	</item>
 	<item id="18454" article="a" name="mycological bow">
 		<attribute key="weight" value="4900" />
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="6" />
-		<attribute key="attack" value="40" />
+		<attribute key="range" value="7" />
+		<attribute key="attack" value="4" />
 		<attribute key="hitChance" value="16" />
+		<attribute key="elementEnergy" value="25" />
 	</item>
 	<item id="18455" article="a" name="pet pig">
 		<attribute key="weight" value="600" />
@@ -29676,26 +29688,26 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
 		<attribute key="range" value="7" />
-		<attribute key="attack" value="2" />
-		<attribute key="hitChance" value="5" />
+		<attribute key="attack" value="10" />
+		<attribute key="hitChance" value="10" />
 	</item>
 	<item id="22417" article="a" name="umbral bow">
 		<attribute key="weight" value="4500" />
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="7" />
-		<attribute key="attack" value="4" />
-		<attribute key="hitChance" value="5" />
+		<attribute key="range" value="8" />
+		<attribute key="attack" value="20" />
+		<attribute key="hitChance" value="12" />
 	</item>
 	<item id="22418" article="a" name="umbral master bow">
 		<attribute key="weight" value="4000" />
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="arrow" />
-		<attribute key="range" value="7" />
-		<attribute key="attack" value="6" />
-		<attribute key="hitChance" value="5" />
+		<attribute key="range" value="9" />
+		<attribute key="attack" value="30" />
+		<attribute key="hitChance" value="15" />
 	</item>
 	<item id="22419" article="a" name="crude umbral crossbow">
 		<attribute key="weight" value="13000" />
@@ -29703,55 +29715,55 @@
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
 		<attribute key="range" value="5" />
-		<attribute key="hitChance" value="1" />
-		<attribute key="attack" value="3" />
+		<attribute key="hitChance" value="5" />
+		<attribute key="attack" value="15" />
 	</item>
 	<item id="22420" article="a" name="umbral crossbow">
 		<attribute key="weight" value="12500" />
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
-		<attribute key="range" value="5" />
-		<attribute key="hitChance" value="2" />
-		<attribute key="attack" value="6" />
+		<attribute key="range" value="6" />
+		<attribute key="hitChance" value="8" />
+		<attribute key="attack" value="30" />
 	</item>
 	<item id="22421" article="a" name="umbral master crossbow">
 		<attribute key="weight" value="12000" />
 		<attribute key="slotType" value="two-handed" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="ammoType" value="bolt" />
-		<attribute key="range" value="5" />
-		<attribute key="hitChance" value="4" />
-		<attribute key="attack" value="9" />
+		<attribute key="range" value="7" />
+		<attribute key="hitChance" value="13" />
+		<attribute key="attack" value="40" />
 	</item>
 	<item id="22422" article="a" name="crude umbral spellbook">
 		<attribute key="weight" value="4000" />
-		<attribute key="magiclevelpoints" value="1" />
-		<attribute key="absorbPercentEarth" value="2" />
-		<attribute key="absorbPercentFire" value="2" />
-		<attribute key="absorbPercentIce" value="2" />
-		<attribute key="absorbPercentEnergy" value="2" />
-		<attribute key="defense" value="14" />
-		<attribute key="weaponType" value="shield" />
-	</item>
-	<item id="22423" article="a" name="umbral spellbook">
-		<attribute key="weight" value="3500" />
-		<attribute key="magiclevelpoints" value="2" />
-		<attribute key="absorbPercentEarth" value="3" />
-		<attribute key="absorbPercentFire" value="3" />
-		<attribute key="absorbPercentIce" value="3" />
-		<attribute key="absorbPercentEnergy" value="3" />
-		<attribute key="defense" value="16" />
-		<attribute key="weaponType" value="shield" />
-	</item>
-	<item id="22424" article="a" name="umbral master spellbook">
-		<attribute key="weight" value="3000" />
-		<attribute key="magiclevelpoints" value="4" />
+		<attribute key="magiclevelpoints" value="5" />
 		<attribute key="absorbPercentEarth" value="5" />
 		<attribute key="absorbPercentFire" value="5" />
 		<attribute key="absorbPercentIce" value="5" />
 		<attribute key="absorbPercentEnergy" value="5" />
-		<attribute key="defense" value="20" />
+		<attribute key="defense" value="18" />
+		<attribute key="weaponType" value="shield" />
+	</item>
+	<item id="22423" article="a" name="umbral spellbook">
+		<attribute key="weight" value="3500" />
+		<attribute key="magiclevelpoints" value="10" />
+		<attribute key="absorbPercentEarth" value="8" />
+		<attribute key="absorbPercentFire" value="8" />
+		<attribute key="absorbPercentIce" value="8" />
+		<attribute key="absorbPercentEnergy" value="8" />
+		<attribute key="defense" value="22" />
+		<attribute key="weaponType" value="shield" />
+	</item>
+	<item id="22424" article="a" name="umbral master spellbook">
+		<attribute key="weight" value="3000" />
+		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="absorbPercentEarth" value="10" />
+		<attribute key="absorbPercentFire" value="10" />
+		<attribute key="absorbPercentIce" value="10" />
+		<attribute key="absorbPercentEnergy" value="10" />
+		<attribute key="defense" value="28" />
 		<attribute key="weaponType" value="shield" />
 	</item>
 	<item id="22444" article="a" name="bad dream" />

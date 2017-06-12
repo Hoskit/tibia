@@ -6,7 +6,7 @@ combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_ETHEREALSPEAR)
 
 function onGetFormulaValues(player, level, attack, factor)
 	local distanceSkill = player:getEffectiveSkillLevel(SKILL_DISTANCE)
-	local skillDouble, levelTotal = distanceSkill * 2, level * 2
+	local skillDouble, levelTotal = distanceSkill * 2, level
 	return -(((skillDouble + attack / 2500) * 0.5) + (levelTotal) + 7), -(((skillDouble + attack / 1875) * 0.75) + (levelTotal) + 13)
 end
 

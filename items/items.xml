@@ -12305,7 +12305,7 @@
 	<item id="7368" article="an" name="assassin star">
 		<attribute key="weight" value="200" />
 		<attribute key="attack" value="65" />
-		<attribute key="maxHitChance" value="96" />
+		<attribute key="maxHitChance" value="100" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="redstar" />
 		<attribute key="range" value="5" />
@@ -12498,9 +12498,10 @@
 	<item id="7404" article="an" name="assassin dagger">
 		<attribute key="weight" value="1700" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="80" />
+		<attribute key="attack" value="57" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="-2" />
+		<attribute key="extradef" value="-6" />
+		<attribute key="elementFire" value="14" />
 	</item>
 	<item id="7405" article="a" name="havoc blade">
 		<attribute key="weight" value="7200" />
@@ -12622,7 +12623,7 @@
 	<item id="7421" article="an" name="onyx flail">
 		<attribute key="weight" value="2600" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="50" />
+		<attribute key="attack" value="30" />
 		<attribute key="weaponType" value="sword" />
         <attribute key="elementFire" value="54" />
 	</item>

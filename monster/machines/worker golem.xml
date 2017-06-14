@@ -57,15 +57,15 @@
         <item id="9690" chance="1007"/><!-- gear wheel -->
         <item id="9809" chance="200"/><!-- rusty armor -->
         <item id="9812" chance="50"/><!-- rusty legs -->
-        <item id="8472" chance="830"/><!-- great spirit potion -->
-        <item id="7591" chance="2100"/><!-- great health potion -->
-        <item id="7439" chance="820"/><!-- berserk potion -->
+        <item id="8472" chance="400"/><!-- great spirit potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
+        <item id="7439" chance="400"/><!-- berserk potion -->
         <item id="7452" chance="1003"/><!-- spiked squelcher -->
         <item id="2391" chance="920"/><!-- war hammer -->
         <item id="2177" chance="890"/><!-- life crystal -->
         <item id="2164" chance="370"/><!-- might ring -->
         <item id="7428" chance="130"/><!-- bonebreaker -->
-        <item id="7590" chance="1470"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="10572" chance="2270"/><!-- gear crystal -->
         <item id="9979" chance="2270"/><!-- crystal pedestal -->
     </loot>

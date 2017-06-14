@@ -57,7 +57,7 @@
         <item id="12629" chance="2870"/><!-- scale of corruption -->
         <item id="2152" countmax="5" chance="2920"/><!-- platinum coin -->
         <item id="11327" chance="5800"/><!-- cursed shoulder spikes -->
-        <item id="7591" countmax="3" chance="5350"/><!-- great health potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="11303" chance="810"/><!-- zaoan shoes -->
         <item id="2145" countmax="5" chance="2550"/><!-- small diamond -->
         <item id="11326" chance="3350"/><!-- corrupted flag -->

@@ -67,10 +67,10 @@
         <item id="2510" chance="9000"/><!-- plate shield -->
         <item id="2394" chance="7000"/><!-- morning star -->
         <item id="2513" chance="6500"/><!-- battle shield -->
-        <item id="8473" chance="10080"/><!-- ultimate health potion -->
-        <item id="7590" chance="8860"/><!-- great mana potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="5880" chance="1920"/><!-- iron ore -->
-        <item id="7439" chance="900"/><!-- berserk potion -->
+        <item id="7439" chance="400"/><!-- berserk potion -->
         <item id="2438" chance="6400"/><!-- epee -->
         <item id="9809" chance="260"/><!-- rusty armor-->
         <item id="2209" chance="810"/><!-- club ring -->

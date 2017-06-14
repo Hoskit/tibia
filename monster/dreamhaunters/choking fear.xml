@@ -69,11 +69,11 @@
         <item id="2214" chance="3000"/><!-- ring of healing -->
         <item id="5913" chance="6000"/><!-- brown piece of cloth -->
         <item id="5914" chance="3500"/><!-- yellow piece of cloth -->
-        <item id="7590" countmax="3" chance="20000"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="7886" chance="720"/><!-- terra boots -->
         <item id="8910" chance="720"/><!-- underworld rod -->
-        <item id="8472" countmax="3" chance="20000"/><!-- great spirit potion -->
-        <item id="8473" countmax="3" chance="19000"/><!-- ultimate health potion -->
+        <item id="8472" chance="400"/><!-- great spirit potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="8902" chance="720"/><!-- spellbook of mind control -->
         <item id="18415" chance="1540"/><!-- green crystal shard -->
         <item id="18417" countmax="2" chance="52500"/><!-- brown crystal splinter -->

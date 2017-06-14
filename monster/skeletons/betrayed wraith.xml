@@ -63,7 +63,7 @@
         <item id="6500" chance="19430"/>                    <!-- demonic essence -->
         <item id="11233" chance="18410"/>                    <!-- unholy bone -->
         <item id="7590" countmax="3" chance="15000"/>        <!-- great mana potion -->
-        <item id="8473" chance="15410"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="2145" countmax="4" chance="11800"/>        <!-- small diamond -->
         <item id="7368" countmax="5" chance="10780"/>        <!-- assassin star -->
         <item id="5944" chance="9000"/>                        <!-- soul orb -->

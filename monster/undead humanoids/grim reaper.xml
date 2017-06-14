@@ -64,7 +64,7 @@
         <item id="6558" chance="35000"/>                <!-- concentrated demonic blood -->
         <item id="6500" chance="10600"/>                <!-- demonic essence -->
         <item id="7590" chance="10000"/>                <!-- great mana potion -->
-        <item id="8473" chance="9600"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="2550" chance="9000"/>                    <!-- scythe -->
         <item id="10577" chance="5300"/>                <!-- mystical hourglass -->
         <item id="2152" countmax="4" chance="5200"/>    <!-- platinum coin -->

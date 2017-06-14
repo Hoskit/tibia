@@ -61,7 +61,7 @@
         <item id="7589" countmax="2" chance="18150"/>        <!-- strong mana potion -->
         <item id="7590" countmax="2" chance="16030"/>        <!-- great mana potion -->
         <item id="18424" countmax="2" chance="15370"/>        <!-- magma clump -->
-        <item id="8473" chance="15290"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="18425" chance="15000"/>                    <!-- blazing bone -->
         <item id="18416" countmax="2" chance="14000"/>        <!-- green crystal splinter -->
         <item id="10553" chance="13580"/>                    <!-- fiery heart -->

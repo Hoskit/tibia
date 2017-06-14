@@ -50,7 +50,7 @@
         <item id="15452" chance="11111"/><!-- deepling ridge -->
         <item id="7591" chance="11111"/> <!-- great health potion -->
         <item id="15425" chance="10000"/> <!-- deepling warts -->
-        <item id="7590" chance="9090"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="15649" countmax="5" chance="3571"/> <!-- vortex bolt -->
         <item id="2168" chance="2941"/> <!-- life ring -->
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->

@@ -62,7 +62,7 @@
         <item id="2148" countmax="99" chance="100000"/>    <!-- gold coin -->
         <item id="11234" chance="100000"/>                <!-- werewolf fur -->
         <item id="5897" chance="100000"/>                <!-- wolf paw -->
-        <item id="8473" chance="98000"/>                <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                <!-- ultimate health potion -->
         <item id="2789" countmax="5" chance="94000"/>    <!-- brown mushroom -->
         <item id="2152" countmax="10" chance="94000"/>    <!-- platinum coin -->
         <item id="7439" chance="82000"/>                <!-- berserk potion -->

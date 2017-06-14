@@ -84,7 +84,7 @@
         <item id="2392" chance="6900"/><!-- fire sword -->
         <item id="4873" chance="130"/><!-- explorer brooch -->
         <item id="2187" chance="9000"/><!-- wand of inferno -->
-        <item id="7591" countmax="2" chance="15150"/><!-- great health potion -->
-        <item id="7590" countmax="3" chance="15150"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
     </loot>
 </monster>

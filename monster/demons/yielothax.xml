@@ -56,8 +56,8 @@
         <item id="2148" countmax="100" chance="50000"/><!-- gold coin -->
         <item id="2148" countmax="100" chance="50000"/><!-- gold coin -->
         <item id="2148" countmax="27" chance="50000"/><!-- gold coin -->
-        <item id="7588" chance="20000"/><!-- strong health potion -->
-        <item id="7589" chance="20000"/><!-- strong mana potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
         <item id="2789" countmax="3" chance="9090"/><!-- brown mushroom -->
         <item id="2145" countmax="5" chance="4761"/><!-- small diamond -->
         <item id="2164" chance="3846"/><!-- might ring -->
@@ -65,7 +65,7 @@
         <item id="7889" chance="862"/><!-- lightning pendant -->
         <item id="10221" chance="571"/><!-- shockwave amulet -->
         <item id="2438" chance="564"/><!-- epee -->
-        <item id="7440" chance="490"/><!-- mastermind potion -->
+        <item id="7440" chance="400"/><!-- mastermind potion -->
         <item id="2189" chance="523"/><!-- wand of cosmic energy -->
         <item id="7895" chance="480"/><!-- lightning legs -->
         <item id="13942" chance="320"/><!-- yielocks -->

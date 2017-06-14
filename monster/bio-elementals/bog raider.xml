@@ -58,11 +58,11 @@
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->
         <item id="2148" countmax="5" chance="50750"/><!-- gold coin -->
         <item id="10584" chance="9870"/><!-- boggy dreads -->
-        <item id="7591" chance="2000"/><!-- great health potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="8912" chance="1030"/><!-- springsprout rod -->
-        <item id="8472" chance="2008"/><!-- great spirit potion -->
+        <item id="8472" chance="400"/><!-- great spirit potion -->
         <item id="2647" chance="2040"/><!-- plate legs -->
-        <item id="8473" chance="740"/><!-- ultimate health potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="8872" chance="590"/><!-- belted cape -->
         <item id="8891" chance="110"/><!--paladin armor-->
     </loot>

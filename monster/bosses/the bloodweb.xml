@@ -50,7 +50,7 @@
         <item id="8931" chance="3"/> <!-- the epiphany-->
         <item id="2463" chance="100000"/><!-- ice cube -->
         <item id="7364" countmax="9" chance="100000"/><!-- platinum coin -->
-        <item id="7589" chance="100000"/><!-- strong mana potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
         <item id="5879" chance="50000"/><!-- spider silk-->
         <item id="7902" chance="33333"/><!-- glacier mask -->
         <item id="7896" chance="33333"/><!-- glacier kilt -->

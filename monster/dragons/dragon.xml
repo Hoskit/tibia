@@ -58,7 +58,7 @@
         <item id="2457" chance="3000"/><!-- steel helmet -->
         <item id="2647" chance="2000"/><!-- plate legs -->
         <item id="2413" chance="1950"/><!-- broadsword -->
-        <item id="7588" chance="1000"/><!-- strong health potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="2387" chance="960"/><!-- double axe -->
         <item id="2187" chance="1005"/><!-- wand of inferno -->
         <item id="5920" chance="1000"/><!-- green dragon scale -->

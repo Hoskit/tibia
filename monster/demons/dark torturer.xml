@@ -55,8 +55,8 @@
         <item id="2152" countmax="8" chance="55000"/><!-- platinum coin -->
         <item id="6558" countmax="3" chance="33333"/><!-- concentrated demonic blood -->
         <item id="5944" chance="23000"/><!-- soul orb -->
-        <item id="7591" countmax="2" chance="10000"/><!-- great health potion -->
-        <item id="7590" countmax="2" chance="14830"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="2645" chance="5050"/><!-- steel boots -->
         <item id="9971" chance="3140"/><!-- gold ingot -->
         <item id="6500" chance="8520"/><!-- demonic essence -->

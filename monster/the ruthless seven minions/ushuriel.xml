@@ -72,7 +72,7 @@
         <item id="7391" chance="24000"/>                <!-- thaian sword -->
         <item id="2178" chance="23000"/>                <!-- mind stone -->
         <item id="2498" chance="22000"/>                <!-- royal helmet -->
-        <item id="8473" chance="22000"/>                <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                <!-- ultimate health potion -->
         <item id="7590" chance="21000"/>                <!-- great mana potion -->
         <item id="5741" chance="21000"/>                <!-- skull helmet -->
         <item id="8472" chance="20000"/>                <!-- great spirit potion -->

@@ -77,8 +77,8 @@
         <item id="7404" chance="1000"/><!-- assassin dagger -->
         <item id="7407" chance="2000"/><!-- haunted blade -->
         <item id="7418" chance="380"/><!-- nightmare blade -->
-        <item id="7590" countmax="3" chance="17000"/><!-- great mana potion -->
-        <item id="7591" countmax="2" chance="18500"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="11306" chance="1200"/><!-- sai -->
         <item id="18414" chance="3000"/><!-- violet crystal shard -->
         <item id="18417" countmax="2" chance="12000"/><!-- brown crystal splinter -->

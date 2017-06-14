@@ -42,7 +42,7 @@
         <item id="11334" chance="1940"/><!-- legionnaire flags -->
         <item id="5881" countmax="3" chance="980"/><!-- lizard scale -->
         <item id="11323" chance="960"/><!-- zaoan halberd -->
-        <item id="7588" chance="3880"/><!-- strong health potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="11335" chance="14940"/><!-- broken halberd -->
         <item id="5876" chance="970"/><!-- lizard leather -->
         <item id="11305" chance="710"/><!-- drakinata -->

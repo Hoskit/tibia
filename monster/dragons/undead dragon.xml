@@ -74,7 +74,7 @@
         <item id="6500" chance="12460"/><!-- demonic essence -->
         <item id="2152" countmax="5" chance="52000"/><!-- platinum coin -->
         <item id="6300" chance="1150"/><!-- death ring -->
-        <item id="7591" chance="21200"/><!-- great health potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="2033" chance="6002"/><!-- golden mug -->
         <item id="2547" countmax="15" chance="15190"/><!-- power bolt -->
         <item id="7430" chance="4000"/><!-- dragonbone staff -->
@@ -90,7 +90,7 @@
         <item id="7368" countmax="5" chance="26650"/><!-- assassin stars -->
         <item id="7402" chance="860"/><!-- dragon slayer -->
         <item id="2144" countmax="2" chance="22780"/><!-- black pearls -->
-        <item id="7590" chance="21490"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="11355" chance="860"/><!-- spellweaver's robe -->
         <item id="2466" chance="860"/><!-- golden armor -->
         <item id="8889" chance="290"/><!-- skullcracker armor -->

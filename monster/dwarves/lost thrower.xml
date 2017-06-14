@@ -69,8 +69,8 @@
         <item id="20134" chance="11810"/><!-- Red Hair Dye -->
         <item id="5880" chance="9470"/><!-- Iron Ore -->
         <item id="20109" chance="850"/><!-- buckle -->
-        <item id="7591" chance="14730"/><!-- great health potion -->
-        <item id="7590" chance="13470"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="13757" chance="12180"/><!-- coal -->
     </loot>
 </monster>

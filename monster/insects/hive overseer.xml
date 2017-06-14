@@ -57,7 +57,7 @@
         <item id="15480" chance="28000"/><!-- kollos shell -->
         <item id="7590" chance="18000"/><!-- gmp -->
         <item id="15486" chance="16000"/><!-- compound eye -->
-        <item id="8473" chance="12000"/><!-- uhp -->
+        <item id="8473" chance="200"/><!-- uhp -->
         <item id="2147" countmax="2" chance="16000"/><!-- small ruby -->
         <item id="7632" chance="6000"/><!-- giant shimmering pearl -->
         <item id="9971" chance="29000"/><!-- gold ingot -->

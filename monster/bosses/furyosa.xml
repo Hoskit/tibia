@@ -75,7 +75,7 @@
         <item id="6558" countmax="3" chance="35000"/><!-- concentrated demonic blood -->
         <item id="6500" chance="22500"/><!-- demonic essence -->
         <item id="2470" chance="130"/><!-- golden legs -->
-        <item id="7591" chance="10500"/><!-- great health potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="2666" chance="25000"/><!-- meat -->
         <item id="7456" chance="2000"/><!-- noble axe -->
         <item id="5022" countmax="4" chance="1500"/><!-- orichalcum pearl -->

@@ -36,7 +36,7 @@
     <loot>
         <item id="8931" chance="3"/> <!-- the epiphany-->
         <item id="2148" countmax="47" chance="82000"/><!-- gold coin -->
-        <item id="7618" chance="210"/><!-- health potion -->
+        <item id="7618" chance="400"/><!-- health potion -->
         <item id="2666" chance="30070"/><!-- meat -->
         <item id="2510" chance="2500"/><!-- plate shield -->
         <item id="2406" chance="8000"/><!-- short sword -->

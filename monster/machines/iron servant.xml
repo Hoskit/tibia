@@ -48,7 +48,7 @@
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->
         <item id="9690" chance="4840"/><!-- gear wheel -->
         <item id="9808" chance="200"/><!-- rusty armor -->
-        <item id="8704" chance="1980"/><!-- health potion -->
+        <item id="8704" chance="400"/><!-- health potion -->
         <item id="13758" chance="310"/><!-- slime mould -->
         <item id="2381" chance="1000"/><!-- halberd -->
     </loot>

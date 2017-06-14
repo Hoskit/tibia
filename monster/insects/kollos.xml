@@ -46,9 +46,9 @@
         <item id="15486" chance="15720"/><!-- compound eye -->
         <item id="15648" countmax="5" chance="10210"/><!-- tarsal arrow -->
         <item id="2147" countmax="2" chance="8180"/><!-- small ruby -->
-        <item id="7590" countmax="4" chance="8950"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="9971" chance="5160"/><!-- gold ingot -->
-        <item id="8473" countmax="3" chance="4000"/><!-- ultimate health potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="2214" chance="3270"/><!-- ring of healing -->
         <item id="7632" chance="2600"/><!-- giant shimmering pearl -->
         <item id="15646" chance="460"/><!-- buggy backpack -->

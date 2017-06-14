@@ -70,7 +70,7 @@
         <item id="2377" chance="19000"/>                    <!-- two handed sword -->
         <item id="7404" chance="16000"/>                    <!-- assassin dagger -->
         <item id="2208" chance="16000"/>                    <!-- axe ring -->
-        <item id="8473" chance="16000"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="8910" chance="16000"/>                    <!-- underworld rod -->
         <item id="2209" chance="14000"/>                    <!-- club ring -->
         <item id="6500" chance="14000"/>                    <!-- demonic essence -->

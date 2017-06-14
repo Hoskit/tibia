@@ -46,7 +46,7 @@
         <item id="5883" chance="980"/><!-- ape fur -->
         <item id="2166" chance="300"/><!-- power ring -->
         <item id="2209" chance="230"/><!-- club ring -->
-        <item id="7618" chance="570"/><!-- health potion -->
+        <item id="7618" chance="400"/><!-- health potion -->
         <item id="12427" chance="4900"/><!-- kongra shoulderpad -->
     </loot>
 </monster>

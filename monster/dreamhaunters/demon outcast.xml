@@ -81,8 +81,8 @@
         <item id="6550" chance="1000"/><!-- demon dust -->
         <item id="2795" countmax="6" chance="20600"/><!-- fire mushroom -->
         <item id="7368" countmax="10" chance="8340"/><!-- assassin star -->
-        <item id="7590" countmax="2" chance="18000"/><!-- great mana potion -->
-        <item id="8473" countmax="3" chance="20500"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="9970" countmax="5" chance="9300"/><!-- small topaz -->
         <item id="22396" chance="410"/><!-- cluster of solace -->
     </loot>

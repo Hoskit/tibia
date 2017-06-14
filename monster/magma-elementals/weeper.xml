@@ -51,7 +51,7 @@
         <item id="2152" countmax="7" chance="100000"/>        <!-- platinum coin -->
         <item id="18426" chance="15500"/>                    <!-- eye of a weeper -->
         <item id="18425" chance="15500"/>                    <!-- blazing bone -->
-        <item id="8473" countmax="2" chance="15470"/>        <!-- ultimate health potion -->
+        <item id="8473" countmax="1" chance="200"/>        <!-- ultimate health potion -->
         <item id="2147" countmax="3" chance="15340"/>        <!-- small ruby -->
         <item id="7590" countmax="2" chance="14700"/>        <!-- great mana potion -->
         <item id="10553" chance="13200"/>                    <!-- fiery heart -->

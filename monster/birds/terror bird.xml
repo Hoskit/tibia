@@ -40,7 +40,7 @@
         <item id="11190" chance="11000"/><!-- terrorbird beak -->
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->
         <item id="12470" chance="3000"/><!-- colourful feather -->
-        <item id="3970" chance="630"/><!-- health potion -->
+        <item id="3970" chance="400"/><!-- health potion -->
         <item id="3970" chance="150"/><!-- feather headdress -->
         <item id="3970" chance="260"/><!-- seeds -->
     </loot>

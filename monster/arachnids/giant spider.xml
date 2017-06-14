@@ -51,7 +51,7 @@
         <item id="2463" chance="8333"/><!-- plate armor -->
         <item id="2377" chance="5000"/><!-- two handed sword -->
         <item id="2457" chance="4545"/><!-- steel helmet -->
-        <item id="7588" chance="3571"/><!-- strong health potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="5879" chance="2140"/><!-- spider silk -->
         <item id="2477" chance="870"/><!-- knight legs -->
         <item id="2169" chance="710"/><!-- time ring -->

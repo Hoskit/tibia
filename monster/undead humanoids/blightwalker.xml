@@ -61,7 +61,7 @@
         <item id="2260" countmax="2" chance="26250"/>        <!-- blank rune -->
         <item id="5944" chance="23720"/>                    <!-- soul orb -->
         <item id="10605" chance="15000"/>                    <!-- bundle of cursed straw -->
-        <item id="8473" countmax="2" chance="14720"/>        <!-- ultimate health potion -->
+        <item id="8473" countmax="1" chance="200"/>        <!-- ultimate health potion -->
         <item id="2183" chance="10000"/>                    <!-- hailstorm rod -->
         <item id="7368" countmax="10" chance="5900"/>        <!-- assassin star -->
         <item id="9971" chance="5270"/>                        <!-- gold ingot -->

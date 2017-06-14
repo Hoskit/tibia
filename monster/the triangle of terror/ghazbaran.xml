@@ -69,7 +69,7 @@
         <item id="7591" chance="26000"/>                <!-- great health potion -->
         <item id="8472" chance="26000"/>                <!-- great spirit potion -->
         <item id="8904" chance="26000"/>                <!-- spellscroll of prophecies -->
-        <item id="8473" chance="26000"/>                <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                <!-- ultimate health potion -->
         <item id="2143" countmax="15" chance="26000"/>    <!-- white pearl -->
         <item id="2178" chance="23000"/>                <!-- mind stone -->
         <item id="2214" chance="23000"/>                <!-- ring of healing -->

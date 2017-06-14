@@ -64,7 +64,7 @@
         <item id="8931" chance="3"/> <!-- the epiphany-->
         <item id="2148" countmax="198" chance="100000"/>    <!-- gold coin -->
         <item id="9813" chance="50000"/>                    <!-- rusty legs (rare) -->
-        <item id="8473" countmax="2" chance="42000"/>        <!-- ultimate health potion -->
+        <item id="8473" countmax="1" chance="200"/>        <!-- ultimate health potion -->
         <item id="8901" chance="32000"/>                    <!-- spellbook of warding -->
         <item id="9810" chance="30000"/>                    <!-- rusty armor (rare) -->
         <item id="3962" chance="29000"/>                    <!-- beastslayer axe -->

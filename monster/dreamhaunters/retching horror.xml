@@ -66,8 +66,8 @@
         <item id="3962" chance="4260"/><!-- beastslayer axe -->
         <item id="7452" chance="410"/><!-- spiked squelcher -->
         <item id="7386" chance="2500"/><!-- mercenary sword -->
-        <item id="7590" chance="12500"/><!-- great mana potion -->
-        <item id="7591" chance="15000"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="8910" chance="1800"/><!-- underworld rod -->
         <item id="8920" chance="960"/><!-- wand of starstorm -->
         <item id="22539" chance="16400"/><!-- goosebump leather -->

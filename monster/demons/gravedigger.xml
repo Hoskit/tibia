@@ -65,8 +65,8 @@
         <item id="12449" chance="6000"/><!-- safety pin -->
         <item id="2187" chance="5590"/><!-- wand of inferno -->
         <item id="12440" chance="6650"/><!-- pile of grave earth -->
-        <item id="7588" countmax="2" chance="2260"/><!-- strong health potion -->
-        <item id="7589" countmax="2" chance="3600"/><!-- strong mana potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
         <item id="2154" chance="800"/><!-- yellow gem -->
         <item id="6300" chance="800"/><!-- death ring -->
         <item id="2436" chance="130"/><!-- skull staff -->

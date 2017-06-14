@@ -53,7 +53,7 @@
         <item id="2142" chance="45560"/><!-- ancient amulet -->
         <item id="2135" chance="52220"/><!-- scarab amulet -->
         <item id="7884" chance="11110"/><!-- terra mantle -->
-        <item id="7588" chance="43330"/><!-- strong health potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="8912" chance="75560"/><!-- springsprout rod -->
         <item id="2540" chance="43890"/><!-- scarab shield -->
         <item id="7426" chance="30560"/><!-- amber staff -->

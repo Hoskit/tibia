@@ -79,7 +79,7 @@
         <item id="7366" countmax="70" chance="16810"/>        <!-- viper star -->
         <item id="2155" chance="15930"/>                    <!-- green gem -->
         <item id="7440" chance="15490"/>                    <!-- mastermind potion -->
-        <item id="8473" chance="14160"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="7591" chance="13720"/>                    <!-- great health potion -->
         <item id="7421" chance="13720"/>                    <!-- onyx flail -->
         <item id="2519" chance="13270"/>                    <!-- crown shield -->

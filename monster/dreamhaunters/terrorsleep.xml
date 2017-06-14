@@ -74,8 +74,8 @@
         <item id="2476" chance="4000"/><!-- knight armor -->
         <item id="5909" chance="4520"/><!-- white piece of cloth -->
         <item id="5911" chance="1130"/><!-- red piece of cloth -->
-        <item id="7590" countmax="2" chance="36000"/><!-- great mana potion -->
-        <item id="8473" chance="26000"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="9970" countmax="2" chance="17000"/><!-- small topaz -->
         <item id="18413" chance="6000"/><!-- blue crystal shard -->
         <item id="18418" chance="13000"/><!-- blue crystal splinter -->

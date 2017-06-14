@@ -66,7 +66,7 @@
         <item id="2392" chance="46880"/><!-- fire sword -->
         <item id="4873" chance="65630"/><!-- explorer brooch -->
         <item id="7890" chance="96880"/><!-- magma amulet -->
-        <item id="7590" countmax="3" chance="96880"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="7453" chance="3130"/><!-- executioner -->
         <item id="2466" chance="31250"/><!-- golden armor -->
     </loot>

@@ -68,7 +68,7 @@
         <item id="2805" chance="5000"/>                    <!-- troll green -->
         <item id="5897" chance="4500"/>                    <!-- wolf paw -->
         <item id="2381" chance="3000"/>                    <!-- halberd -->
-        <item id="8473" chance="2000"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="7439" chance="1200"/>                    <!-- berserk potion -->
         <item id="2197" chance="1000"/>                    <!-- stone skin amulet -->
         <item id="2171" chance="850"/>                    <!-- platinum amulet -->

@@ -67,9 +67,9 @@
         <item id="2645" chance="920"/><!-- steel boots -->
         <item id="7421" chance="920"/><!-- onyx flail -->
         <item id="7422" chance="920"/><!-- jade hammer -->
-        <item id="7590" countmax="5" chance="78000"/><!-- great mana potion -->
-        <item id="8472" countmax="5" chance="72000"/><!-- great spirit potion -->
-        <item id="8473" countmax="5" chance="30000"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8472" chance="400"/><!-- great spirit potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="18413" countmax="3" chance="23000"/><!-- blue crystal shard -->
         <item id="18414" countmax="3" chance="32000"/><!-- violet crystal shard -->
         <item id="18415" countmax="3" chance="21600"/><!-- green crystal shard -->

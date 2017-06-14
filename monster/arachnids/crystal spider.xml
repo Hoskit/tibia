@@ -54,7 +54,7 @@
         <item id="8931" chance="3"/> <!-- the epiphany-->
         <item id="2148" countmax="100" chance="50000"/><!-- gold coin -->
         <item id="2148" countmax="92" chance="50000"/><!-- gold coin -->
-        <item id="7589" chance="14810"/><!-- strong mana potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
         <item id="2463" chance="10000"/><!-- plate armor -->
         <item id="7364" countmax="6" chance="6250"/><!-- sniper arrow -->
         <item id="2463" chance="5263"/><!-- ice cube -->

@@ -50,8 +50,8 @@
         <item id="15485" chance="14960"/><!-- spidris sandible -->
         <item id="15486" chance="12500"/><!-- compound eye -->
         <item id="2147" countmax="5" chance="11900"/><!-- small ruby -->
-        <item id="7590" countmax="2" chance="11500"/><!-- great mana potion -->
-        <item id="8473" countmax="2" chance="6250"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="6300" chance="2700"/><!-- death ring -->
         <item id="7632" chance="1700"/><!-- giant shimmering pearl -->
         <item id="7413" chance="920"/><!-- titan axe -->

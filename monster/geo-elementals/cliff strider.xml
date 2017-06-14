@@ -53,8 +53,8 @@
         <item id="2148" countmax="100" chance="100000"/><!-- gold coin -->
         <item id="2148" countmax="95" chance="100000"/><!-- gold coin -->
         <item id="2152" countmax="10" chance="100000"/><!-- platinum coin -->
-        <item id="7590" countmax="4" chance="30950"/><!-- great mana potion -->
-        <item id="8473" countmax="2" chance="25260"/><!-- ultimate health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="5944" chance="17080"/><!-- soul orb -->
         <item id="18429" countmax="2" chance="18000"/><!-- vein of ore -->
         <item id="18428" chance="15630"/><!-- cliff strider claw -->

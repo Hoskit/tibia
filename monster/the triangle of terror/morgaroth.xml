@@ -81,7 +81,7 @@
         <item id="1986" chance="27000"/>                <!-- red tome -->
         <item id="2149" countmax="6" chance="27000"/>    <!-- small emerald -->
         <item id="2146" countmax="8" chance="27000"/>    <!-- small sapphire -->
-        <item id="8473" chance="27000"/>                <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                <!-- ultimate health potion -->
         <item id="8850" chance="22000"/>                <!-- chain bolter -->
         <item id="8865" chance="22000"/>                <!-- dark lord's cape -->
         <item id="6300" chance="22000"/>                <!-- death ring -->

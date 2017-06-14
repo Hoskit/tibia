@@ -58,8 +58,8 @@
         <item id="2148" countmax="100" chance="50000"/><!-- gold coin -->
         <item id="2148" countmax="78" chance="50000"/><!-- gold coin -->
         <item id="2152" countmax="2" chance="33333"/><!-- platinum coin -->
-        <item id="7589" chance="7000"/><!-- strong mana potion -->
-        <item id="7588" chance="7000"/><!-- strong health potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="2147" countmax="5" chance="6120"/><!-- small rubies -->
         <item id="2789" chance="5346"/><!-- brown mushroom -->
         <item id="2167" chance="1652"/><!-- energy ring -->

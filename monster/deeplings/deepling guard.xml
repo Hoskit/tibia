@@ -54,7 +54,7 @@
         <item id="2152" countmax="2" chance="70000"/> <!-- platinum coin -->
         <item id="15424" chance="16666"/> <!-- deepling breaktime snack -->
         <item id="7591" countmax="3" chance="14285"/> <!-- great health potion -->
-        <item id="7590" countmax="3" chance="14285"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="15423" chance="12500"/> <!-- deepling guard belt buckle -->
         <item id="13870" chance="10000"/><!-- eye of a deepling -->
         <item id="15455" chance="9090"/><!-- deepling claw -->

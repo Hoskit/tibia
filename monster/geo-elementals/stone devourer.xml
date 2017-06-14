@@ -57,7 +57,7 @@
         <item id="7590" countmax="2" chance="15610"/><!-- GMP -->
         <item id="7620" countmax="2" chance="15050"/><!-- MP -->
         <item id="7589" countmax="2" chance="14900"/><!-- SMP -->
-        <item id="8473" chance="14410"/><!-- UHP -->
+        <item id="8473" chance="200"/><!-- UHP -->
         <item id="7588" countmax="2" chance="13840"/><!-- SHP -->
         <item id="10549" chance="12850"/><!-- ancient stone -->
         <item id="8748" chance="11360"/><!-- coal -->

@@ -68,8 +68,8 @@
         <item id="2198" chance="1999"/><!-- elven amulet -->
         <item id="5922" chance="2100"/><!-- holy orchid -->
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->
-        <item id="7589" chance="3000"/><!-- strong mana potion -->
-        <item id="7618" chance="4000"/><!-- health potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
+        <item id="7618" chance="400"/><!-- health potion -->
         <item id="2189" chance="1160"/><!-- wand of cosmic energy -->
         <item id="2747" chance="880"/><!-- grave flower -->
         <item id="2177" chance="970"/><!-- life crystal -->

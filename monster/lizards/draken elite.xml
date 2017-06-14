@@ -59,11 +59,11 @@
         <item id="2152" countmax="8" chance="50360"/><!-- platinum coin -->
         <item id="12617" chance="24670"/><!-- broken slicer -->
         <item id="2666" chance="30175"/><!-- meat -->
-        <item id="7590" countmax="3" chance="9340"/><!-- great mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
         <item id="2145" countmax="4" chance="2440"/><!-- small diamond -->
         <item id="12615" chance="14030"/><!-- draken wristbands -->
         <item id="12616" chance="16930"/><!-- broken draken mail -->
-        <item id="8473" countmax="3" chance="9250"/><!-- ultimate health potion -->
+        <item id="8473" chance="400"/><!-- ultimate health potion -->
         <item id="12614" chance="7600"/><!-- draken sulphur -->
         <item id="12613" chance="910"/><!-- twiceslicer -->
         <item id="5904" chance="2100"/><!-- magic sulphur -->

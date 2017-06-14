@@ -64,7 +64,7 @@
         <item id="2149" countmax="3" chance="10890"/><!-- small emerald -->
         <item id="7590" chance="17640"/><!-- GMP -->
         <item id="10571" chance="21230"/><!-- war crystal -->
-        <item id="8473" chance="18330"/><!-- UHP -->
+        <item id="8473" chance="200"/><!-- UHP -->
         <item id="11227" chance="15230"/><!-- shiny stone -->
         <item id="2156" chance="3510"/><!-- red gem -->
         <item id="2158" chance="480"/><!-- blue gem -->

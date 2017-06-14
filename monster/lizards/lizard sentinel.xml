@@ -47,7 +47,7 @@
         <item id="2425" chance="1120"/><!-- obsidian lance -->
         <item id="3974" chance="320"/><!-- sentinel shield -->
         <item id="5876" chance="990"/><!-- lizard leather -->
-        <item id="7618" chance="590"/><!-- health potion -->
+        <item id="7618" chance="400"/><!-- health potion -->
         <item id="2381" chance="510"/><!-- halberd -->
         <item id="2145" chance="190"/><!-- small diamond -->
     </loot>

@@ -55,7 +55,7 @@
         <item id="2152" countmax="2" chance="70000"/><!-- Platinum Coin -->
         <item id="2789" countmax="2" chance="15170"/><!-- Brown Mushroom -->
         <item id="20136" chance="8800"/><!-- Basalt Fetish -->
-        <item id="8473" chance="10250"/><!-- UHP -->
+        <item id="8473" chance="200"/><!-- UHP -->
         <item id="7590" chance="11240"/><!-- GMP -->
         <item id="9970" chance="10200"/><!-- Small Topazes -->
         <item id="20137" chance="9470"/><!-- Basalt Figurine -->

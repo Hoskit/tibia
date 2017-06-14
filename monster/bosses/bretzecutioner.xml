@@ -61,9 +61,9 @@
         <item id="7452" chance="32000"/><!-- spike squelcher -->
         <item id="2152" countmax="8" chance="100000"/><!-- platinum coin -->
         <item id="2393" chance="24000"/><!-- giant sword -->
-        <item id="7591" countmax="3" chance="44000"/><!-- great health potion -->
-        <item id="7590" countmax="3" chance="44000"/><!-- great mana potion -->
-        <item id="8472" countmax="3" chance="44000"/><!-- great spirit potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="8472" chance="400"/><!-- great spirit potion -->
         <item id="7632" chance="48000"/><!-- giant shimmering pearl -->
         <item id="7633" chance="48000"/><!-- giant shimmering pearl -->
         <item id="2645" chance="4000"/><!-- steel boots -->

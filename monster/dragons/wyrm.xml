@@ -64,10 +64,10 @@
         <item id="2148" countmax="30" chance="30000"/><!-- gold coin -->
         <item id="2672" countmax="3" chance="34800"/><!-- dragon ham -->
         <item id="2546" countmax="10" chance="7650"/><!-- burst arrow -->
-        <item id="7588" chance="19970"/><!-- strong health potion -->
+        <item id="7588" chance="400"/><!-- strong health potion -->
         <item id="8921" chance="990"/><!-- wand of draconia -->
         <item id="2145" countmax="3" chance="750"/><!-- small diamonds-->
-        <item id="7589" chance="15310"/><!-- strong mana potion -->
+        <item id="7589" chance="400"/><!-- strong mana potion -->
         <item id="2455" chance="5920"/><!-- crossbow -->
         <item id="7889" chance="720"/><!-- lightning pendant -->
         <item id="8871" chance="1250"/><!-- focus cape -->

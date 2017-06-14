@@ -35,7 +35,7 @@
     <loot>
         <item id="8931" chance="3"/> <!-- the epiphany-->
         <item id="2148" countmax="30" chance="40000"/><!-- gold coin -->
-        <item id="7618" chance="380"/><!-- health potion -->
+        <item id="7618" chance="400"/><!-- health potion -->
         <item id="2152" countmax="6" chance="400"/><!-- platinum coin -->
         <item id="5880" chance="510"/><!-- iron ore -->
         <item id="2643" chance="40000"/><!-- leather boots -->

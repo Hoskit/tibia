@@ -54,7 +54,7 @@
         <item id="11226" chance="100000"/>                <!-- strand of medusa hair -->
         <item id="7590" countmax="2" chance="87000"/>    <!-- great mana potion -->
         <item id="10219" chance="60000"/>                <!-- sacred tree amulet -->
-        <item id="8473" countmax="2" chance="60000"/>    <!-- ultimate health potion -->
+        <item id="8473" countmax="1" chance="200"/>    <!-- ultimate health potion -->
         <item id="2149" countmax="4" chance="46470"/>    <!-- small emerald -->
         <item id="7887" chance="46470"/>                <!-- terra amulet -->
         <item id="7884" chance="46470"/>                <!-- terra mantle -->

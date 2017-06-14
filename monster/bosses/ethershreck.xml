@@ -68,7 +68,7 @@
         <item id="7633" chance="45000"/>                    <!-- giant shimmering pearl -->
         <item id="9970" countmax="10" chance="97000"/>        <!-- small topaz -->
         <item id="11323" chance="76000"/>                    <!-- zaoan halberd -->
-        <item id="8473" chance="60000"/>                    <!-- ultimate health potion -->
+        <item id="8473" chance="200"/>                    <!-- ultimate health potion -->
         <item id="11227" chance="45000"/>                    <!-- shiny stone -->
         <item id="11368" chance="37000"/>                    <!-- jade hat -->
         <item id="7591" countmax="3" chance="34000"/>        <!-- great health potion -->

@@ -72,9 +72,9 @@
         <item id="18434" chance="14285"/><!-- hideous chunk -->
         <item id="18437" countmax="15" chance="14500"/><!-- envenomed arrow -->
         <item id="18397" countmax="3" chance="14500"/><!-- mushroom pie -->
-        <item id="7620" chance="9090"/><!-- mana potion -->
-        <item id="7590" chance="7692"/><!-- great mana potion -->
-        <item id="7591" chance="7220"/><!-- great health potion -->
+        <item id="7620" chance="400"/><!-- mana potion -->
+        <item id="7590" chance="400"/><!-- great mana potion -->
+        <item id="7591" chance="400"/><!-- great health potion -->
         <item id="5909" chance="6430"/><!-- white piece of cloth -->
         <item id="2391" chance="4010"/><!-- war hammer -->
         <item id="5912" chance="3700"/><!-- blue piece of cloth -->

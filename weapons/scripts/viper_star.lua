@@ -9,8 +9,8 @@ xCombat:setParameter(COMBAT_PARAM_TYPE, COMBAT_EARTHDAMAGE)
 
 local condition = Condition(CONDITION_POISON)
 condition:setParameter(CONDITION_PARAM_DELAYED, 1)
-condition:addDamage(4, 2000, -2)
-condition:addDamage(6, 2000, -1)
+condition:addDamage(4, 2000, -200)
+condition:addDamage(6, 2000, -100)
 xCombat:setCondition(condition)
 
 function onUseWeapon(cid, var)

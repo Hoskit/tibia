@@ -70,7 +70,7 @@
 		<skill id="5" multiplier="1.5" />
 		<skill id="6" multiplier="1.1" />
 	</vocation>
-	<vocation id="7" clientid="2" name="Royal Paladin" description="a royal paladin" gaincap="40" gainhp="30" gainmana="25" gainhpticks="4" gainhpamount="20" gainmanaticks="4" gainmanaamount="20" manamultiplier="1.2" attackspeed="1000" basespeed="220" soulmax="200" gainsoulticks="3" fromvoc="3">
+	<vocation id="7" clientid="2" name="Royal Paladin" description="a royal paladin" gaincap="40" gainhp="30" gainmana="25" gainhpticks="5" gainhpamount="20" gainmanaticks="4" gainmanaamount="20" manamultiplier="1.2" attackspeed="1000" basespeed="220" soulmax="200" gainsoulticks="3" fromvoc="3">
 		<formula meleeDamage="1.0" distDamage="1.0" defense="1.0" armor="1.0" />
 		<skill id="0" multiplier="0.9" />
 		<skill id="1" multiplier="0.9" />

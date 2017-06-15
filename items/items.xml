@@ -3159,7 +3159,7 @@
 		<attribute key="attack" value="25" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="spear" />
-		<attribute key="range" value="7" />
+		<attribute key="range" value="4" />
 	</item>
 	<item id="2390" article="a" name="magic longsword">
 		<attribute key="description" value="It's the magic Cyclopmania Sword." />
@@ -7193,7 +7193,7 @@
 		<attribute key="attack" value="42" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="huntingspear" />
-		<attribute key="range" value="7" />
+		<attribute key="range" value="5" />
 	</item>
 	<item id="3966" article="a" name="banana staff">
 		<attribute key="weight" value="5000" />
@@ -12297,7 +12297,11 @@
 	</item>
 	<item id="7367" article="an" name="enchanted spear">
 		<attribute key="weight" value="2000" />
-		<attribute key="attack" value="38" />
+		<attribute key="attack" value="1" />
+		<attribute key="elementFire" value="14" />
+		<attribute key="elementIce" value="14" />
+		<attribute key="elementEarth" value="14" />
+		<attribute key="elementEnergy" value="14" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="enchantedspear" />
 		<attribute key="range" value="4" />
@@ -12348,7 +12352,7 @@
 		<attribute key="attack" value="45" />
 		<attribute key="weaponType" value="distance" />
 		<attribute key="shootType" value="royalspear" />
-		<attribute key="range" value="7" />
+		<attribute key="range" value="5" />
 	</item>
 	<item id="7379" name="brutetamer's staff">
 		<attribute key="weight" value="3800" />

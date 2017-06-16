@@ -76,7 +76,7 @@
 		<skill id="1" multiplier="1.0" />
 		<skill id="2" multiplier="1.0" />
 		<skill id="3" multiplier="1.0" />
-		<skill id="4" multiplier="0.95" />
+		<skill id="4" multiplier="1.0" />
 		<skill id="5" multiplier="1.0" />
 		<skill id="6" multiplier="0.8" />
 	</vocation>

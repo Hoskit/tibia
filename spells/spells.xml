@@ -518,7 +518,7 @@
 	</rune>
 
 	<!-- Conjure Spells -->
-	<conjure group="support" name="Blank Rune" words="adori blank" lvl="10" mana="50" soul="1" conjureId="2260" conjureCount="1" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure group="support" name="Blank Rune" words="adori blank" lvl="10" mana="500" soul="1" conjureId="2260" conjureCount="10" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 		<vocation name="Paladin" />
@@ -528,7 +528,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="51" name="Conjure Arrow" words="exevo con" lvl="13" mana="100" soul="1" conjureId="2544" conjureCount="10" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="51" name="Conjure Arrow" words="exevo con" lvl="13" mana="100" soul="1" conjureId="2544" conjureCount="20" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
@@ -540,25 +540,25 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="79" name="Conjure Bolt" words="exevo con mort" lvl="17" mana="140" soul="1" prem="1" conjureId="2543" conjureCount="5" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="79" name="Conjure Bolt" words="exevo con mort" lvl="17" mana="140" soul="1" prem="1" conjureId="2543" conjureCount="15" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="108" name="Conjure Sniper Arrow" words="exevo con hur" lvl="24" mana="160" soul="1" prem="1" conjureId="7364" conjureCount="5" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="108" name="Conjure Sniper Arrow" words="exevo con hur" lvl="24" mana="160" soul="1" prem="1" conjureId="7364" conjureCount="15" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="49" name="Conjure Explosive Arrow" words="exevo con flam" lvl="25" mana="290" soul="1" conjureId="2546" conjureCount="8" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="49" name="Conjure Explosive Arrow" words="exevo con flam" lvl="25" mana="290" soul="1" conjureId="2546" conjureCount="18" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="109" name="Conjure Piercing Bolt" words="exevo con grav" lvl="33" mana="180" soul="1" prem="1" conjureId="7363" conjureCount="5" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="109" name="Conjure Piercing Bolt" words="exevo con grav" lvl="33" mana="180" soul="1" prem="1" conjureId="7363" conjureCount="15" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />

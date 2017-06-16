@@ -93,7 +93,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="122" name="Divine Missile" words="exori san" lvl="40" mana="40" prem="1" range="4" casterTargetOrDirection="1" needlearn="0" blockwalls="1" exhaustion="500" groupcooldown="500" script="attack/divine missile.lua">
+	<instant group="attack" spellid="122" name="Divine Missile" words="exori san" lvl="40" mana="40" prem="1" range="7" casterTargetOrDirection="1" needlearn="0" blockwalls="1" exhaustion="500" groupcooldown="500" script="attack/divine missile.lua">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />

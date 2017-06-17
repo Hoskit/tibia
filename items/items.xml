@@ -2119,7 +2119,7 @@
 		<attribute key="slotType" value="ring" />
 		<attribute key="charges" value="200" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentPhysical" value="10" />
 		<attribute key="absorbPercentMagic" value="20" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2316,7 +2316,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="5000" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="absorbPercentMagic" value="10" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -2333,7 +2333,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="2500" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentPhysical" value="4" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2201" article="a" name="dragon necklace">
@@ -2927,7 +2927,7 @@
 		<attribute key="weight" value="2760" />
 		<attribute key="armor" value="27" />
 		<attribute key="slotType" value="head" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="4" />
 		<attribute key="absorbPercentMagic" value="10" />
 	</item>
 	<item id="2343" article="a" name="helmet of the ancients">
@@ -3723,7 +3723,7 @@
 		<attribute key="weight" value="8500" />
 		<attribute key="armor" value="30" />
 		<attribute key="slotType" value="body" />
-		<attribute key="absorbPercentPhysical" value="12" />
+		<attribute key="absorbPercentPhysical" value="5" />
 	</item>
 	<item id="2473" article="a" name="viking helmet">
 		<attribute key="weight" value="3900" />
@@ -3891,13 +3891,13 @@
 		<attribute key="weight" value="13000" />
 		<attribute key="armor" value="20" />
 		<attribute key="slotType" value="body" />
-		<attribute key="absorbPercentPhysical" value="12" />
+		<attribute key="absorbPercentPhysical" value="6" />
 	</item>
 	<item id="2504" name="dwarven legs">
 		<attribute key="weight" value="4900" />
 		<attribute key="armor" value="19" />
 		<attribute key="slotType" value="legs" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="5" />
 	</item>
 	<item id="2505" article="an" name="elven mail">
 		<attribute key="weight" value="9000" />
@@ -3983,7 +3983,7 @@
 	<item id="2520" article="a" name="demon shield">
 		<attribute key="description" value="This powerful shield seems to be as light as air." />
 		<attribute key="weight" value="2600" />
-		<attribute key="defense" value="50" />
+		<attribute key="defense" value="30" />
 		<attribute key="absorbPercentPhysical" value="14" />
 		<attribute key="absorbPercentMagic" value="15" />
 		<attribute key="weaponType" value="shield" />
@@ -3996,8 +3996,8 @@
 	<item id="2522" article="a" name="great shield">
 		<attribute key="description" value="The shield is made of dragon scales." />
 		<attribute key="weight" value="8400" />
-		<attribute key="defense" value="138" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="defense" value="78" />
+		<attribute key="absorbPercentPhysical" value="5" />
 		<attribute key="absorbPercentMagic" value="15" />
 		<attribute key="weaponType" value="shield" />
 	</item>
@@ -21164,7 +21164,7 @@
 		<attribute key="armor" value="27" />
 		<attribute key="slotType" value="body" />
 		<attribute key="skillShield" value="30" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="3" />
 	</item>
 	<item id="12643" article="a" name="royal scale robe">
 		<attribute key="weight" value="4500" />
@@ -23641,7 +23641,7 @@
 		<attribute key="armor" value="28" />
 		<attribute key="slotType" value="body" />
 		<attribute key="skillShield" value="34" />
-		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentPhysical" value="6" />
 		<attribute key="absorbPercentMagic" value="10" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -23666,7 +23666,7 @@
 		<attribute key="armor" value="18" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentManaDrain" value="45" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15410" article="a" name="depth calcei">
@@ -23688,13 +23688,13 @@
 		<attribute key="weight" value="7700" />
 		<attribute key="armor" value="21" />
 		<attribute key="slotType" value="legs" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="7" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="15413" article="an" name="ornate shield">
 		<attribute key="weight" value="7100" />
 		<attribute key="defense" value="56" />
-		<attribute key="absorbPercentPhysical" value="25" />
+		<attribute key="absorbPercentPhysical" value="9" />
 		<attribute key="showattributes" value="1" />
 		<attribute key="weaponType" value="shield" />
 	</item>
@@ -23880,7 +23880,7 @@
 		<attribute key="slotType" value="body" />
 		<attribute key="magiclevelpoints" value="10" />
 		<attribute key="absorbPercentIce" value="25" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="4" />
 	</item>
 	<item id="15490" article="a" name="grasshopper legs">
 		<attribute key="weight" value="3200" />
@@ -25087,7 +25087,7 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="750" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="5" />
 		<attribute key="absorbPercentEarth" value="10" />
 		<attribute key="showattributes" value="1" />
 	</item>
@@ -25095,13 +25095,13 @@
 		<attribute key="weight" value="5600" />
 		<attribute key="armor" value="24" />
 		<attribute key="slotType" value="head" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="skillShield" value="20" />
 	</item>
 	<item id="18404" article="a" name="prismatic armor">
 		<attribute key="weight" value="7900" />
 		<attribute key="armor" value="25" />
-		<attribute key="absorbPercentPhysical" value="15" />
+		<attribute key="absorbPercentPhysical" value="4" />
 		<attribute key="slotType" value="body" />
 		<attribute key="speed" value="30" />
 	</item>
@@ -25109,7 +25109,7 @@
 		<attribute key="weight" value="7100" />
 		<attribute key="armor" value="15" />
 		<attribute key="slotType" value="legs" />
-		<attribute key="absorbPercentPhysical" value="12" />
+		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="skillDist" value="12" />
 	</item>
 	<item id="18406" name="prismatic boots">
@@ -25125,14 +25125,14 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="750" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="5" />
 		<attribute key="absorbPercentEnergy" value="15" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="18408" article="a" name="prismatic ring">
 		<attribute key="weight" value="105" />
 		<attribute key="slotType" value="ring" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="absorbPercentEnergy" value="8" />
 		<attribute key="transformEquipTo" value="18528" />
 		<attribute key="stopduration" value="1" />
@@ -25149,11 +25149,11 @@
 	</item>
 	<item id="18410" article="a" name="prismatic shield">
 		<attribute key="weight" value="7200" />
-		<attribute key="defense" value="77" />
+		<attribute key="defense" value="57" />
 		<attribute key="skillShield" value="50" />
 		<attribute key="weaponType" value="shield" />
 		<attribute key="showattributes" value="1" />
-		<attribute key="absorbPercentPhysical" value="20" />
+		<attribute key="absorbPercentPhysical" value="7" />
 	</item>
 	<item id="18411" article="a" name="muck rod">
 		<attribute key="description" value="A true staff of old, spitting slimy orbs." />
@@ -25608,7 +25608,7 @@
 	<item id="18528" article="a" name="prismatic ring">
 		<attribute key="weight" value="105" />
 		<attribute key="slotType" value="ring" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="5" />
 		<attribute key="absorbPercentEnergy" value="8" />
 		<attribute key="transformDeEquipTo" value="18408" />
 		<attribute key="decayTo" value="0" />
@@ -30576,7 +30576,7 @@
 	<item id="23540" name="metal spats">
 		<attribute key="armor" value="5" />
 		<attribute key="slotType" value="feet" />
-		<attribute key="absorbPercentPhysical" value="10" />
+		<attribute key="absorbPercentPhysical" value="4" />
 		<attribute key="weight" value="1800" />
 	</item>
 	<item id="23541" article="a" name="gearwheel chain">

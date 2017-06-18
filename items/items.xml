@@ -3168,6 +3168,7 @@
 		<attribute key="defense" value="40" />
 		<attribute key="attack" value="200" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2391" article="a" name="war hammer">
@@ -3184,6 +3185,7 @@
 		<attribute key="attack" value="14" />
 		<attribute key="elementFire" value="33" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="2393" article="a" name="giant sword">
@@ -3319,6 +3321,7 @@
 		<attribute key="attack" value="18" />
 		<attribute key="elementEarth" value="20" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="2412" article="a" name="katana">
 		<attribute key="weight" value="3100" />
@@ -3449,8 +3452,9 @@
 	<item id="2430" article="a" name="knight axe">
 		<attribute key="weight" value="5900" />
 		<attribute key="defense" value="21" />
-		<attribute key="attack" value="33" />
+		<attribute key="attack" value="34" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="2431" article="a" name="stonecutter axe">
@@ -3574,6 +3578,7 @@
 		<attribute key="defense" value="24" />
 		<attribute key="attack" value="45" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="2448" article="a" name="studded club">
@@ -12391,6 +12396,7 @@
 		<attribute key="defense" value="24" />
 		<attribute key="attack" value="61" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="7384" article="a" name="mystic blade">
@@ -12579,7 +12585,7 @@
 		<attribute key="description" value="Floating stones form the tip of this strange weapon, held in place by unspeakable magic." />
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="21" />
-		<attribute key="attack" value="47" />
+		<attribute key="attack" value="67" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -12748,8 +12754,9 @@
 		<attribute key="description" value="A beautiful gem is embedded in this weapon." />
 		<attribute key="weight" value="2100" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="37" />
+		<attribute key="attack" value="53" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7438" article="an" name="elvish bow">
 		<attribute key="description" value="This beautifully ornamented bow was made by a skilled elvish bowmaker." />
@@ -12847,6 +12854,7 @@
 		<attribute key="defense" value="22" />
 		<attribute key="attack" value="39" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7457" name="fur boots">
 		<attribute key="description" value="These boots keep your toes warm in even the iciest regions, but they feel kind of heavy." />
@@ -15995,12 +16003,13 @@
 		<attribute key="defense" value="28" />
 		<attribute key="attack" value="51" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="2" />
 	</item>
 	<item id="8925" article="a" name="solar axe">
 		<attribute key="weight" value="11000" />
 		<attribute key="defense" value="29" />
-		<attribute key="attack" value="52" />
+		<attribute key="attack" value="54" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
 	</item>
@@ -16045,8 +16054,8 @@
 		<attribute key="defense" value="35" />
 		<attribute key="attack" value="32" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="elementIce" value="34" />
-		<attribute key="extradef" value="50" />
 	</item>
 	<item id="8932" name="the calamity">
 		<attribute key="weight" value="6800" />
@@ -19739,6 +19748,7 @@
 		<attribute key="weight" value="4900" />
 		<attribute key="defense" value="18" />
 		<attribute key="attack" value="59" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="10" />
 	</item>
@@ -20062,6 +20072,7 @@
 		<attribute key="weight" value="3600" />
 		<attribute key="defense" value="20" />
 		<attribute key="attack" value="69" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
@@ -21055,6 +21066,7 @@
 		<attribute key="weight" value="18000" />
 		<attribute key="defense" value="30" />
 		<attribute key="attack" value="80" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -21216,6 +21228,7 @@
 		<attribute key="defense" value="29" />
 		<attribute key="attack" value="61" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="3" />
 	</item>
 	<item id="12650" article="a" name="snake god trophy">
@@ -22539,6 +22552,7 @@
 		<attribute key="defense" value="20" />
 		<attribute key="attack" value="60" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="604800" />
 		<attribute key="showduration" value="0" />
@@ -23810,6 +23824,7 @@
 		<attribute key="attack" value="42" />
 		<attribute key="defense" value="21" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="15452" article="a" name="deepling ridge">
 		<attribute key="weight" value="180" />
@@ -23821,7 +23836,7 @@
 	</item>
 	<item id="15454" article="a" name="guardian axe">
 		<attribute key="weight" value="11000" />
-		<attribute key="attack" value="46" />
+		<attribute key="attack" value="66" />
 		<attribute key="defense" value="11" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
@@ -23905,6 +23920,7 @@
 		<attribute key="defense" value="24" />
         <attribute key="elementEnergy" value="31" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="15497" article="a" name="dead deepling worker">
 		<attribute key="weight" value="6300" />
@@ -25340,6 +25356,7 @@
 		<attribute key="defense" value="34" />
 		<attribute key="attack" value="59" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="18451" article="a" name="crystalline axe">
@@ -25358,7 +25375,7 @@
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="30" />
 		<attribute key="skillSword" value="30" />
-        <attribute key="elementFire" value="100" />
+        <attribute key="elementFire" value="70" />
 	</item>
 	<item id="18453" article="a" name="crystal crossbow">
 		<attribute key="weight" value="8400" />
@@ -26378,10 +26395,11 @@
 	</item>
 	<item id="20092" article="a" name="ratana">
 		<attribute key="weight" value="3300" />
-		<attribute key="attack" value="27" />
-		<attribute key="defense" value="19" />
+		<attribute key="attack" value="32" />
+		<attribute key="defense" value="29" />
 		<attribute key="extradef" value="1" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="20093" article="a" name="life preserver">
 		<attribute key="weight" value="4600" />
@@ -30593,6 +30611,7 @@
 		<attribute key="attack" value="44" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="weight" value="5100" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="23543" article="a" name="glooth whip">
 		<attribute key="defense" value="19" />

@@ -2161,7 +2161,7 @@
 	<item id="2170" article="a" name="silver amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="absorbPercentEarth" value="30" />
 		<attribute key="showattributes" value="1" />
@@ -2175,7 +2175,7 @@
 	<item id="2172" article="a" name="bronze amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="absorbPercentManaDrain" value="20" />
 		<attribute key="showattributes" value="1" />
@@ -2314,7 +2314,7 @@
 	<item id="2198" article="an" name="elven amulet">
 		<attribute key="weight" value="270" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="5000" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="absorbPercentPhysical" value="3" />
 		<attribute key="absorbPercentMagic" value="10" />
@@ -2323,7 +2323,7 @@
 	<item id="2199" article="a" name="garlic necklace">
 		<attribute key="weight" value="380" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="1500" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="absorbPercentLifeDrain" value="20" />
 		<attribute key="showattributes" value="1" />
@@ -2331,15 +2331,15 @@
 	<item id="2200" article="a" name="protection amulet">
 		<attribute key="weight" value="550" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2500" />
+		<attribute key="charges" value="200" />
 		<attribute key="showcharges" value="1" />
-		<attribute key="absorbPercentPhysical" value="4" />
+		<attribute key="absorbPercentPhysical" value="10" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="2201" article="a" name="dragon necklace">
 		<attribute key="weight" value="630" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="absorbPercentFire" value="20" />
 		<attribute key="showattributes" value="1" />
@@ -14462,14 +14462,14 @@
 		<attribute key="slotType" value="necklace" />
 		<attribute key="absorbPercentEarth" value="20" />
 		<attribute key="absorbPercentFire" value="10" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="showcharges" value="1" />
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="7888" article="a" name="glacier amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="absorbPercentIce" value="20" />
 		<attribute key="absorbPercentEnergy" value="10" />
 		<attribute key="showcharges" value="1" />
@@ -14478,7 +14478,7 @@
 	<item id="7889" article="a" name="lightning pendant">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="absorbPercentEnergy" value="20" />
 		<attribute key="absorbPercentEarth" value="10" />
 		<attribute key="showcharges" value="1" />
@@ -14487,7 +14487,7 @@
 	<item id="7890" article="a" name="magma amulet">
 		<attribute key="weight" value="500" />
 		<attribute key="slotType" value="necklace" />
-		<attribute key="charges" value="2000" />
+		<attribute key="charges" value="500" />
 		<attribute key="absorbPercentFire" value="20" />
 		<attribute key="absorbPercentIce" value="10" />
 		<attribute key="showcharges" value="1" />

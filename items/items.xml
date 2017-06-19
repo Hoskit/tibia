@@ -12403,7 +12403,7 @@
 		<attribute key="description" value="This sword is only granted to a scrapper of the Svargrond arena." />
 		<attribute key="weight" value="3500" />
 		<attribute key="defense" value="25" />
-		<attribute key="attack" value="41" />
+		<attribute key="attack" value="38" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
@@ -12438,7 +12438,7 @@
 	<item id="7389" article="a" name="heroic axe">
 		<attribute key="weight" value="6100" />
 		<attribute key="defense" value="24" />
-		<attribute key="attack" value="44" />
+		<attribute key="attack" value="38" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 		<attribute key="description" value="This axe is only granted to a scrapper of the Svargrond arena." />
@@ -12593,7 +12593,7 @@
 		<attribute key="description" value="This club is only granted to a scrapper of the Svargrond arena." />
 		<attribute key="weight" value="7800" />
 		<attribute key="defense" value="20" />
-		<attribute key="attack" value="41" />
+		<attribute key="attack" value="48" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="-2" />
 	</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Bretzecutioner" nameDescription="Bretzecutioner" race="undead" experience="3700" speed="270"
          manacost="0">
-    <health now="5600" max="5600"/>
+    <health now="6720" max="6720"/>
     <look type="236" corpse="6320"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

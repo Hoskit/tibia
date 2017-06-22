@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Menace" nameDescription="Menace" race="blood" experience="3250" speed="220" manacost="0">
-    <health now="6000" max="6000"/>
+    <health now="7200" max="7200"/>
     <look type="113" corpse="4251"/>
     <targetchange interval="2000" chance="9"/>
     <flags>

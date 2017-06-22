@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Draken Abomination" nameDescription="a draken abomination" race="venom" experience="3800" speed="230"
          manacost="0">
-    <health now="6250" max="6250"/>
+    <health now="7500" max="7500"/>
     <look type="357" corpse="12623"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

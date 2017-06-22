@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Earth Overlord" nameDescription="an earth overlord" race="undead" experience="2800" speed="330"
          manacost="0">
-    <health now="4000" max="4000"/>
+    <health now="4800" max="4800"/>
     <look type="285" corpse="8933"/>
     <targetchange interval="20000" chance="30"/>
     <flags>

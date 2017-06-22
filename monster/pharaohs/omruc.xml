@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Omruc" nameDescription="Omruc" race="undead" experience="2950" speed="370" manacost="0">
-    <health now="4300" max="4300"/>
+    <health now="5160" max="5160"/>
     <look type="90" corpse="6025"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

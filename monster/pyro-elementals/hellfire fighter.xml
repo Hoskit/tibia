@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hellfire Fighter" nameDescription="a hellfire fighter" race="fire" experience="3900" speed="220"
          manacost="0">
-    <health now="3800" max="3800"/>
+    <health now="4560" max="4560"/>
     <look type="243" corpse="6324"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="The Axeorcist" nameDescription="the Axeorcist" race="blood" experience="4000" speed="250">
-    <health now="5100" max="5100"/>
+    <health now="6120" max="6120"/>
     <look type="8" corpse="5980"/>
     <targetchange interval="2000" chance="9"/>
     <flags>

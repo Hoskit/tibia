@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Mahrdis" nameDescription="Mahrdis" race="undead" experience="3050" speed="340" manacost="0">
-    <health now="3900" max="3900"/>
+    <health now="4680" max="4680"/>
     <look type="90" corpse="6025"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

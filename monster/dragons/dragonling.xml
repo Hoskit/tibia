@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Dragonling" nameDescription="a dragonling" race="blood" experience="2200" speed="330" manacost="0">
-    <health now="2600" max="2600"/>
+    <health now="3120" max="3120"/>
     <look type="505" corpse="18438"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

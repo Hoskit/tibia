@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Demon" nameDescription="a demon" race="fire" experience="6000" speed="280" manacost="0">
-    <health now="8200" max="8200"/>
+    <health now="9840" max="9840"/>
     <look type="35" corpse="5995"/>
     <targetchange interval="4000" chance="20"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hydra" nameDescription="a hydra" race="blood" experience="2100" speed="250" manacost="0">
-    <health now="2350" max="2350"/>
+    <health now="2820" max="2820"/>
     <look type="121" corpse="6048"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

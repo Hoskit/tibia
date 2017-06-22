@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Minotaur Amazon" nameDescription="a minotaur amazon" race="blood" experience="2200" speed="220"
          manacost="0">
-    <health now="2600" max="2600"/>
+    <health now="3120" max="3120"/>
     <look type="608" corpse="5962"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hand Of Cursed Fate" nameDescription="a hand of cursed fate" race="blood" experience="5000" speed="260"
          manacost="0">
-    <health now="7500" max="7500"/>
+    <health now="9000" max="9000"/>
     <look type="230" corpse="6312"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

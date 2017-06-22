@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Weeper" nameDescription="a weeper" race="fire" experience="4800" speed="260" manacost="0">
-    <health now="6800" max="6800"/>
+    <health now="8160" max="8160"/>
     <look type="489" corpse="17251"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -5,28 +5,28 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_buyable" value="
-			animate dead rune,2316,375;
-			blank rune,2260,10;
+			animate dead rune,2316,3750;
+			blank rune,2260,100;
 			crystal ball,2192,530;
-			desintegrate rune,2310,26;
-			energy bomb rune,2262,162;
-			fireball rune,2302,30;
+			desintegrate rune,2310,260;
+			energy bomb rune,2262,1620;
+			fireball rune,2302,300;
 			hailstorm rod,2183,15000;
-			holy missile rune,2295,16;
-			icicle rune,2271,30;
+			holy missile rune,2295,160;
+			icicle rune,2271,300;
 			life ring,2168,900;
-			magic wall rune,2293,116;
+			magic wall rune,2293,1160;
 			moonlight rod,2186,1000;
 			necrotic rod,2185,5000;
 			northwind rod,8911,7500;
-			paralyze rune,2278,700;
-			poison bomb rune,2286,85;
+			paralyze rune,2278,7000;
+			poison bomb rune,2286,850;
 			snakebite rod,2182,500;
-			soulfire rune,2308,46;
+			soulfire rune,2308,460;
 			springsprout rod,8912,18000;
-			stone shower rune,2288,37;
+			stone shower rune,2288,370;
 			terra rod,2181,10000;
-			thunderstorm rune,2315,37;
+			thunderstorm rune,2315,370;
 			underworld rod,8910,22000;
 			wand of cosmic energy,2189,10000;
 			wand of decay,2188,5000;
@@ -36,7 +36,7 @@
 			wand of starstorm,8920,18000;
 			wand of voodoo,8922,22000;
 			wand of vortex,2190,500;
-			wild growth rune,2269,160;" />
+			wild growth rune,2269,1600;" />
 		<parameter key="shop_sellable" value="
 			crystal ball,2192,190;
 			life crystal,2177,85;

@@ -5,14 +5,14 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_buyable" value="
-	great spirit potion,8472,190;
-	great mana potion,7590,120;
-	great health potion,7591,190;
-	strong health potion,7588,100;
-	strong mana potion,7589,80;
-	health potion,7618,45;
-	mana potion,7620,50;
-	ultimate health potion,8473,310;
+	great spirit potion,8472,1900;
+	great mana potion,7590,1200;
+	great health potion,7591,1900;
+	strong health potion,7588,1000;
+	strong mana potion,7589,800;
+	health potion,7618,450;
+	mana potion,7620,500;
+	ultimate health potion,8473,3100;
 	terra rod,2181,10000;
 	snakebite rod,2182,500;
 	necrotic rod,2185,5000;
@@ -29,7 +29,7 @@
 	wand of starstorm,8920,18000;
 	wand of voodoo,8922,22000;
 	wand of inferno,2187,15000;
-	blank rune,2260,10;
+	blank rune,2260,100;
 	spellbook,6120,150" />
 		<parameter key="shop_sellable" value="
 	empty potion flask,7634,5;

@@ -5,14 +5,14 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_buyable" value="
-	great spirit potion,8472,1900;
+	great spirit potion,8472,1900
 	great mana potion,7590,1500;
-	great health potion,7591,1900;
-	strong health potion,7588,1450;
-	strong mana potion,7589,1650;
+	great health potion,7591,1900
+	strong health potion,7588,1500
+	strong mana potion,7589,1500
 	health potion,7618,1500000;
 	mana potion,7620,850;
-	ultimate health potion,8473,2500;
+	ultimate health potion,8473,2500
 	terra rod,2181,10000;
 	snakebite rod,2182,500;
 	necrotic rod,2185,5000;

@@ -6,16 +6,16 @@
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_buyable" value="
 			vial of blood,2006,15,2;
-			great health potion,7591,1900;
+			great health potion,7591,1900
 			great mana potion,7590,1500;
-			great spirit potion,8472,1900;
+			great spirit potion,8472,1900
 			health potion,7618,1500000;
 			mana potion,7620,850;
 			vial of oil,2006,20,11;
 			vial of slime,2006,12,4;
-			strong health potion,7588,1450;
-			strong mana potion,7589,1650;
-			ultimate health potion,8473,2500;
+			strong health potion,7588,1500
+			strong mana potion,7589,1500
+			ultimate health potion,8473,2500
 			vial of urine,2006,10,13;
 			vial of water,2006,8,1;" />
 		<parameter key="shop_sellable" value="

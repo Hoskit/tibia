@@ -5,15 +5,15 @@
 	<parameters>
 		<parameter key="module_shop" value="1" />
 		<parameter key="shop_buyable" value="
-			great health potion,7591,1900;
+			great health potion,7591,1900
 			great mana potion,7590,1500;
-			great spirit potion,8472,1900;
+			great spirit potion,8472,1900
 			health potion,7618,1500000;
 			jug of embalming fluid,9677,200;
 			mana potion,7620,850;
-			strong health potion,7588,1450;
-			strong mana potion,7589,1650;
-			ultimate health potion,8473,2500;" />
+			strong health potion,7588,1500
+			strong mana potion,7589,1500
+			ultimate health potion,8473,2500" />
 		<parameter key="shop_sellable" value="
 			empty potion flask,7634,5;
 			empty potion flask,7635,5;

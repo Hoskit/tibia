@@ -16,28 +16,28 @@
 			egg,2328,3;
 			energy field rune,2277,38;
 			energy wall rune,2279,85;
-			explosion rune,2313,850;
+			explosion rune,2313,850
 			fire bomb rune,2305,117;
 			fire field rune,2301,28;
 			fire wall rune,2303,61;
 			great fireball rune,2304,900;
-			great health potion,7591,1900;
+			great health potion,7591,1900
 			great mana potion,7590,1500;
-			great spirit potion,8472,1900;
+			great spirit potion,8472,1900
 			ham,2671,10;
 			health potion,7618,1500000;
 			heavy magic missile rune,2311,650;
-			intense healing rune,2265,1350;
+			intense healing rune,2265,1350
 			light magic missile rune,2287,4;
 			mana potion,7620,850;
 			poison field rune,2285,21;
 			poison wall rune,2289,52;
 			stalagmite rune,2292,650;
-			strong health potion,7588,1450;
-			strong mana potion,7589,1650;
+			strong health potion,7588,1500
+			strong mana potion,7589,1500
 			sudden death rune,2268,10108;
 			ultimate healing rune,2273,1705;
-			ultimate health potion,8473,2500;" />
+			ultimate health potion,8473,2500" />
 		<parameter key="shop_sellable" value="
 			empty potion flask,7634,5;
 			empty potion flask,7635,5;

@@ -1,17 +1,24 @@
 #!/usr/bin/ruby
 
 files = Dir.glob("monster/**/*.xml")
+regex = "([1-8][0-9]{3})"
 
 files.each do |file|
-	#puts file
-	File.open(file).each_line do |line| 
-	if line.match /health now="[0-9]+" max="([3-9][0-9]{3})"/
-	#puts line
-	fieldMatch = line.match /health now="([0-9])+" max="([3-9][0-9]{3})"/
-    doubleFieldSize = fieldMatch[2].to_i * 2
-    #puts fieldMatch[1].gsub(/health now="[0-9]+" max="([3-9][0-9]{3})/, doubleFieldSize)
+	aFile = File.open(file, "r")
+	aString = aFile.read
+	aFile.close
 
-   puts doubleFieldSize
-		end
+	experience = aString[/experience="([0-9]+)"/, 1].to_i
+
+	if experience > 2000
+		doubleFieldSize = aString[/health now="#{regex}" max="#{regex}"/, 1].to_i * 1.2
+		doubleFieldSize2 = aString[/health now="#{regex}" max="#{regex}"/, 2].to_i * 1.2
+
+		doubleFieldSize = doubleFieldSize.to_i
+		doubleFieldSize2 = doubleFieldSize2.to_i
+
+		aString.gsub!(/health now="#{regex}" max="#{regex}"/, "health now=\"#{doubleFieldSize}\" max=\"#{doubleFieldSize2}\"")
+ 
+	File.open(file, "w") { |file| file << aString }
 	end
 end

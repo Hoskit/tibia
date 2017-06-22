@@ -5,7 +5,7 @@
 	<parameters>
 	<parameter key="module_shop" value="1" />
 	<parameter key="shop_buyable" value="
-		animate dead rune,2316,8005;
+		animate dead rune,2316,375;
 		arrow,2544,3;
 		basket,1989,6;
 		bolt,2543,4;
@@ -21,20 +21,20 @@
 		desintegrate rune,2310,26;
 		drill bolt,18436,12;
 		earth arrow,7850,5;
-		energy bomb rune,2262,6502;
+		energy bomb rune,2262,162;
 		envenomed arrow,18437,12;
-		fireball rune,2302,800;
+		fireball rune,2302,30;
 		fishing rod,2580,150;
 		flaming arrow,7840,5;
-		great health potion,7591,1900
-		great mana potion,7590,1500;
-		great spirit potion,8472,1900
-		health potion,7618,1500000;
-		holy missile rune,2295,650;
-		icicle rune,2271,800;
+		great health potion,7591,190;
+		great mana potion,7590,120;
+		great spirit potion,8472,190;
+		health potion,7618,45;
+		holy missile rune,2295,16;
+		icicle rune,2271,30;
 		machete,2420,35;
 		magic wall rune,2293,116;
-		mana potion,7620,850;
+		mana potion,7620,50;
 		onyx arrow,7365,7;
 		paralyze rune,2278,700;
 		pick,2553,50;
@@ -51,17 +51,17 @@
 		sniper arrow,7364,5;
 		soulfire rune,2308,46;
 		spear,2389,9;
-		Stone Shower rune,2288,800;
-		strong health potion,7588,1500
-		strong mana potion,7589,1500
+		Stone Shower Rune,2288,37;
+		strong health potion,7588,100;
+		strong mana potion,7589,80;
 		tarsal arrow,15648,6;
 		throwing star,2399,42;
-		Thunderstorm rune,2315,800;
+		Thunderstorm Rune,2315,37;
 		torch,2050,2;
-		ultimate health potion,8473,2500
+		ultimate health potion,8473,310;
 		vortex bolt,15649,6;
 		watch,2036,20;
-		Wild Growth rune,2269,6500;
+		Wild Growth Rune,2269,160;
 		worm,3976,1" />
 	<parameter key="shop_sellable" value="
 		bow,2456,100;

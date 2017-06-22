@@ -8,9 +8,9 @@ local config = {
 	-- great health potion
 	[7591] = {health = {min = 1525, max = 2075}, level = 80, emptyId = 7635},
 	-- health potion
-	[7618] = {health = {min = 525, max = 875}, emptyId = 7636},
+	[7618] = {health = {min = 425, max = 575}, emptyId = 7636},
 	-- mana potion
-	[7620] = {mana = {min = 575, max = 825}, emptyId = 7636},
+	[7620] = {mana = {min = 475, max = 525}, emptyId = 7636},
 	-- great spirit potion
 	[8472] = {health = {min = 1250, max = 1750}, mana = {min = 1500, max = 2000}, vocations = {3}, text = 'paladins', level = 80, emptyId = 7635},
 	-- ultimate health potion
@@ -18,7 +18,7 @@ local config = {
 	-- antidote potion
 	[8474] = {antidote = true, emptyId = 7636},
 	-- small health potion
-	[8704] = {health = {min = 300, max = 525}, emptyId = 7636}
+	[8704] = {health = {min = 200, max = 325}, emptyId = 7636}
 }
 
 local antidote = Combat()

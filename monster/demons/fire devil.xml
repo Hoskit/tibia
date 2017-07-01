@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Fire Devil" nameDescription="a fire devil" race="blood" experience="145" speed="190" manacost="530">
-    <health now="200" max="200"/>
+    <health now="338" max="338"/>
     <look type="40" corpse="5985"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

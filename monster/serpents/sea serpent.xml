@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Sea Serpent" nameDescription="a sea serpent" race="blood" experience="2300" speed="350" manacost="0">
-    <health now="2340" max="2340"/>
+    <health now="3042" max="3042"/>
     <look type="275" corpse="8307"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Groam" nameDescription="Groam" race="blood" experience="180" speed="560" manacost="0">
-    <health now="400" max="400"/>
+    <health now="676" max="676"/>
     <look type="413" corpse="13839"/>
     <targetchange interval="2000" chance="50"/>
     <flags>

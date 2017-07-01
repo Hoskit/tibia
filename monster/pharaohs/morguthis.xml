@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Morguthis" nameDescription="Morguthis" race="undead" experience="3000" speed="320" manacost="0">
-    <health now="5760" max="5760"/>
+    <health now="7488" max="7488"/>
     <look type="90" corpse="6025"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

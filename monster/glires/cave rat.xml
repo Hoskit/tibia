@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Cave Rat" nameDescription="a cave rat" race="blood" experience="10" speed="150" manacost="250">
-    <health now="30" max="30"/>
+    <health now="50" max="50"/>
     <look type="56" corpse="5964"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

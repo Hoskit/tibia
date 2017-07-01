@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Gazer" nameDescription="a gazer" race="venom" experience="90" speed="180" manacost="0">
-    <health now="120" max="120"/>
+    <health now="202" max="202"/>
     <look type="109" corpse="6036"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

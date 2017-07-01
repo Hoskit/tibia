@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Demodras" nameDescription="Demodras" race="blood" experience="4000" speed="230" manacost="0">
-    <health now="5400" max="5400"/>
+    <health now="7020" max="7020"/>
     <look type="204" corpse="5984"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

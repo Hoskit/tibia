@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Elf Scout" nameDescription="an elf scout" race="blood" experience="75" speed="170" manacost="360">
-    <health now="160" max="160"/>
+    <health now="270" max="270"/>
     <look type="64" corpse="6012"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

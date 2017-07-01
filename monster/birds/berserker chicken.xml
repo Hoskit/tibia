@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <monster name="Berserker Chicken" namedescription="a berserker chicken" race="blood" experience="220" speed="300"
          manacost="220">
-    <health now="465" max="465"/>
+    <health now="785" max="785"/>
     <look type="111" corpse="6042"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Ice Golem" nameDescription="an ice golem" race="undead" experience="295" speed="195" manacost="0">
-    <health now="385" max="385"/>
+    <health now="650" max="650"/>
     <look type="261" corpse="7282"/>
     <targetchange interval="2000" chance="5"/>
     <flags>

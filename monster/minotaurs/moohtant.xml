@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Moohtant" nameDescription="a moohtant" race="blood" experience="2600" speed="200" manacost="0">
-    <health now="3840" max="3840"/>
+    <health now="4992" max="4992"/>
     <look type="607" corpse="5962"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

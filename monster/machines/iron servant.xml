@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Iron Servant" nameDescription="an iron servant" race="energy" experience="210" speed="190" manacost="0">
-    <health now="350" max="350"/>
+    <health now="591" max="591"/>
     <look type="395" corpse="13486"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

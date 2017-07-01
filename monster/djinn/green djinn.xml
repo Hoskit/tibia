@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Green Djinn" nameDescription="a green djinn" race="blood" experience="215" speed="180" manacost="0">
-    <health now="330" max="330"/>
+    <health now="557" max="557"/>
     <look type="51" corpse="6016"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

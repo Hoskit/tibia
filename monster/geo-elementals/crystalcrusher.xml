@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Crystalcrusher" nameDescription="a crystalcrusher" race="undead" experience="500" speed="230"
          manacost="0">
-    <health now="570" max="570"/>
+    <health now="963" max="963"/>
     <look type="511" corpse="18487"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

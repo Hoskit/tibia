@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Quara Constrictor" nameDescription="a quara constrictor" race="blood" experience="250" speed="230"
          manacost="670">
-    <health now="450" max="450"/>
+    <health now="760" max="760"/>
     <look type="46" corpse="6065"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Muddy Earth Elemental" nameDescription="a muddy earth elemental" race="undead" experience="450"
          speed="260" manacost="0">
-    <health now="650" max="650"/>
+    <health now="1098" max="1098"/>
     <look type="301" corpse="8933"/>
     <targetchange interval="20000" chance="50"/>
     <flags>

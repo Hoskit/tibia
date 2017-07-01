@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Efreet" nameDescription="an efreet" race="blood" experience="410" speed="180" manacost="0">
-    <health now="550" max="550"/>
+    <health now="929" max="929"/>
     <look type="103" corpse="6032"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

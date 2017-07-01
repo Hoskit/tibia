@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Damaged Worker Golem" nameDescription="a damaged worker golem" race="energy" experience="95" speed="200"
          manacost="0">
-    <health now="260" max="260"/>
+    <health now="439" max="439"/>
     <look type="304" corpse="9801"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

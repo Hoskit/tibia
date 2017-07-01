@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Grave Robber" nameDescription="a grave robber" race="blood" experience="65" speed="205" manacost="435">
-    <health now="165" max="165"/>
+    <health now="278" max="278"/>
     <look type="146" head="114" body="95" legs="76" feet="38" addons="3" corpse="20411"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

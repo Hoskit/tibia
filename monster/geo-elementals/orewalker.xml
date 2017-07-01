@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Orewalker" nameDescription="an orewalker" race="undead" experience="4800" speed="250" manacost="0">
-    <health now="8640" max="8640"/>
+    <health now="11232" max="11232"/>
     <look type="490" corpse="17256"/>
     <targetchange interval="4000" chance="10"/>
     <strategy attack="90" defense="10"/>

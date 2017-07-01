@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Thul" nameDescription="Thul" race="blood" experience="2700" speed="520" manacost="0">
-    <health now="3540" max="3540"/>
+    <health now="4602" max="4602"/>
     <look type="46" corpse="6065"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

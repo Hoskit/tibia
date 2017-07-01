@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Death Blob" nameDescription="a death blob" race="undead" experience="300" speed="180" manacost="0">
-    <health now="320" max="320"/>
+    <health now="540" max="540"/>
     <look type="315" corpse="9960"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

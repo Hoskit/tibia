@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Gnarlhound" nameDescription="a gnarlhound" race="blood" experience="60" speed="280" manacost="465">
-    <health now="198" max="198"/>
+    <health now="334" max="334"/>
     <look type="341" corpse="11250"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

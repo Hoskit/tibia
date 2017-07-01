@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Flame Of Omrafir" nameDescription="a flame of omrafir" race="fire" experience="5" speed="200"
          manacost="0">
-    <health now="800" max="800"/>
+    <health now="1040" max="1040"/>
     <look type="49" corpse="8964"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

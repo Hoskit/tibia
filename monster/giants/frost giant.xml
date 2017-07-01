@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Frost Giant" nameDescription="a frost giant" race="blood" experience="150" speed="200" manacost="490">
-    <health now="270" max="270"/>
+    <health now="456" max="456"/>
     <look type="257" corpse="7330"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

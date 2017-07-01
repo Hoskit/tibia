@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Splasher" nameDescription="Splasher" race="blood" experience="500" speed="520" manacost="0">
-    <health now="1000" max="1000"/>
+    <health now="1300" max="1300"/>
     <look type="72" corpse="6064"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

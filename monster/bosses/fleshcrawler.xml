@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Fleshcrawler" nameDescription="Fleshcrawler" race="venom" experience="1000" speed="230" manacost="0">
-    <health now="1450" max="1450"/>
+    <health now="1885" max="1885"/>
     <look type="79" corpse="6021"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Minion Of Versperoth" nameDescription="a minion of Versperoth" race="fire" experience="2900" speed="290"
          manacost="0">
-    <health now="4560" max="4560"/>
+    <health now="5928" max="5928"/>
     <look type="491" corpse="0"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

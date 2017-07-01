@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Desperate White Deer" nameDescription="a desperate white deer" race="blood" experience="35" speed="225"
          manacost="0">
-    <health now="55" max="255"/>
+    <health now="92" max="430"/>
     <look type="400" corpse="13513"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

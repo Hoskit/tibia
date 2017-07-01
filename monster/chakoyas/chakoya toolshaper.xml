@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Chakoya Toolshaper" nameDescription="a chakoya toolshaper" race="blood" experience="40" speed="200"
          manacost="0">
-    <health now="80" max="80"/>
+    <health now="104" max="104"/>
     <look type="259" corpse="7320"/>
     <targetchange interval="60000" chance="0"/>
     <flags>

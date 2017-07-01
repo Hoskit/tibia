@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Mercury Blob" nameDescription="a mercury blob" race="undead" experience="180" speed="180" manacost="0">
-    <health now="150" max="150"/>
+    <health now="253" max="253"/>
     <look type="316" corpse="9961"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

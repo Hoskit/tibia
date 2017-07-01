@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Pirate Ghost" nameDescription="a pirate ghost" race="undead" experience="250" speed="170" manacost="0">
-    <health now="275" max="275"/>
+    <health now="464" max="464"/>
     <look type="196" corpse="5566"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Clubarc The Plunderer" nameDescription="Clubarc The Plunderer" race="blood" experience="400" speed="210"
          manacost="0">
-    <health now="400" max="400"/>
+    <health now="676" max="676"/>
     <look type="342" corpse="11254"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

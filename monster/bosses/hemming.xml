@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hemming" nameDescription="Hemming" experience="2850" speed="210" race="blood" manacost="0">
-    <health now="3600" max="3600"/>
+    <health now="4680" max="4680"/>
     <targetchange interval="4000" chance="10"/>
     <look type="308" corpse="20570"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Wyrm" nameDescription="a wyrm" race="blood" experience="1550" speed="230" manacost="0">
-    <health now="1825" max="1825"/>
+    <health now="2372" max="2372"/>
     <look type="291" corpse="8941"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Fernfang" nameDescription="Fernfang" race="blood" experience="600" speed="240" manacost="0">
-    <health now="400" max="400"/>
+    <health now="676" max="676"/>
     <look type="206" corpse="20566"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

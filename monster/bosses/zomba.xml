@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Zomba" nameDescription="Zomba" race="blood" experience="300" speed="180">
-    <health now="300" max="300"/>
+    <health now="507" max="507"/>
     <look type="41" corpse="5986"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Arachir The Ancient One" nameDescription="Arachir The Ancient One" race="undead" experience="1800"
          speed="300" manacost="0">
-    <health now="1600" max="1600"/>
+    <health now="2080" max="2080"/>
     <look type="287" corpse="8937"/>
     <targetchange interval="5000" chance="10"/>
     <flags>

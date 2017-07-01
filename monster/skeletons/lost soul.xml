@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lost Soul" nameDescription="a lost soul" race="undead" experience="4000" speed="220" manacost="0">
-    <health now="6960" max="6960"/>
+    <health now="9048" max="9048"/>
     <look type="232" corpse="6310"/>
     <targetchange interval="4000" chance="15"/>
     <flags>

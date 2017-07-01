@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lich" nameDescription="a lich" race="undead" experience="900" speed="220" manacost="0">
-    <health now="880" max="880"/>
+    <health now="1144" max="1144"/>
     <look type="99" corpse="6028"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

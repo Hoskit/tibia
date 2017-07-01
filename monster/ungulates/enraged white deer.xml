@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Enraged White Deer" nameDescription="an enraged white deer" race="blood" experience="165" speed="210"
          manacost="0">
-    <health now="255" max="255"/>
+    <health now="430" max="430"/>
     <look type="400" corpse="13513"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lizard Zaogun" nameDescription="a lizard zaogun" race="blood" experience="1700" speed="250" manacost="0">
-    <health now="2955" max="2955"/>
+    <health now="3841" max="3841"/>
     <look type="343" corpse="11284"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

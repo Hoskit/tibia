@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Dryad" nameDescription="a dryad" race="blood" experience="190" speed="210" manacost="0">
-    <health now="310" max="310"/>
+    <health now="523" max="523"/>
     <look type="137" head="80" body="101" legs="6" feet="100" addons="3" corpse="20387"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

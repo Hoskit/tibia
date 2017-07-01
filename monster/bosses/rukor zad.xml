@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Rukor Zad" nameDescription="Rukor Zad" race="blood" experience="380" speed="215" manacost="0">
-    <health now="380" max="380"/>
+    <health now="642" max="642"/>
     <look type="152" head="114" body="95" legs="95" feet="95" addons="3" corpse="20578"/>
     <targetchange interval="4000" chance="0"/>
     <strategy attack="70" defense="20"/>

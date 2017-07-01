@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Goblin Leader" nameDescription="a goblin leader" race="blood" experience="50" speed="160" manacost="290">
-    <health now="75" max="75"/>
+    <health now="97" max="97"/>
     <look type="61" corpse="6002"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

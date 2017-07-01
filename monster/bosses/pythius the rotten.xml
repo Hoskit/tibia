@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Pythius The Rotten" nameDescription="Pythius The Rotten" race="undead" experience="7000" speed="350"
          manacost="0">
-    <health now="9000" max="9000"/>
+    <health now="11700" max="11700"/>
     <look type="231" corpse="7349"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

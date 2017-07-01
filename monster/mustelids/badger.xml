@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <monster name="Badger" namedescription="a badger" race="blood" experience="5" speed="180" manacost="200">
-    <health now="23" max="23"/>
+    <health now="37" max="37"/>
     <look type="105" corpse="6034"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

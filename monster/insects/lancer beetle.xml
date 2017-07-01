@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lancer Beetle" nameDescription="a lancer beetle" race="venom" experience="275" speed="200" manacost="0">
-    <health now="400" max="400"/>
+    <health now="676" max="676"/>
     <look type="348" corpse="11375"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

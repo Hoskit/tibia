@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Shaburak Lord" nameDescription="a shaburak lord" race="fire" experience="1200" speed="230" manacost="0">
-    <health now="2100" max="2100"/>
+    <health now="2730" max="2730"/>
     <look type="409" corpse="13958"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

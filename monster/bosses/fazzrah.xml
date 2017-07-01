@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Fazzrah" nameDescription="Fazzrah" race="blood" experience="2600" speed="290" manacost="0">
-    <health now="3546" max="3546"/>
+    <health now="4609" max="4609"/>
     <look type="343" corpse="11284"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

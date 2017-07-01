@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Orc Shaman" nameDescription="an orc shaman" race="blood" experience="110" speed="180" manacost="0">
-    <health now="115" max="115"/>
+    <health now="193" max="193"/>
     <look type="6" corpse="5978"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

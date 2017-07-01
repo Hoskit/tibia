@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Medusa" nameDescription="a medusa" race="blood" experience="4050" speed="280" manacost="0">
-    <health now="5400" max="5400"/>
+    <health now="7020" max="7020"/>
     <look type="330" corpse="10524"/>
     <targetchange interval="4000" chance="20"/>
     <flags>

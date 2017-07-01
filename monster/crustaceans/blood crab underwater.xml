@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Blood Crab" nameDescription="a blood crab" race="undead" experience="180" speed="250" manacost="505">
-    <health now="320" max="320"/>
+    <health now="540" max="540"/>
     <look type="200" corpse="6075"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

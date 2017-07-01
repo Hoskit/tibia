@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Bane Bringer" nameDescription="a bane bringer" experience="400" speed="260" race="undead" manacost="0">
-    <health now="2500" max="2500"/>
+    <health now="3250" max="3250"/>
     <look type="310" corpse="9867"/>
     <flags>
         <flag summonable="0"/>

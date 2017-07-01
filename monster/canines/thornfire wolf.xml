@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Thornfire Wolf" nameDescription="a thornfire wolf" race="energy" experience="200" speed="250"
          manacost="0">
-    <health now="600" max="600"/>
+    <health now="1014" max="1014"/>
     <look type="414" corpse="13859"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

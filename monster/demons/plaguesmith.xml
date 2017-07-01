@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Plaguesmith" nameDescription="a plaguesmith" race="venom" experience="4500" speed="240" manacost="0">
-    <health now="9900" max="9900"/>
+    <health now="12870" max="12870"/>
     <look type="247" corpse="6516"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Depowered Minotaur" nameDescription="a depowered minotaur" race="blood" experience="1100" speed="170"
          manacost="0">
-    <health now="1500" max="1500"/>
+    <health now="1950" max="1950"/>
     <look type="25" corpse="5969"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

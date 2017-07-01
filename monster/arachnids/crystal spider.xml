@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Crystal Spider" nameDescription="a crystal spider" race="undead" experience="900" speed="220"
          manacost="0">
-    <health now="1250" max="1250"/>
+    <health now="1625" max="1625"/>
     <look type="263" corpse="7344"/>
     <targetchange interval="4000" chance="15"/>
     <flags>

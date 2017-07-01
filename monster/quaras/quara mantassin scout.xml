@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Quara Mantassin Scout" nameDescription="a quara mantassin scout" race="blood" experience="100"
          speed="220" manacost="0">
-    <health now="220" max="220"/>
+    <health now="371" max="371"/>
     <look type="72" corpse="6064"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

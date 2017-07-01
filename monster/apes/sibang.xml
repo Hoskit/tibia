@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Sibang" nameDescription="a sibang" race="blood" experience="105" speed="200" manacost="0">
-    <health now="225" max="225"/>
+    <health now="379" max="379"/>
     <look type="118" corpse="6045"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

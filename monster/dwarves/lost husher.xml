@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lost Husher" nameDescription="a lost husher" race="blood" experience="1800" speed="220" manacost="0">
-    <health now="1600" max="1600"/>
+    <health now="2080" max="2080"/>
     <look type="537" corpse="19964"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

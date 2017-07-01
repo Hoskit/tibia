@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Sandstone Scorpion" nameDescription="a sandstone scorpion" race="undead" experience="680" speed="230"
          manacost="0">
-    <health now="900" max="900"/>
+    <health now="1170" max="1170"/>
     <look type="398" corpse="13501"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

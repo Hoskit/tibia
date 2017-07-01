@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Undead Cavebear" nameDescription="an undead cavebear" race="undead" experience="600" speed="250"
          manacost="0">
-    <health now="450" max="450"/>
+    <health now="760" max="760"/>
     <look type="384" corpse="13323"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

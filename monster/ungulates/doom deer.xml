@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Doom Deer" nameDescription="a doom deer" race="blood" experience="200" speed="300" manacost="0">
-    <health now="405" max="405"/>
+    <health now="683" max="683"/>
     <look type="31" corpse="5970"/>
     <targetchange interval="2000" chance="20"/>
     <flags>

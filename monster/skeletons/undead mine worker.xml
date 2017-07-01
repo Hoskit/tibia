@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Undead Mine Worker" nameDescription="an undead mine worker" race="undead" experience="45" speed="150"
          manacost="435">
-    <health now="65" max="65"/>
+    <health now="109" max="109"/>
     <look type="33" corpse="5972"/>
     <targetchange interval="4000" chance="5"/>
     <flags>

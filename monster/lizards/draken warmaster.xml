@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Draken Warmaster" nameDescription="a draken warmaster" race="blood" experience="2400" speed="220"
          manacost="0">
-    <health now="4980" max="4980"/>
+    <health now="6474" max="6474"/>
     <look type="334" corpse="11107"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

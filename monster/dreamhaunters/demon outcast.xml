@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Demon Outcast" nameDescription="a demon outcast" race="blood" experience="6200" speed="280" manacost="0">
-    <health now="8280" max="8280"/>
+    <health now="10764" max="10764"/>
     <look type="590" corpse="22549"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

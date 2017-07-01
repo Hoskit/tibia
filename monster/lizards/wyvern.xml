@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Wyvern" nameDescription="a wyvern" race="blood" experience="515" speed="200" manacost="0">
-    <health now="795" max="795"/>
+    <health now="1033" max="1033"/>
     <look type="239" corpse="6302"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

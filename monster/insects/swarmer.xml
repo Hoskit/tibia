@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Swarmer" nameDescription="a swarmer" race="venom" experience="350" speed="190" manacost="0">
-    <health now="460" max="460"/>
+    <health now="777" max="777"/>
     <look type="460" corpse="15388"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

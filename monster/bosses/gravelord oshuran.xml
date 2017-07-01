@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Gravelord Oshuran" nameDescription="Gravelord Oshuran" race="undead" experience="2400" speed="220"
          manacost="0">
-    <health now="3720" max="3720"/>
+    <health now="4836" max="4836"/>
     <look type="99" head="95" body="116" legs="119" feet="115" corpse="6028"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

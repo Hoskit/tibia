@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lizard Noble" nameDescription="a lizard noble" race="blood" experience="2000" speed="200" manacost="0">
-    <health now="7000" max="7000"/>
+    <health now="9100" max="9100"/>
     <look type="115" corpse="6041"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

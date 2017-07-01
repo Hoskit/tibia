@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Worker Golem" nameDescription="a worker golem" race="energy" experience="1250" speed="230" manacost="0">
-    <health now="1470" max="1470"/>
+    <health now="1911" max="1911"/>
     <look type="304" corpse="9801"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

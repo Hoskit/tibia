@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Crypt Defiler" nameDescription="a crypt defiler" race="blood" experience="70" speed="205" manacost="0">
-    <health now="180" max="180"/>
+    <health now="304" max="304"/>
     <look type="146" head="115" body="115" legs="61" feet="96" addons="3" corpse="20359"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

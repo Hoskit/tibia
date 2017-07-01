@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Tormentor" nameDescription="Tormentor" race="blood" experience="3200" speed="240" manacost="0">
-    <health now="4920" max="4920"/>
+    <health now="6396" max="6396"/>
     <look type="245" corpse="6340"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

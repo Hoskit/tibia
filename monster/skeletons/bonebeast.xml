@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Bonebeast" nameDescription="a bonebeast" race="undead" experience="580" speed="210" manacost="0">
-    <health now="515" max="515"/>
+    <health now="869" max="869"/>
     <look type="101" corpse="6030"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

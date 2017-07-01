@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Enraged Squirrel" nameDescription="an enraged squirrel" race="blood" experience="10" speed="300"
          manacost="220">
-    <health now="20" max="20"/>
+    <health now="33" max="33"/>
     <look type="274" corpse="7628"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

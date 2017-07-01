@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Smuggler Baron Silvertoe" nameDescription="Smuggler Baron Silvertoe" race="blood" experience="170"
          speed="200" manacost="0">
-    <health now="280" max="280"/>
+    <health now="473" max="473"/>
     <look type="134" head="38" body="0" legs="94" feet="95" addons="0" corpse="20506"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

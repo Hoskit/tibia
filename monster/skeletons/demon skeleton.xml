@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Demon Skeleton" nameDescription="a demon skeleton" race="undead" experience="240" speed="170"
          manacost="620">
-    <health now="400" max="400"/>
+    <health now="676" max="676"/>
     <look type="37" corpse="5963"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

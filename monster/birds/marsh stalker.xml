@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Marsh Stalker" nameDescription="a marsh stalker" race="blood" experience="50" speed="210" manacost="0">
-    <health now="100" max="100"/>
+    <health now="169" max="169"/>
     <look type="530" corpse="19708"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

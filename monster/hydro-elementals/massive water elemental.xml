@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Massive Water Elemental" nameDescription="a massive water elemental" race="undead" experience="1100"
          speed="280" manacost="0">
-    <health now="1250" max="1250"/>
+    <health now="1625" max="1625"/>
     <look type="11" corpse="10499"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

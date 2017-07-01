@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Energy Elemental" nameDescription="an energy elemental" race="energy" experience="550" speed="200"
          manacost="0">
-    <health now="500" max="500"/>
+    <health now="845" max="845"/>
     <look type="293" corpse="8966"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Jagged Earth Elemental" nameDescription="a jagged earth elemental" race="undead" experience="1300"
          speed="280" manacost="0">
-    <health now="1500" max="1500"/>
+    <health now="1950" max="1950"/>
     <look type="285" corpse="8933"/>
     <targetchange interval="20000" chance="50"/>
     <flags>

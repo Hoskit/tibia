@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Inky" nameDescription="Inky" race="blood" experience="250" speed="240" manacost="0">
-    <health now="600" max="600"/>
+    <health now="1014" max="1014"/>
     <look type="46" corpse="6065"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

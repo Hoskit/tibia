@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Big Boss Trolliver" nameDescription="Big Boss Trolliver" race="blood" experience="105" speed="190">
-    <health now="150" max="150"/>
+    <health now="253" max="253"/>
     <look type="281" corpse="7926"/>
     <targetchange interval="2000" chance="5"/>
     <flags>

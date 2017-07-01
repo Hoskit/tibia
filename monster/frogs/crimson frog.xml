@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Crimson Frog" nameDescription="a crimson frog" race="blood" experience="20" speed="200" manacost="305">
-    <health now="60" max="60"/>
+    <health now="101" max="101"/>
     <look type="226" head="94" body="78" legs="94" feet="78" corpse="6079"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

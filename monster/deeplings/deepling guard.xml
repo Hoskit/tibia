@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Deepling Guard" nameDescription="a deepling guard" race="blood" experience="2100" speed="220"
          manacost="390">
-    <health now="2280" max="2280"/>
+    <health now="2964" max="2964"/>
     <look type="442" corpse="15187"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

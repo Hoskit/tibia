@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Necromancer" nameDescription="a necromancer" race="blood" experience="580" speed="200" manacost="0">
-    <health now="580" max="580"/>
+    <health now="980" max="980"/>
     <look type="9" corpse="20458"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

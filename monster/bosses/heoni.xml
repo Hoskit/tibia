@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Heoni" nameDescription="Heoni" race="blood" experience="515" speed="300" manacost="0">
-    <health now="795" max="795"/>
+    <health now="1033" max="1033"/>
     <look type="239" corpse="12546"/>
     <targetchange interval="2000" chance="10"/>
     <flags>

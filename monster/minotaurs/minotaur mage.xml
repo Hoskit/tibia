@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Minotaur Mage" nameDescription="a minotaur mage" race="blood" experience="150" speed="170" manacost="0">
-    <health now="155" max="155"/>
+    <health now="261" max="261"/>
     <look type="23" corpse="5981"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

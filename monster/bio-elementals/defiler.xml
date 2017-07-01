@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Defiler" nameDescription="a defiler" race="venom" experience="3700" speed="230" manacost="0">
-    <health now="4380" max="4380"/>
+    <health now="5694" max="5694"/>
     <look type="238" corpse="6532"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

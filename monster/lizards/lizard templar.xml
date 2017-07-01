@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lizard Templar" nameDescription="a lizard templar" race="blood" experience="155" speed="200"
          manacost="0">
-    <health now="410" max="410"/>
+    <health now="692" max="692"/>
     <look type="113" corpse="4251"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hellhound" nameDescription="a hellhound" race="blood" experience="6800" speed="280" manacost="0">
-    <health now="9000" max="9000"/>
+    <health now="11700" max="11700"/>
     <look type="240" corpse="6332"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

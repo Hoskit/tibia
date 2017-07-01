@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Golden Servant" nameDescription="a golden servant" race="energy" experience="450" speed="205"
          manacost="0">
-    <health now="550" max="550"/>
+    <health now="929" max="929"/>
     <look type="396" corpse="13489"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

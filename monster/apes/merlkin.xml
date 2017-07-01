@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Merlkin" nameDescription="a merlkin" race="blood" experience="145" speed="200" manacost="0">
-    <health now="235" max="235"/>
+    <health now="396" max="396"/>
     <look type="117" corpse="6044"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

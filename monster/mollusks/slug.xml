@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Slug" nameDescription="a slug" race="venom" experience="70" speed="150" manacost="0">
-    <health now="255" max="255"/>
+    <health now="430" max="430"/>
     <look type="407" corpse="13515"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

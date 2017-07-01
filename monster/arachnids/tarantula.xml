@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Tarantula" nameDescription="a tarantula" race="venom" experience="120" speed="210" manacost="485">
-    <health now="225" max="225"/>
+    <health now="379" max="379"/>
     <look type="219" corpse="6060"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

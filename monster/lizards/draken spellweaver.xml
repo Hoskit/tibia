@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Draken Spellweaver" nameDescription="a draken spellweaver" race="blood" experience="3100" speed="210"
          manacost="0">
-    <health now="6000" max="6000"/>
+    <health now="7800" max="7800"/>
     <look type="340" corpse="11316"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

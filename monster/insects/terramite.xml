@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Terramite" nameDescription="a terramite" race="venom" experience="160" speed="200" manacost="505">
-    <health now="365" max="365"/>
+    <health now="616" max="616"/>
     <look type="346" corpse="11347"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

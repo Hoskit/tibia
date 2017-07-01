@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Overcharged Energy Elemental" nameDescription="an orvercharged energy elemental" race="undead"
          experience="1300" speed="300" manacost="0">
-    <health now="1700" max="1700"/>
+    <health now="2210" max="2210"/>
     <look type="290" corpse="8966"/>
     <targetchange interval="20000" chance="15"/>
     <flags>

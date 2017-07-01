@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Vulcongra" nameDescription="vulcongra" race="fire" experience="1100" speed="230" manacost="0">
-    <health now="1600" max="1600"/>
+    <health now="2080" max="2080"/>
     <look type="509" corpse="18475"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

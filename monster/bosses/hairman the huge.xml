@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hairman The Huge" nameDescription="Hairman The Huge" race="blood" experience="335" speed="230"
          manacost="0">
-    <health now="600" max="600"/>
+    <health now="1014" max="1014"/>
     <look type="116" head="20" body="30" legs="40" feet="50" corpse="6043"/>
     <targetchange interval="5000" chance="14"/>
     <flags>

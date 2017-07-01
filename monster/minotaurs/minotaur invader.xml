@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Minotaur Invader" nameDescription="a minotaur invader" race="blood" experience="1600" speed="250"
          manacost="0">
-    <health now="1850" max="1850"/>
+    <health now="2405" max="2405"/>
     <look type="29" corpse="5983"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

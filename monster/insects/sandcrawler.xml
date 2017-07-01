@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Sandcrawler" nameDescription="a sandcrawler" race="venom" experience="20" speed="170" manacost="250">
-    <health now="30" max="30"/>
+    <health now="50" max="50"/>
     <look type="350" corpse="11357"/>
     <targetchange interval="5000" chance="0"/>
     <flags>

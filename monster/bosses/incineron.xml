@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Incineron" nameDescription="Incineron" race="fire" experience="3500" speed="260" manacost="0">
-    <health now="8400" max="8400"/>
+    <health now="10920" max="10920"/>
     <look type="243" corpse="6324"/>
     <targetchange interval="2000" chance="9"/>
     <flags>

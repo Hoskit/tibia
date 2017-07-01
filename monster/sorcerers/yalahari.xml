@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Yalahari" nameDescription="a yalahari" race="blood" experience="5" speed="200" manacost="0">
-    <health now="150" max="150"/>
+    <health now="253" max="253"/>
     <look type="309" corpse="20550"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Draptor" nameDescription="a draptor" race="blood" experience="2400" speed="282" manacost="0">
-    <health now="3600" max="3600"/>
+    <health now="4680" max="4680"/>
     <look type="382" corpse="13316"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

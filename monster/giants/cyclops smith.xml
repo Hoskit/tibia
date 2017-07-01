@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Cyclops Smith" nameDescription="a cyclops smith" race="blood" experience="255" speed="210"
          manacost="695">
-    <health now="435" max="435"/>
+    <health now="734" max="734"/>
     <look type="277" corpse="7740"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

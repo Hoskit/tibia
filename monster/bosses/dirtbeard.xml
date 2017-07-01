@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Dirtbeard" nameDescription="Dirtbeard" race="blood" experience="375" speed="300" manacost="0">
-    <health now="630" max="630"/>
+    <health now="1064" max="1064"/>
     <look type="98" corpse="10320"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

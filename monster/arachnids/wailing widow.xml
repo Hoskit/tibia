@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Wailing Widow" nameDescription="a wailing widow" race="venom" experience="450" speed="220" manacost="0">
-    <health now="850" max="850"/>
+    <health now="1105" max="1105"/>
     <look type="347" corpse="11310"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

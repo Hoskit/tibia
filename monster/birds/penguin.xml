@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <monster name="Penguin" nameDescription="penguin" race="blood" experience="1" speed="180" manacost="300">
-    <health now="33" max="33"/>
+    <health now="54" max="54"/>
     <look type="250" corpse="7334"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

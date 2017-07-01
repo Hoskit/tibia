@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Marid" nameDescription="a marid" race="blood" experience="410" speed="180" manacost="0">
-    <health now="550" max="550"/>
+    <health now="929" max="929"/>
     <look type="104" corpse="6033"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

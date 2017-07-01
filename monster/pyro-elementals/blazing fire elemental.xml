@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Blazing Fire Elemental" nameDescription="a blazing fire elemental" race="fire" experience="450"
          speed="220" manacost="0">
-    <health now="650" max="650"/>
+    <health now="1098" max="1098"/>
     <look type="49" corpse="8964"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

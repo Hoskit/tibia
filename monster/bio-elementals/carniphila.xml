@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Carniphila" nameDescription="a carniphila" race="venom" experience="150" speed="170" manacost="0">
-    <health now="255" max="255"/>
+    <health now="430" max="430"/>
     <look type="120" corpse="6047"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

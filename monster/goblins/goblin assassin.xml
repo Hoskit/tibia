@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Goblin Assassin" nameDescription="a goblin assassin" race="blood" experience="52" speed="200"
          manacost="360">
-    <health now="75" max="75"/>
+    <health now="97" max="97"/>
     <look type="296" corpse="6002"/>
     <targetchange interval="10000" chance="0"/>
     <flags>

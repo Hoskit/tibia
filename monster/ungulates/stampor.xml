@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Stampor" nameDescription="a stampor" race="blood" experience="780" speed="240">
-    <health now="1200" max="1200"/>
+    <health now="1560" max="1560"/>
     <look type="381" corpse="13312"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

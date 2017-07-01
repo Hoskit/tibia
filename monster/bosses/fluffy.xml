@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Fluffy" nameDescription="Fluffy" race="blood" experience="3550" speed="310" manacost="0">
-    <health now="5400" max="5400"/>
+    <health now="7020" max="7020"/>
     <look type="240" corpse="6332"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

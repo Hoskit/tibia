@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Quara Predator" nameDescription="a quara predator" race="blood" experience="1600" speed="280"
          manacost="0">
-    <health now="2200" max="2200"/>
+    <health now="2860" max="2860"/>
     <look type="20" corpse="6067"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

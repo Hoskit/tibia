@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Swampling" nameDescription="a swampling" race="venom" experience="45" speed="190" manacost="0">
-    <health now="80" max="80"/>
+    <health now="104" max="104"/>
     <look type="535" corpse="19902"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

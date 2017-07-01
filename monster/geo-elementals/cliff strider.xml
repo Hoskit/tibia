@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Cliff Strider" nameDescription="a cliff strider" race="undead" experience="5700" speed="260"
          manacost="0">
-    <health now="9400" max="9400"/>
+    <health now="12220" max="12220"/>
     <look type="497" corpse="17420"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

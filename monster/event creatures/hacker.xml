@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Hacker" nameDescription="a Hacker" race="blood" experience="45" speed="250" manacost="0">
-    <health now="430" max="430"/>
+    <health now="726" max="726"/>
     <look type="8" corpse="5980"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Horestis" nameDescription="Horestis" race="undead" experience="3500" speed="280" manacost="0">
-    <health now="7200" max="7200"/>
+    <health now="9360" max="9360"/>
     <look type="88" corpse="6031"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

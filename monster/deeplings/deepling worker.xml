@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Deepling Worker" nameDescription="a deepling worker" race="blood" experience="130" speed="210"
          manacost="0">
-    <health now="190" max="190"/>
+    <health now="321" max="321"/>
     <look type="470" corpse="15497"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

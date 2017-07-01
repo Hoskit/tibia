@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Boar" nameDescription="a boar" race="blood" experience="60" speed="260" manacost="465">
-    <health now="198" max="198"/>
+    <health now="334" max="334"/>
     <look type="380" corpse="13308"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

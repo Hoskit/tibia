@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Orc Spearman" nameDescription="an orc spearman" race="blood" experience="38" speed="176" manacost="310">
-    <health now="105" max="105"/>
+    <health now="176" max="176"/>
     <look type="50" corpse="5996"/>
     <targetchange interval="4000" chance="30"/>
     <flags>

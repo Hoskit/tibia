@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Banshee" nameDescription="a banshee" race="undead" experience="900" speed="200" manacost="0">
-    <health now="1000" max="1000"/>
+    <health now="1300" max="1300"/>
     <look type="78" corpse="6019"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

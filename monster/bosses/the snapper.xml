@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="The Snapper" nameDescription="The Snapper" race="blood" experience="150" speed="240">
-    <health now="300" max="300"/>
+    <health now="507" max="507"/>
     <look type="119" corpse="6046"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

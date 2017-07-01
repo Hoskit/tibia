@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Bat" namedescription="a bat" race="blood" experience="10" speed="230" manacost="250">
-    <health now="30" max="30"/>
+    <health now="50" max="50"/>
     <look type="122" corpse="6053"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

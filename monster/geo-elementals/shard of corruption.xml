@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Shard Of Corruption" nameDescription="a shard of corruption" race="undead" experience="5" speed="180"
          manacost="590">
-    <health now="600" max="600"/>
+    <health now="1014" max="1014"/>
     <look type="67" corpse="6005"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

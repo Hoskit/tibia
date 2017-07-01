@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Starving Wolf" nameDescription="a starving wolf" race="blood" experience="65" speed="170" manacost="0">
-    <health now="85" max="85"/>
+    <health now="110" max="110"/>
     <look type="27" corpse="5968"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

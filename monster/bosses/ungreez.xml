@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Ungreez" nameDescription="Ungreez" race="blood" experience="5000" speed="330" manacost="10000">
-    <health now="9840" max="9840"/>
+    <health now="12792" max="12792"/>
     <look type="35" corpse="5995"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

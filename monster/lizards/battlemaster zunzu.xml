@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Battlemaster Zunzu" nameDescription="a battlemaster zunzu" race="blood" experience="6500" speed="420"
          manacost="0">
-    <health now="6000" max="6000"/>
+    <health now="7800" max="7800"/>
     <look type="343" corpse="11281"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

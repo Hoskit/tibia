@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Mammoth" nameDescription="a mammoth" race="blood" experience="160" speed="210" manacost="500">
-    <health now="320" max="320"/>
+    <health now="540" max="540"/>
     <look type="199" corpse="6074"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

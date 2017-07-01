@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Lord Of The Elements" nameDescription="Lord Of The Elements" race="undead" experience="8000" speed="370"
          manacost="0">
-    <health now="9600" max="9600"/>
+    <health now="12480" max="12480"/>
     <look type="290" corpse="9009"/>
     <targetchange interval="5000" chance="10"/>
     <flags>

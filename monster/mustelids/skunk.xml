@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Skunk" nameDescription="a skunk" race="blood" experience="3" speed="120" manacost="200">
-    <health now="20" max="20"/>
+    <health now="33" max="33"/>
     <look type="106" corpse="6035"/>
     <targetchange interval="4000" chance="0"/>
     <flags>

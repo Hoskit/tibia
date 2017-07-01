@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Blood Priest" nameDescription="a blood priest" race="blood" experience="900" speed="210" manacost="0">
-    <health now="820" max="820"/>
+    <health now="1066" max="1066"/>
     <look type="553" corpse="21265"/>
     <targetchange interval="4000" chance="10"/>
     <flags>

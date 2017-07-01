@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Rahemos" nameDescription="Rahemos" race="undead" experience="3100" speed="320" manacost="0">
-    <health now="4440" max="4440"/>
+    <health now="5772" max="5772"/>
     <look type="87" corpse="6031"/>
     <targetchange interval="5000" chance="8"/>
     <flags>

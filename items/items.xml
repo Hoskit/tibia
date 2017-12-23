@@ -12542,7 +12542,8 @@
 	<item id="7408" article="a" name="wyvern fang">
 		<attribute key="weight" value="2000" />
 		<attribute key="defense" value="19" />
-		<attribute key="attack" value="37" />
+		<attribute key="attack" value="30" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
@@ -30624,7 +30625,8 @@
 	</item>
 	<item id="23543" article="a" name="glooth whip">
 		<attribute key="defense" value="19" />
-		<attribute key="attack" value="33" />
+		<attribute key="attack" value="30" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="weight" value="3200" />
 	</item>

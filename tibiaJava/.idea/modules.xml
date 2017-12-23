@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Users/PC/Git/TonyCommons/TonyCommons.iml" filepath="E:/Users/PC/Git/TonyCommons/TonyCommons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tibia.iml" filepath="$PROJECT_DIR$/tibia.iml" />
+    </modules>
+  </component>
+</project>

@@ -112,7 +112,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="7383" level="50" unproperly="1" />
+	<melee id="7383" level="50" unproperly="1" scrpit="ratana.lua"/>
 	<melee id="7391" level="50" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -172,7 +172,7 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="18450" level="62" unproperly="1" />
-	<melee id="20092" level="15" unproperly="1" />
+	<melee id="20092" level="15" unproperly="1" script="ratana.lua"/>
 	<melee id="22398" level="75" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />

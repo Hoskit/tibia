@@ -12394,7 +12394,7 @@
 	<item id="7383" article="a" name="relic sword">
 		<attribute key="weight" value="4800" />
 		<attribute key="defense" value="24" />
-		<attribute key="attack" value="61" />
+		<attribute key="attack" value="41" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
@@ -12754,7 +12754,7 @@
 		<attribute key="description" value="A beautiful gem is embedded in this weapon." />
 		<attribute key="weight" value="2100" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="53" />
+		<attribute key="attack" value="47" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="range" value="2" />
 	</item>
@@ -19747,7 +19747,7 @@
 	<item id="11307" article="a" name="Zaoan sword">
 		<attribute key="weight" value="4900" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="59" />
+		<attribute key="attack" value="51" />
 		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="10" />
@@ -20071,7 +20071,7 @@
 	<item id="11395" article="a" name="crimson sword">
 		<attribute key="weight" value="3600" />
 		<attribute key="defense" value="20" />
-		<attribute key="attack" value="69" />
+		<attribute key="attack" value="60" />
 		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
@@ -25354,7 +25354,7 @@
 	<item id="18450" article="a" name="crystalline sword">
 		<attribute key="weight" value="4800" />
 		<attribute key="defense" value="34" />
-		<attribute key="attack" value="59" />
+		<attribute key="attack" value="58" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="range" value="2" />
 		<attribute key="extradef" value="1" />
@@ -26395,7 +26395,7 @@
 	</item>
 	<item id="20092" article="a" name="ratana">
 		<attribute key="weight" value="3300" />
-		<attribute key="attack" value="32" />
+		<attribute key="attack" value="26" />
 		<attribute key="defense" value="29" />
 		<attribute key="extradef" value="1" />
 		<attribute key="weaponType" value="sword" />
@@ -29623,14 +29623,16 @@
 	<item id="22404" article="a" name="crude umbral axe">
 		<attribute key="weight" value="9000" />
 		<attribute key="defense" value="24" />
-		<attribute key="attack" value="49" />
+		<attribute key="attack" value="33" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="22405" article="a" name="umbral axe">
 		<attribute key="weight" value="8500" />
 		<attribute key="defense" value="27" />
-		<attribute key="attack" value="51" />
+		<attribute key="attack" value="43" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
@@ -29638,6 +29640,7 @@
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="30" />
 		<attribute key="attack" value="53" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
 		<attribute key="skillAxe" value="1" />
@@ -29645,21 +29648,24 @@
 	<item id="22407" article="a" name="crude umbral chopper">
 		<attribute key="weight" value="12000" />
 		<attribute key="defense" value="27" />
-		<attribute key="attack" value="51" />
+		<attribute key="attack" value="37" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="22408" article="a" name="umbral chopper">
 		<attribute key="weight" value="11500" />
 		<attribute key="defense" value="30" />
-		<attribute key="attack" value="52" />
+		<attribute key="attack" value="47" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="22409" article="a" name="umbral master chopper">
 		<attribute key="weight" value="11000" />
-		<attribute key="defense" value="34" />
-		<attribute key="attack" value="54" />
+		<attribute key="defense" value="57" />
+		<attribute key="attack" value="57" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillAxe" value="3" />
 		<attribute key="slotType" value="two-handed" />
@@ -29668,20 +29674,23 @@
 		<attribute key="weight" value="9000" />
 		<attribute key="defense" value="22" />
 		<attribute key="attack" value="48" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
 	<item id="22411" article="a" name="umbral mace">
 		<attribute key="weight" value="8500" />
 		<attribute key="defense" value="26" />
-		<attribute key="attack" value="50" />
+		<attribute key="attack" value="55" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
 	<item id="22412" article="a" name="umbral master mace">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="30" />
-		<attribute key="attack" value="52" />
+		<attribute key="attack" value="63" />
+		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
 		<attribute key="skillClub" value="1" />

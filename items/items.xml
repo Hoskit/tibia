@@ -3389,9 +3389,10 @@
 		<attribute key="description" value="It is blessed by the gods of Tibia." />
 		<attribute key="weight" value="12500" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="49" />
+		<attribute key="attack" value="59" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="2422" article="an" name="iron hammer">
 		<attribute key="weight" value="6600" />
@@ -3497,6 +3498,7 @@
 		<attribute key="elementIce" value="14" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="2436" article="a" name="skull staff">
 		<attribute key="description" value="The staff longs for death." />
@@ -12630,7 +12632,7 @@
 	<item id="7420" article="a" name="reaper's axe">
 		<attribute key="weight" value="5900" />
 		<attribute key="defense" value="25" />
-		<attribute key="attack" value="46" />
+		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
@@ -12849,6 +12851,7 @@
 		<attribute key="attack" value="48" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7456" article="a" name="noble axe">
 		<attribute key="weight" value="3800" />
@@ -30626,7 +30629,7 @@
 	<item id="23543" article="a" name="glooth whip">
 		<attribute key="defense" value="19" />
 		<attribute key="attack" value="30" />
-		<attribute key="range" value="2" />
+		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="weight" value="3200" />
 	</item>

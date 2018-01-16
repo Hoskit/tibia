@@ -96,7 +96,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="7424" level="30" unproperly="1" />
+	<melee id="7424" level="30" unproperly="1" script="melee_big_square.lua"/>
 	<melee id="7406" level="35" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -128,7 +128,7 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="7417" level="65" unproperly="1" />
-	<melee id="7403" level="65" unproperly="1">
+	<melee id="7403" level="65" unproperly="1" script="melee_cross.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -138,13 +138,13 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="7390" level="75" unproperly="1" />
-	<melee id="6528" level="75" unproperly="1">
+	<melee id="6528" level="75" unproperly="1" script="melee_cross.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="2400" level="80" unproperly="1" />
 	<melee id="8930" level="100" unproperly="1" />
-	<melee id="8931" level="120" unproperly="1" />
+	<melee id="8931" level="120" unproperly="1" script="melee_cross.lua"/>
 	<melee id="8932" level="100" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -172,7 +172,7 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="18450" level="62" unproperly="1" script="melee_cross.lua"/>
-	<melee id="20092" level="15" unproperly="1" script="melee_cross.lua"/>
+	<melee id="20092" level="15" unproperly="1" script="melee_row.lua"/>
 	<melee id="22398" level="75" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -181,7 +181,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="22400" level="250" unproperly="1">
+	<melee id="22400" level="250" unproperly="1" "melee_row.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -193,7 +193,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="22403" level="250" unproperly="1">
+	<melee id="22403" level="250" unproperly="1" script="melee_diamond.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -354,7 +354,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="22406" level="250" unproperly="1">
+	<melee id="22406" level="250" unproperly="1" script="melee_square.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -450,13 +450,13 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="2445" level="35" unproperly="1" />
-	<melee id="7451" level="35" unproperly="1" />
+	<melee id="7451" level="35" unproperly="1" script="melee_row.lua"/>
 	<melee id="2424" level="45" unproperly="1" />
-	<melee id="7455" level="80" unproperly="1" script="melee_big_cross.lua"/>
+	<melee id="7455" level="80" unproperly="1" script="melee_big_square.lua"/>
 	<melee id="7392" level="35" unproperly="1" />
 	<melee id="7426" level="40" unproperly="1" />
 	<melee id="7427" level="45" unproperly="1" />
-	<melee id="2391" level="50" unproperly="1">
+	<melee id="2391" level="50" unproperly="1" script="melee_square.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -518,7 +518,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="22412" level="250" unproperly="1">
+	<melee id="22412" level="250" unproperly="1" script="melee_cross.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -530,7 +530,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="22415" level="250" unproperly="1">
+	<melee id="22415" level="250" unproperly="1" script="melee_big_cross.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>

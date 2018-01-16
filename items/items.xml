@@ -3567,6 +3567,7 @@
 		<attribute key="attack" value="38" />
 		<attribute key="extradef" value="1" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="2446" article="a" name="pharaoh sword">
 		<attribute key="weight" value="5200" />
@@ -12613,6 +12614,7 @@
 		<attribute key="attack" value="55" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7418" article="a" name="nightmare blade">
 		<attribute key="weight" value="4600" />
@@ -12620,6 +12622,7 @@
 		<attribute key="attack" value="57" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="-3" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7419" article="a" name="dreaded cleaver">
 		<attribute key="weight" value="3800" />
@@ -12664,6 +12667,7 @@
 		<attribute key="attack" value="40" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7425" article="a" name="taurus mace">
 		<attribute key="weight" value="5100" />
@@ -12848,7 +12852,7 @@
 	<item id="7455" article="a" name="mythril axe">
 		<attribute key="weight" value="5500" />
 		<attribute key="defense" value="28" />
-		<attribute key="attack" value="48" />
+		<attribute key="attack" value="35" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 		<attribute key="range" value="2" />
@@ -26399,11 +26403,10 @@
 	</item>
 	<item id="20092" article="a" name="ratana">
 		<attribute key="weight" value="3300" />
-		<attribute key="attack" value="26" />
+		<attribute key="attack" value="28" />
 		<attribute key="defense" value="29" />
 		<attribute key="extradef" value="1" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="range" value="2" />
 	</item>
 	<item id="20093" article="a" name="life preserver">
 		<attribute key="weight" value="4600" />
@@ -29619,7 +29622,7 @@
 	<item id="22403" article="a" name="umbral master slayer">
 		<attribute key="weight" value="9000" />
 		<attribute key="defense" value="35" />
-		<attribute key="attack" value="158" />
+		<attribute key="attack" value="108" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillSword" value="3" />
 		<attribute key="slotType" value="two-handed" />
@@ -29668,7 +29671,7 @@
 	<item id="22409" article="a" name="umbral master chopper">
 		<attribute key="weight" value="11000" />
 		<attribute key="defense" value="57" />
-		<attribute key="attack" value="57" />
+		<attribute key="attack" value="87" />
 		<attribute key="range" value="3" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillAxe" value="3" />
@@ -29693,7 +29696,7 @@
 	<item id="22412" article="a" name="umbral master mace">
 		<attribute key="weight" value="8000" />
 		<attribute key="defense" value="30" />
-		<attribute key="attack" value="63" />
+		<attribute key="attack" value="67" />
 		<attribute key="range" value="2" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="3" />
@@ -29716,7 +29719,7 @@
 	<item id="22415" article="a" name="umbral master hammer">
 		<attribute key="weight" value="16000" />
 		<attribute key="defense" value="34" />
-		<attribute key="attack" value="55" />
+		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="skillClub" value="3" />
 		<attribute key="slotType" value="two-handed" />
@@ -29797,7 +29800,7 @@
 	</item>
 	<item id="22424" article="a" name="umbral master spellbook">
 		<attribute key="weight" value="3000" />
-		<attribute key="magiclevelpoints" value="15" />
+		<attribute key="magiclevelpoints" value="20" />
 		<attribute key="absorbPercentEarth" value="10" />
 		<attribute key="absorbPercentFire" value="10" />
 		<attribute key="absorbPercentIce" value="10" />

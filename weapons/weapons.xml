@@ -85,14 +85,13 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="7408" level="25" unproperly="1" />
-	<melee id="2419" level="25" unproperly="1" script="melee_diamond.lua"/>
 	<melee id="7449" level="25" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<melee id="2392" level="30" unproperly="1" />
 	<melee id="2407" level="30" unproperly="1" script="melee_cross.lua"/>
-	<melee id="2438" level="30" unproperly="1" script="melee_square.lua"/>
+	<melee id="2438" level="30" unproperly="1" />
 	<melee id="7407" level="30" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
@@ -285,7 +284,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="7456" level="35" unproperly="1" script="melee_row.lua"/>
+	<melee id="7456" level="35" unproperly="1" />
 	<melee id="7419" level="40" unproperly="1" />
 	<melee id="7413" level="40" unproperly="1">
 		<vocation name="Knight" />
@@ -310,7 +309,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
-	<melee id="2443" level="70" unproperly="1" script="melee_diamond.lua">
+	<melee id="2443" level="70" unproperly="1">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
@@ -345,7 +344,7 @@
 	<melee id="15404" level="80" unproperly="1" />
 	<melee id="15451" level="40" unproperly="1" />
 	<melee id="15454" level="50" unproperly="1" />
-	<melee id="15492" level="70" unproperly="1" script="melee_square.lua"/>
+	<melee id="15492" level="70" unproperly="1" />
 	<melee id="13838" level="25" unproperly="1" />
 	<melee id="22404" level="75" unproperly="1">
 		<vocation name="Knight" />
@@ -431,15 +430,14 @@
 	</melee>
 
 	<!--Clubs -->
-	<melee id="2423" level="20" unproperly="1" script="melee_cross.lua"/>
+	<melee id="2423" level="20" unproperly="1" />
 	<melee id="7381" level="20" unproperly="1" />
-	<melee id="2439" level="20" unproperly="1" script="melee_row.lua"/>
 	<melee id="7425" level="20" unproperly="1" script="melee_cross.lua"/>
 	<melee id="7432" level="20" unproperly="1" />
 	<melee id="2434" level="25" unproperly="1" />
 	<melee id="7387" level="25" unproperly="1" script="melee_cross.lua"/>
 	<melee id="7379" level="25" unproperly="1" />
-	<melee id="7430" level="30" unproperly="1" script="melee_row.lua"/>
+	<melee id="7430" level="30" unproperly="1" />
 	<melee id="2436" level="30" unproperly="1" />
 	<melee id="7437" level="30" unproperly="1" />
 	<melee id="3961" level="40" unproperly="1" />

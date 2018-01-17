@@ -3319,7 +3319,7 @@
 		<attribute key="weight" value="880" />
 		<attribute key="defense" value="8" />
 		<attribute key="attack" value="18" />
-		<attribute key="elementEarth" value="30" />
+		<attribute key="elementEarth" value="20" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="range" value="2" />
 	</item>
@@ -3377,7 +3377,7 @@
 		<attribute key="defense" value="13" />
 		<attribute key="attack" value="19" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="extradef" value="10" />
+		<attribute key="extradef" value="1" />
 	</item>
 	<item id="2420" article="a" name="machete">
 		<attribute key="weight" value="1650" />
@@ -3508,7 +3508,6 @@
 		<attribute key="weaponType" value="sword" />
 		<attribute key="elementIce" value="27" />
 		<attribute key="extradef" value="1" />
-		<attribute key="range" value="2" />
 	</item>
 	<item id="2437" article="a" name="light mace">
 		<attribute key="weight" value="4100" />
@@ -3527,7 +3526,6 @@
 		<attribute key="defense" value="12" />
 		<attribute key="attack" value="21" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="elementIce" value="14" />
 	</item>
 	<item id="2440" article="a" name="daramian waraxe">
 		<attribute key="weight" value="5250" />
@@ -3602,7 +3600,7 @@
 	</item>
 	<item id="2450" article="a" name="bone sword">
 		<attribute key="weight" value="1900" />
-		<attribute key="defense" value="20" />
+		<attribute key="defense" value="10" />
 		<attribute key="attack" value="13" />
 		<attribute key="weaponType" value="sword" />
 	</item>
@@ -12715,7 +12713,6 @@
 		<attribute key="defense" value="18" />
 		<attribute key="attack" value="35" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="range" value="2" />
 	</item>
 	<item id="7431" article="a" name="demonbone">
 		<attribute key="weight" value="18000" />
@@ -12865,6 +12862,7 @@
 		<attribute key="defense" value="22" />
 		<attribute key="attack" value="39" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="range" value="2" />
 	</item>
 	<item id="7457" name="fur boots">
 		<attribute key="description" value="These boots keep your toes warm in even the iciest regions, but they feel kind of heavy." />
@@ -23926,7 +23924,7 @@
 	</item>
 	<item id="15492" article="a" name="hive scythe">
 		<attribute key="weight" value="7500" />
-		<attribute key="attack" value="20" />
+		<attribute key="attack" value="28" />
 		<attribute key="defense" value="24" />
         <attribute key="elementEnergy" value="31" />
 		<attribute key="weaponType" value="sword" />

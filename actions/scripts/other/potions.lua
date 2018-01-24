@@ -1,20 +1,20 @@
 local config = {
 	-- strong health potion
-	[7588] = {health = {min = 1275, max = 1550}, vocations = {1, 2, 3, 4}, text = 'everyone', level = 50, emptyId = 7634},
+	[7588] = {health = {min = 675, max = 850}, vocations = {1, 2, 3, 4}, text = 'everyone', level = 50, emptyId = 7634},
 	-- strong mana potion
-	[7589] = {mana = {min = 1075, max = 1525}, vocations = {1, 2, 3, 4}, text = 'everyone', level = 50, emptyId = 7634},
+	[7589] = {mana = {min = 875, max = 1025}, vocations = {1, 2, 3, 4}, text = 'everyone', level = 50, emptyId = 7634},
 	-- great mana potion
-	[7590] = {mana = {min = 2550, max = 3050}, emptyId = 7635},
+	[7590] = {mana = {min = 1350, max = 1550}, emptyId = 7635},
 	-- great health potion
-	[7591] = {health = {min = 1525, max = 2075}, level = 80, emptyId = 7635},
+	[7591] = {health = {min = 1025, max = 1275}, level = 80, emptyId = 7635},
 	-- health potion
 	[7618] = {health = {min = 425, max = 575}, emptyId = 7636},
 	-- mana potion
 	[7620] = {mana = {min = 475, max = 525}, emptyId = 7636},
 	-- great spirit potion
-	[8472] = {health = {min = 1250, max = 1750}, mana = {min = 1500, max = 2000}, vocations = {3}, text = 'paladins', level = 80, emptyId = 7635},
+	[8472] = {health = {min = 850, max = 1050}, mana = {min = 1000, max = 1200}, vocations = {3}, text = 'paladins', level = 80, emptyId = 7635},
 	-- ultimate health potion
-	[8473] = {health = {min = 3500, max = 5250}, level = 130, emptyId = 7635},
+	[8473] = {health = {min = 1400, max = 1650}, level = 130, emptyId = 7635},
 	-- antidote potion
 	[8474] = {antidote = true, emptyId = 7636},
 	-- small health potion

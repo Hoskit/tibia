@@ -518,7 +518,7 @@
 	</rune>
 
 	<!-- Conjure Spells -->
-	<conjure group="support" name="Blank Rune" words="adori blank" lvl="10" mana="500" soul="1" conjureId="2260" conjureCount="10" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure group="support" name="Blank Rune" words="adori blank" lvl="10" mana="400" soul="1" conjureId="2260" conjureCount="8" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 		<vocation name="Paladin" />

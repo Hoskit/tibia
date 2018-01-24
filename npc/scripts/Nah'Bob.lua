@@ -48,11 +48,6 @@ local function creatureSayCallback(cid, type, msg)
 end
 
 local function onTradeRequest(cid)
-	if Player(cid):getStorageValue(Storage.DjinnWar.MaridFaction.Mission03) ~= 3 then
-		npcHandler:say('I\'m sorry, pal. But you need Gabel\'s permission to trade with me.', cid)
-		return false
-	end
-
 	return true
 end
 

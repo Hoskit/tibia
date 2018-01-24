@@ -3145,7 +3145,8 @@
 	<item id="2387" article="a" name="double axe">
 		<attribute key="weight" value="7000" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="35" />
+		<attribute key="attack" value="10" />
+		<attribute key="elementEarth" value="35" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
@@ -3403,7 +3404,8 @@
 	<item id="2423" article="a" name="clerical mace">
 		<attribute key="weight" value="5800" />
 		<attribute key="defense" value="15" />
-		<attribute key="attack" value="28" />
+		<attribute key="attack" value="10" />
+		<attribute key="elementEarth" value="28" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="1" />
 	</item>
@@ -3494,17 +3496,16 @@
 	<item id="2435" article="a" name="dwarven axe">
 		<attribute key="weight" value="8200" />
 		<attribute key="defense" value="19" />
-		<attribute key="attack" value="31" />
-		<attribute key="elementIce" value="14" />
+		<attribute key="attack" value="18" />
+		<attribute key="elementIce" value="20" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
-		<attribute key="range" value="2" />
 	</item>
 	<item id="2436" article="a" name="skull staff">
 		<attribute key="description" value="The staff longs for death." />
 		<attribute key="weight" value="1700" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="36" />
+		<attribute key="attack" value="26" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="elementIce" value="27" />
 		<attribute key="extradef" value="1" />
@@ -12428,8 +12429,9 @@
 	<item id="7387" article="a" name="diamond sceptre">
 		<attribute key="weight" value="1500" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="34" />
+		<attribute key="attack" value="14" />
 		<attribute key="weaponType" value="sword" />
+		<attribute key="elementIce" value="30" />
 		<attribute key="description" value="The beautiful jewel on the top of this sceptre is sharp enough to cut through glass." />
 	</item>
 	<item id="7388" article="a" name="vile axe">
@@ -26412,9 +26414,10 @@
 	</item>
 	<item id="20093" article="a" name="life preserver">
 		<attribute key="weight" value="4600" />
-		<attribute key="attack" value="27" />
-		<attribute key="defense" value="19" />
+		<attribute key="attack" value="17" />
+		<attribute key="defense" value="9" />
 		<attribute key="extradef" value="2" />
+		<attribute key="elementEnergy" value="30" />
 		<attribute key="weaponType" value="sword" />
 	</item>
 	<item fromid="20094" toid="20096" name="swamp lichen" />

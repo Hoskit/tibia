@@ -3441,7 +3441,7 @@
 	<item id="2428" article="an" name="orcish axe">
 		<attribute key="weight" value="4500" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="33" />
+		<attribute key="attack" value="29" />
 		<attribute key="weaponType" value="sword" />
         <attribute key="elementEnergy" value="20" />
 	</item>
@@ -12815,7 +12815,7 @@
 	<item id="7449" article="a" name="crystal sword">
 		<attribute key="weight" value="6900" />
 		<attribute key="defense" value="26" />
-		<attribute key="attack" value="55" />
+		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="slotType" value="two-handed" />
 	</item>

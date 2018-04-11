@@ -3441,9 +3441,9 @@
 	<item id="2428" article="an" name="orcish axe">
 		<attribute key="weight" value="4500" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="29" />
+		<attribute key="attack" value="24" />
 		<attribute key="weaponType" value="sword" />
-        <attribute key="elementEnergy" value="20" />
+        <attribute key="elementEnergy" value="17" />
 	</item>
 	<item id="2429" article="a" name="barbarian axe">
 		<attribute key="weight" value="5100" />
@@ -12429,7 +12429,7 @@
 	<item id="7387" article="a" name="diamond sceptre">
 		<attribute key="weight" value="1500" />
 		<attribute key="defense" value="18" />
-		<attribute key="attack" value="14" />
+		<attribute key="attack" value="7" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="elementIce" value="30" />
 		<attribute key="description" value="The beautiful jewel on the top of this sceptre is sharp enough to cut through glass." />
@@ -14507,42 +14507,42 @@
 	</item>
 	<item id="7891" name="magma boots">
 		<attribute key="weight" value="750" />
-		<attribute key="armor" value="16" />
+		<attribute key="armor" value="6" />
 		<attribute key="absorbPercentFire" value="15" />
 		<attribute key="absorbPercentIce" value="5" />
 		<attribute key="slotType" value="feet" />
 	</item>
 	<item id="7892" name="glacier shoes">
 		<attribute key="weight" value="750" />
-		<attribute key="armor" value="16" />
+		<attribute key="armor" value="6" />
 		<attribute key="slotType" value="feet" />
 		<attribute key="absorbPercentIce" value="15" />
 		<attribute key="absorbPercentEnergy" value="5" />
 	</item>
 	<item id="7893" name="lightning boots">
 		<attribute key="weight" value="750" />
-		<attribute key="armor" value="16" />
+		<attribute key="armor" value="6" />
 		<attribute key="absorbPercentEnergy" value="15" />
 		<attribute key="absorbPercentEarth" value="5" />
 		<attribute key="slotType" value="feet" />
 	</item>
 	<item id="7894" name="magma legs">
 		<attribute key="weight" value="1900" />
-		<attribute key="armor" value="21" />
+		<attribute key="armor" value="15" />
 		<attribute key="absorbPercentFire" value="26" />
 		<attribute key="absorbPercentIce" value="6" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="7895" name="lightning legs">
 		<attribute key="weight" value="1900" />
-		<attribute key="armor" value="21" />
+		<attribute key="armor" value="15" />
 		<attribute key="absorbPercentEnergy" value="26" />
 		<attribute key="absorbPercentEarth" value="6" />
 		<attribute key="slotType" value="legs" />
 	</item>
 	<item id="7896" article="a" name="glacier kilt">
 		<attribute key="weight" value="1900" />
-		<attribute key="armor" value="21" />
+		<attribute key="armor" value="15" />
 		<attribute key="slotType" value="legs" />
 		<attribute key="absorbPercentIce" value="26" />
 		<attribute key="absorbPercentEnergy" value="6" />

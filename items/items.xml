@@ -2381,7 +2381,7 @@
 		<attribute key="duration" value="1200" />
 		<attribute key="healthGain" value="32" />
 		<attribute key="healthTicks" value="6000" />
-		<attribute key="manaGain" value="30" />
+		<attribute key="manaGain" value="20" />
 		<attribute key="manaTicks" value="6000" />
 		<attribute key="showduration" value="1" />
 		<attribute key="showattributes" value="1" />
@@ -4131,7 +4131,7 @@
 		<attribute key="maxHitChance" value="98" />
 	</item>
 	<item id="2544" article="an" name="arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="1" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="35" />
 		<attribute key="weaponType" value="ammunition" />
@@ -4140,7 +4140,7 @@
 		<attribute key="maxHitChance" value="100" />
 	</item>
 	<item id="2545" article="a" name="poison arrow">
-		<attribute key="weight" value="80" />
+		<attribute key="weight" value="8" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="33" />
 		<attribute key="weaponType" value="ammunition" />
@@ -4149,7 +4149,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="2546" article="a" name="burst arrow">
-		<attribute key="weight" value="90" />
+		<attribute key="weight" value="12" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="42" />
 		<attribute key="weaponType" value="ammunition" />
@@ -4158,7 +4158,7 @@
 		<attribute key="hitChance" value="95" />
 	</item>
 	<item id="2547" article="a" name="power bolt">
-		<attribute key="weight" value="80" />
+		<attribute key="weight" value="8" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="65" />
 		<attribute key="weaponType" value="ammunition" />
@@ -12273,7 +12273,7 @@
 	</item>
 	<item fromid="7361" toid="7362" article="a" name="sarcophagus" />
 	<item id="7363" article="a" name="piercing bolt">
-		<attribute key="weight" value="80" />
+		<attribute key="weight" value="8" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="48" />
 		<attribute key="weaponType" value="ammunition" />
@@ -12282,7 +12282,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7364" article="a" name="sniper arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="50" />
 		<attribute key="weaponType" value="ammunition" />
@@ -12291,7 +12291,7 @@
 		<attribute key="maxHitChance" value="100" />
 	</item>
 	<item id="7365" article="an" name="onyx arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="77" />
 		<attribute key="weaponType" value="ammunition" />
@@ -12300,7 +12300,7 @@
 		<attribute key="maxHitChance" value="90" />
 	</item>
 	<item id="7366" article="a" name="viper star">
-		<attribute key="weight" value="200" />
+		<attribute key="weight" value="20" />
 		<attribute key="attack" value="28" />
 		<attribute key="hitChance" value="80" />
 		<attribute key="weaponType" value="distance" />
@@ -12308,7 +12308,7 @@
 		<attribute key="range" value="5" />
 	</item>
 	<item id="7367" article="an" name="enchanted spear">
-		<attribute key="weight" value="2000" />
+		<attribute key="weight" value="200" />
 		<attribute key="attack" value="1" />
 		<attribute key="elementFire" value="14" />
 		<attribute key="elementIce" value="14" />
@@ -12319,7 +12319,7 @@
 		<attribute key="range" value="4" />
 	</item>
 	<item id="7368" article="an" name="assassin star">
-		<attribute key="weight" value="200" />
+		<attribute key="weight" value="20" />
 		<attribute key="attack" value="120" />
 		<attribute key="maxHitChance" value="110" />
 		<attribute key="weaponType" value="distance" />
@@ -14039,7 +14039,7 @@
 	<item fromid="7829" toid="7832" article="a" name="celestial map" />
 	<item fromid="7833" toid="7837" name="dirt" />
 	<item id="7838" article="a" name="flash arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
 		<attribute key="elementEnergy" value="44" />
@@ -14049,7 +14049,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7839" article="a" name="shiver arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
 		<attribute key="elementIce" value="44" />
@@ -14059,7 +14059,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="7840" article="a" name="flaming arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
 		<attribute key="elementFire" value="44" />
@@ -14108,7 +14108,7 @@
 		<attribute key="duration" value="600" />
 	</item>
 	<item id="7850" article="an" name="earth arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="14" />
 		<attribute key="elementEarth" value="44" />
@@ -24080,7 +24080,7 @@
 		<attribute key="weaponType" value="sword" />
 	</item>
 	<item id="15648" article="a" name="tarsal arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="56" />
 		<attribute key="weaponType" value="ammunition" />
@@ -24089,7 +24089,7 @@
 		<attribute key="maxHitChance" value="90" />
 	</item>
 	<item id="15649" article="a" name="vortex bolt">
-		<attribute key="weight" value="80" />
+		<attribute key="weight" value="8" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="56" />
 		<attribute key="weaponType" value="ammunition" />
@@ -25279,7 +25279,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="18436" article="a" name="drill bolt">
-		<attribute key="weight" value="80" />
+		<attribute key="weight" value="8" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="76" />
 		<attribute key="weaponType" value="ammunition" />
@@ -25288,7 +25288,7 @@
 		<attribute key="maxHitChance" value="97" />
 	</item>
 	<item id="18437" article="a" name="envenomed arrow">
-		<attribute key="weight" value="70" />
+		<attribute key="weight" value="7" />
 		<attribute key="slotType" value="ammo" />
 		<attribute key="attack" value="30" />
 		<attribute key="elementEarth" value="30" />

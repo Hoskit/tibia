@@ -528,7 +528,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="51" name="Conjure Arrow" words="exevo con" lvl="13" mana="100" soul="1" conjureId="2544" conjureCount="20" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="51" name="Conjure Arrow" words="exevo con" lvl="13" mana="100" soul="1" conjureId="2544" conjureCount="30" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
@@ -546,7 +546,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure group="support" spellid="108" name="Conjure Sniper Arrow" words="exevo con hur" lvl="24" mana="160" soul="1" prem="1" conjureId="7364" conjureCount="15" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
+	<conjure group="support" spellid="108" name="Conjure Sniper Arrow" words="exevo con hur" lvl="24" mana="200" soul="1" prem="1" conjureId="7364" conjureCount="30" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureItem">
 		<vocation name="Paladin" />
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />

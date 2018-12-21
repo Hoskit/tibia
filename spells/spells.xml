@@ -778,6 +778,8 @@
 		<vocation name="Royal Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</conjure>
 
 	<!-- House Spells -->

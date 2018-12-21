@@ -5,8 +5,8 @@ combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_HOLYAREA)
 combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_HOLY)
 
 function onGetFormulaValues(player, level, maglevel)
-	min = -((level * 2) + (maglevel * 1.8) + 11)
-	max = -((level * 2) + (maglevel * 3.8) + 23)
+	min = -((level * 2) + (maglevel * 2.7) + 5)
+	max = -((level * 2) + (maglevel * 3.5) + 10)
 	return min, max
 end
 

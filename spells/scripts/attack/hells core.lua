@@ -6,8 +6,8 @@ local area = createCombatArea(AREA_CROSS5X5)
 combat:setArea(area)
 
 function onGetFormulaValues(player, level, maglevel)
-	min = -((level) + (maglevel * 8) + 50)
-	max = -((level) + (maglevel * 12) + 75)
+	min = -(level + (maglevel * 8) + 50)
+	max = -(level + (maglevel * 12) + 75)
 	return min, max
 end
 

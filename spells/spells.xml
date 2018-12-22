@@ -75,7 +75,7 @@
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
-	<instant group="attack" spellid="87" name="Death Strike" words="exori mort" lvl="16" mana="60" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/death strike.lua">
+	<instant group="attack" spellid="87" name="Death Strike" words="exori mort" lvl="16" mana="40" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/death strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Knight" />
@@ -115,7 +115,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="88" name="Energy Strike" words="exori vis" lvl="12" mana="60" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/energy strike.lua">
+	<instant group="attack" spellid="88" name="Energy Strike" words="exori vis" lvl="12" mana="40" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/energy strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Druid" />
 		<vocation name="Master Sorcerer" />
@@ -161,7 +161,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="89" name="Flame Strike" words="exori flam" lvl="14" mana="60" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/flame strike.lua">
+	<instant group="attack" spellid="89" name="Flame Strike" words="exori flam" lvl="14" mana="40" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/flame strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Druid" />
 		<vocation name="Master Sorcerer" />
@@ -223,7 +223,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="112" name="Ice Strike" words="exori frigo" lvl="15" mana="60" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/ice strike.lua">
+	<instant group="attack" spellid="112" name="Ice Strike" words="exori frigo" lvl="15" mana="40" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/ice strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Druid" />
@@ -319,7 +319,7 @@
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
-	<instant group="attack" spellid="148" name="Physical Strike" words="exori moe ico" lvl="16" mana="20" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/physical strike.lua">
+	<instant group="attack" spellid="148" name="Physical Strike" words="exori moe ico" lvl="16" mana="40" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/physical strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
@@ -361,7 +361,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="151" name="Strong Energy Strike" words="exori gran vis" lvl="160" mana="60" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong energy strike.lua">
+	<instant group="attack" spellid="151" name="Strong Energy Strike" words="exori gran vis" lvl="160" mana="80" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong energy strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
@@ -371,7 +371,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="150" name="Strong Flame Strike" words="exori gran flam" lvl="70" mana="120" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong flame strike.lua">
+	<instant group="attack" spellid="150" name="Strong Flame Strike" words="exori gran flam" lvl="70" mana="80" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong flame strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
@@ -383,7 +383,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="152" name="Strong Ice Strike" words="exori gran frigo" lvl="80" mana="120" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong ice strike.lua">
+	<instant group="attack" spellid="152" name="Strong Ice Strike" words="exori gran frigo" lvl="80" mana="80" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong ice strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
@@ -391,7 +391,7 @@
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
-	<instant group="attack" spellid="153" name="Strong Terra Strike" words="exori gran tera" lvl="70" mana="120" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groupcooldown="500" needlearn="0" script="attack/strong terra strike.lua">
+	<instant group="attack" spellid="153" name="Strong Terra Strike" words="exori gran tera" lvl="70" mana="80" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groupcooldown="500" needlearn="0" script="attack/strong terra strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
@@ -407,7 +407,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="113" name="Terra Strike" words="exori tera" lvl="13" mana="60" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/terra strike.lua">
+	<instant group="attack" spellid="113" name="Terra Strike" words="exori tera" lvl="13" mana="40" prem="1" range="5" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/terra strike.lua">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Druid" />
@@ -437,7 +437,7 @@
 		<vocation name="Master Sorcerer" />
 		<vocation name="Elder Druid" />
 	</instant>
-	<instant group="attack" spellid="156" name="Ultimate Ice Strike" words="exori max frigo" lvl="100" mana="100" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="30000" groupcooldown="4000" needlearn="0" script="attack/ultimate ice strike.lua">
+	<instant group="attack" spellid="156" name="Ultimate Ice Strike" words="exori max frigo" lvl="100" mana="200" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="30000" groupcooldown="4000" needlearn="0" script="attack/ultimate ice strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>
@@ -449,7 +449,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="157" name="Ultimate Terra Strike" words="exori max tera" lvl="90" mana="100" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="30000" groupcooldown="4000" needlearn="0" script="attack/ultimate terra strike.lua">
+	<instant group="attack" spellid="157" name="Ultimate Terra Strike" words="exori max tera" lvl="90" mana="200" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="30000" groupcooldown="4000" needlearn="0" script="attack/ultimate terra strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</instant>

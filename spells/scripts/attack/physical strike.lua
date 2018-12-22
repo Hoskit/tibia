@@ -4,8 +4,8 @@ combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_EXPLOSIONAREA)
 combat:setParameter(COMBAT_PARAM_DISTANCEEFFECT, CONST_ANI_EXPLOSION)
 
 function onGetFormulaValues(player, level, maglevel)
-	min = -((level * 2) + (maglevel * 1.6) + 9)
-	max = -((level * 2) + (maglevel * 2.4) + 14)
+	min = -((level) + (maglevel * 1.6) + 9)
+	max = -((level) + (maglevel * 2.4) + 14)
 	return min, max
 end
 

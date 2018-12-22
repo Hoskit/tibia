@@ -39,19 +39,19 @@
 	<wand id="2190" level="7" mana="4" min="20" max="40" type="energy"> <!-- Wand of Vortex -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="2191" level="13" mana="6" min="25" max="50" type="fire"> <!-- Wand of Dragonbreath -->
+	<wand id="2191" level="13" mana="6" min="20" max="60" type="fire"> <!-- Wand of Dragonbreath -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="2188" level="22" mana="8" min="30" max="60" type="death"> <!-- Wand of Decay -->
+	<wand id="2188" level="22" mana="8" min="40" max="60" type="death"> <!-- Wand of Decay -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="8921" level="30" mana="8" min="27" max="70" type="fire"> <!-- Wand of Draconia -->
+	<wand id="8921" level="30" mana="8" min="47" max="70" type="fire"> <!-- Wand of Draconia -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="2189" level="42" mana="9" min="42" max="70" type="energy"> <!-- Wand of Cosmic Energy -->
+	<wand id="2189" level="42" mana="9" min="52" max="80" type="energy"> <!-- Wand of Cosmic Energy -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="2187" level="63" mana="10" min="55" max="90" type="fire"> <!-- Wand of Inferno -->
+	<wand id="2187" level="63" mana="10" min="64" max="95" type="fire"> <!-- Wand of Inferno -->
 		<vocation name="Sorcerer" />
 	</wand>
 	<wand id="8920" level="90" mana="11" min="75" max="110" type="energy"> <!-- Wand of Starmstorm -->

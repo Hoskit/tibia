@@ -42,7 +42,7 @@
 	<wand id="2191" level="13" mana="6" min="20" max="60" type="fire"> <!-- Wand of Dragonbreath -->
 		<vocation name="Sorcerer" />
 	</wand>
-	<wand id="2188" level="22" mana="8" min="40" max="60" type="death"> <!-- Wand of Decay -->
+	<wand id="2188" level="22" mana="7" min="40" max="60" type="death"> <!-- Wand of Decay -->
 		<vocation name="Sorcerer" />
 	</wand>
 	<wand id="8921" level="30" mana="8" min="47" max="70" type="fire"> <!-- Wand of Draconia -->

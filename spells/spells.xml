@@ -685,7 +685,7 @@
 		<vocation name="Master Sorcerer" />
 		<vocation name="Elder Druid" />
 	</conjure>
-	<conjure name="Sudden Death" words="adori gran mort" lvl="1" mana="1985" soul="1" reagentId="2260" conjureId="2268" conjureCount="3" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Sudden Death" words="adori gran mort" lvl="1" mana="1585" soul="1" reagentId="2260" conjureId="2268" conjureCount="3" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Knight" />

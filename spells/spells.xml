@@ -619,7 +619,7 @@
 		<vocation name="Master Sorcerer" />
 		<vocation name="Elder Druid" />
 	</conjure>
-	<conjure name="Stalagmite" words="adori tera" lvl="1" mana="400" soul="1" prem="2" reagentId="2260" conjureId="2292" conjureCount="10" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Stalagmite" words="adori tera" lvl="1" mana="400" soul="1" prem="2" reagentId="2260" conjureId="2292" conjureCount="5" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Druid" />
@@ -631,7 +631,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure name="Heavy Magic Missile" words="adori vis" lvl="1" mana="350" soul="1" reagentId="2260" conjureId="2311" conjureCount="10" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Heavy Magic Missile" words="adori vis" lvl="1" mana="350" soul="1" reagentId="2260" conjureId="2311" conjureCount="5" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Druid" />

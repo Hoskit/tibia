@@ -322,6 +322,8 @@
 	<instant group="attack" spellid="148" name="Physical Strike" words="exori moe ico" lvl="16" mana="40" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" groupcooldown="500" needlearn="0" script="attack/physical strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</instant>
 	<instant group="attack" spellid="167" name="Practise Fire Wave" words="exevo dis flam hur" lvl="1" mana="5" direction="1" exhaustion="4000" groupcooldown="500" needlearn="0" script="attack/practise fire wave.lua">
 		<vocation name="None" />
@@ -386,14 +388,20 @@
 	<instant group="attack" spellid="152" name="Strong Ice Strike" words="exori gran frigo" lvl="80" mana="80" prem="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="5000" groupcooldown="500" needlearn="0" script="attack/strong ice strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</instant>
 	<instant group="attack" spellid="43" name="Strong Ice Wave" words="exevo gran frigo hur" lvl="40" mana="340" direction="1" exhaustion="8000" groupcooldown="500" needlearn="0" script="attack/strong ice wave.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</instant>
 	<instant group="attack" spellid="153" name="Strong Terra Strike" words="exori gran tera" lvl="70" mana="80" prem="1" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="8000" groupcooldown="500" needlearn="0" script="attack/strong terra strike.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</instant>
 	<instant group="support" spellid="9" name="Summon Creature" words="utevo res" lvl="25" params="1" exhaustion="500" groupcooldown="500" needlearn="0" function="summonMonster">
 		<vocation name="Sorcerer" />
@@ -418,6 +426,8 @@
 	<instant group="attack" spellid="120" name="Terra Wave" words="exevo tera hur" lvl="38" mana="210" direction="1" exhaustion="4000" groupcooldown="500" needlearn="0" script="attack/terra wave.lua">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
+		<vocation name="Sorcerer" />
+		<vocation name="Master Sorcerer" />
 	</instant>
 	<instant group="support" spellid="126" name="Train Party" words="utito mas sio" lvl="32" mana="60" prem="1" aggressive="0" selftarget="1" exhaustion="500" groupcooldown="500" needlearn="0" script="party/train.lua">
 		<vocation name="Knight" />

@@ -635,7 +635,7 @@
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 	</conjure>
-	<conjure name="Great Fireball" words="adori mas flam" lvl="1" mana="430" soul="1" reagentId="2260" conjureId="2304" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Great Fireball" words="adori mas flam" lvl="1" mana="600" soul="1" reagentId="2260" conjureId="2304" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Knight" />
@@ -771,7 +771,7 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure name="Avalanche" words="adori mas frigo" lvl="1" mana="530" soul="1" reagentId="2260" conjureId="2274" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Avalanche" words="adori mas frigo" lvl="1" mana="600" soul="1" reagentId="2260" conjureId="2274" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 		<vocation name="Sorcerer" />
@@ -779,13 +779,13 @@
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure name="Stone Shower" words="adori mas tera" lvl="1" mana="430" soul="1" prem="1" reagentId="2260" conjureId="2288" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Stone Shower" words="adori mas tera" lvl="1" mana="600" soul="1" prem="1" reagentId="2260" conjureId="2288" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Druid" />
 		<vocation name="Elder Druid" />
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</conjure>
-	<conjure name="Thunderstorm" words="adori mas vis" lvl="1" mana="430" soul="1" prem="1" reagentId="2260" conjureId="2315" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
+	<conjure name="Thunderstorm" words="adori mas vis" lvl="1" mana="600" soul="1" prem="1" reagentId="2260" conjureId="2315" conjureCount="4" exhaustion="500" groupcooldown="500" needlearn="0" function="conjureRune">
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 		<vocation name="Knight" />

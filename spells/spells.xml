@@ -191,7 +191,7 @@
 		<vocation name="Royal Paladin" />
 		<vocation name="Elite Knight" />
 	</instant>
-	<instant group="attack" spellid="106" name="Groundshaker" words="exori mas" lvl="33" mana="340" prem="1" needweapon="1" exhaustion="2000" groupcooldown="500" needlearn="0" script="attack/groundshaker.lua">
+	<instant group="attack" spellid="106" name="Groundshaker" words="exori mas" lvl="33" mana="100" prem="1" needweapon="1" exhaustion="2000" groupcooldown="500" needlearn="0" script="attack/groundshaker.lua">
 		<vocation name="Knight" />
 		<vocation name="Elite Knight" />
 	</instant>

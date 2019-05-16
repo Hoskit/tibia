@@ -251,7 +251,7 @@
 		<vocation name="Elder Druid" />
 		<vocation name="Royal Paladin" />
 	</instant>
-	<instant group="healing" spellid="160" name="Intense Recovery" words="utura gran" lvl="100" mana="165" aggressive="0" selftarget="1" exhaustion="45000" groupcooldown="500" needlearn="0" script="healing/intense recovery.lua">
+	<instant group="healing" spellid="160" name="Intense Recovery" words="utura gran" lvl="100" mana="265" aggressive="0" selftarget="1" exhaustion="45000" groupcooldown="500" needlearn="0" script="healing/intense recovery.lua">
 		<vocation name="Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Royal Paladin" />
@@ -345,7 +345,7 @@
 		<vocation name="Sorcerer" />
 		<vocation name="Master Sorcerer" />
 	</instant>
-	<instant group="healing" spellid="159" name="Recovery" words="utura" lvl="50" mana="750" aggressive="0" selftarget="1" exhaustion="45000" groupcooldown="500" needlearn="0" script="healing/recovery.lua">
+	<instant group="healing" spellid="159" name="Recovery" words="utura" lvl="50" mana="150" aggressive="0" selftarget="1" exhaustion="45000" groupcooldown="500" needlearn="0" script="healing/recovery.lua">
 		<vocation name="Paladin" />
 		<vocation name="Knight" />
 		<vocation name="Royal Paladin" />

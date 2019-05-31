@@ -20,7 +20,7 @@ local function creatureSayCallback(cid, type, msg)
 	if not npcHandler:isFocused(cid) then
 		return false
 	end
-	if isInArray({"back", "leave", "passage"}, msg) then
+	if isInArray({"back", "leave", "passage", "eclipse", "return"}, msg) then
 		npcHandler:say('Do you really want to leave this unholy place?', cid)
 		npcHandler.topic[cid] = 1
 	elseif(msgcontains(msg, "yes")) then

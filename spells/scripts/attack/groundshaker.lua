@@ -3,7 +3,7 @@ combat:setParameter(COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 combat:setParameter(COMBAT_PARAM_EFFECT, CONST_ME_GROUNDSHAKER)
 combat:setParameter(COMBAT_PARAM_USECHARGES, 1)
 
-local area = createCombatArea(AREA_CIRCLE3X3)
+local area = createCombatArea(AREA_CROSS5X5)
 combat:setArea(area)
 
 function onGetFormulaValues(player, skill, attack, factor)

@@ -3505,9 +3505,9 @@
 		<attribute key="description" value="The staff longs for death." />
 		<attribute key="weight" value="1700" />
 		<attribute key="defense" value="12" />
-		<attribute key="attack" value="26" />
+		<attribute key="attack" value="20" />
 		<attribute key="weaponType" value="sword" />
-		<attribute key="elementIce" value="27" />
+		<attribute key="elementIce" value="25" />
 		<attribute key="extradef" value="1" />
 		<attribute key="range" value="2" />
 	</item>

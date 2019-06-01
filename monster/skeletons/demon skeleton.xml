@@ -27,11 +27,11 @@
     <defenses armor="30" defense="30"/>
     <elements>
         <element holyPercent="-100"/>
+		<element firePercent="-20"/>
     </elements>
     <immunities>
         <immunity paralyze="1"/>
         <immunity death="1"/>
-        <immunity fire="1"/>
         <immunity earth="1"/>
         <immunity drown="1"/>
         <immunity lifedrain="1"/>

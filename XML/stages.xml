@@ -4,15 +4,14 @@
 	<stage minlevel="1" maxlevel="19" multiplier="1" />
 	<stage minlevel="20" maxlevel="34" multiplier="2" />
 	<stage minlevel="35" maxlevel="54" multiplier="3" />
-	<stage minlevel="55" maxlevel="74" multiplier="4" />
-	<stage minlevel="75" maxlevel="99" multiplier="5" />
-	<stage minlevel="100" maxlevel="135" multiplier="7" />
-	<stage minlevel="136" maxlevel="170" multiplier="9" />
-	<stage minlevel="171" maxlevel="210" multiplier="11" />
-	<stage minlevel="211" maxlevel="250" multiplier="13" />
-	<stage minlevel="251" maxlevel="300" multiplier="16" />
-	<stage minlevel="301" maxlevel="400" multiplier="20" />
-	<stage minlevel="401" maxlevel="500" multiplier="24" />
-	<stage minlevel="501" maxlevel="600" multiplier="28" />
-	<stage minlevel="601" multiplier="30" />
+	<stage minlevel="55" maxlevel="99" multiplier="4" />
+	<stage minlevel="100" maxlevel="135" multiplier="5" />
+	<stage minlevel="136" maxlevel="170" multiplier="6" />
+	<stage minlevel="171" maxlevel="210" multiplier="7" />
+	<stage minlevel="211" maxlevel="250" multiplier="8" />
+	<stage minlevel="251" maxlevel="300" multiplier="9" />
+	<stage minlevel="301" maxlevel="400" multiplier="10" />
+	<stage minlevel="401" maxlevel="500" multiplier="11" />
+	<stage minlevel="501" maxlevel="600" multiplier="12" />
+	<stage minlevel="601" multiplier="13" />
 </stages>
